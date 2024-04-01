@@ -25,3 +25,5 @@ A Repo that tries to keep track of the nerfs and buffs of CSR2.
  - Pagani Utopia (PS)<br>
  - Rimac Nevera (GS)<br>
  - Rimac Nevera (PS)<br>
+ <br>
+ 2. Nerfs & Buffs
