@@ -25,4 +25,6 @@ Rimac Nevera (GS)<br>
 Rimac Nevera (PS)<br>
 <br>
 **Nerfs & Buffs**<br>
+No buffs were detected.<br>
 ### Update 4.9.0
+Created the Project<br>
