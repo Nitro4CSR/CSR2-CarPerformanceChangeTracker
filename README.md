@@ -5,33 +5,32 @@ A Repo that tries to keep track of the nerfs and buffs of CSR2.
 <br>
 **Update 5.0.0**
 <br>
- 1. Additions
- - Aston Martin DB12
- - Aston Martin Valkyrie AMR Pro
- - Aston Martin Walkyrie Spider
- - Aston Martin Valour
- - Aston Marting Vantage GTE
- - Audi R8 V10 GT RWD (GS)
- - Audi R8 V10 GT RWD (PS)
- - Audi RS 3 performance edition (GS)
- - Audi RS 3 performance edition (PS)
- - Bentley Batur by Mulliner (GS)
- - Bentley Batur by Mulliner (PS)
- - Chevrolet Rocket Bunny Z28
- - Honda 1992 NSX Type R
- - Mitsubishi Voltex Evolution IX (GS)
- - Mitsubishi Voltex Evolution IX (PS)
- - Pagani Utopia (GS)
- - Pagani Utopia (PS)
- - Rimac Nevera (GS)
- - Rimac Nevera (PS)
+ 1. Additions<br>
+ - Aston Martin DB12<br>
+ - Aston Martin Valkyrie AMR Pro<br>
+ - Aston Martin Walkyrie Spider<br>
+ - Aston Martin Valour<br>
+ - Aston Marting Vantage GTE<br>
+ - Audi R8 V10 GT RWD (GS)<br>
+ - Audi R8 V10 GT RWD (PS)<br>
+ - Audi RS 3 performance edition (GS)<br>
+ - Audi RS 3 performance edition (PS)<br>
+ - Bentley Batur by Mulliner (GS)<br>
+ - Bentley Batur by Mulliner (PS)<br>
+ - Chevrolet Rocket Bunny Z28<br>
+ - Honda 1992 NSX Type R<br>
+ - Mitsubishi Voltex Evolution IX (GS)<br>
+ - Mitsubishi Voltex Evolution IX (PS)<br>
+ - Pagani Utopia (GS)<br>
+ - Pagani Utopia (PS)<br>
+ - Rimac Nevera (GS)<br>
+ - Rimac Nevera (PS)<br>
 <br>
  2. Nerfs/Buffs
- - No buffs were detected.
+ - No buffs were detected.<br>
 <br>
 ## History
 <br>
 **Update 4.9.0**
 <br>
- - Created the Project
-<br>
+ - Created the Project<br>
