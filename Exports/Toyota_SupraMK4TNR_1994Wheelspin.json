@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Toyota_SupraMK4TNR_1994Wheelspin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1007.00134,
+        "value": 0.598979056,
+        "inSlope": 1.92270763E-05,
+        "outSlope": 1.92270763E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4237.993,
+        "value": 0.6611016,
+        "inSlope": 1.92270763E-05,
+        "outSlope": -0.0005143823,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5269.47949,
+        "value": 0.13052325,
+        "inSlope": -0.0005143823,
+        "outSlope": -0.0003186792,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5679.055,
+        "value": 0.0,
+        "inSlope": -0.0003186792,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6144.193,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.000534723338,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6569.76,
+        "value": 0.22756055,
+        "inSlope": 0.000534723338,
+        "outSlope": 0.00163853413,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6786.63232,
+        "value": 0.582913637,
+        "inSlope": 0.00163853413,
+        "outSlope": 0.000492075458,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7196.30127,
+        "value": 0.7845017,
+        "inSlope": 0.000492075458,
+        "outSlope": 9.18072838E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "AstonMartin_Victor_2020BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 130.6174,
+        "inSlope": -0.00258892053,
+        "outSlope": -0.00258892053,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1400.0,
+        "value": 129.581833,
+        "inSlope": -0.00258892053,
+        "outSlope": -0.00034286498,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1700.0,
+        "value": 129.478973,
+        "inSlope": -0.00034286498,
+        "outSlope": 3.86387658,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1800.0,
+        "value": 515.866638,
+        "inSlope": 3.86387658,
+        "outSlope": 0.010052396,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2450.0,
+        "value": 522.4007,
+        "inSlope": 0.010052396,
+        "outSlope": 0.008293927,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3100.0,
+        "value": 527.791748,
+        "inSlope": 0.008293927,
+        "outSlope": 0.0387901478,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4000.0,
+        "value": 562.7029,
+        "inSlope": 0.0387901478,
+        "outSlope": 0.0224519037,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4500.0,
+        "value": 573.928833,
+        "inSlope": 0.0224519037,
+        "outSlope": 0.0163989253,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5050.0,
+        "value": 582.948242,
+        "inSlope": 0.0163989253,
+        "outSlope": 0.00680719549,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5600.0,
+        "value": 586.6922,
+        "inSlope": 0.00680719549,
+        "outSlope": -0.0051323995,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6250.0,
+        "value": 583.35614,
+        "inSlope": -0.0051323995,
+        "outSlope": -0.0118339658,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6900.0,
+        "value": 575.664063,
+        "inSlope": -0.0118339658,
+        "outSlope": -0.0167673212,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7850.0,
+        "value": 559.7351,
+        "inSlope": -0.0167673212,
+        "outSlope": -0.936530352,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8000.0,
+        "value": 419.255554,
+        "inSlope": -0.936530352,
+        "outSlope": -0.936530352,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

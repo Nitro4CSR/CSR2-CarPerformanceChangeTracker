@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "CaliforniaTEngine1",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 9.973401,
+        "inSlope": 0.007104371,
+        "outSlope": 0.0145018324,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1150.0,
+        "value": 12.1486759,
+        "inSlope": 0.0145018324,
+        "outSlope": 0.00603878638,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1450.0,
+        "value": 13.9603119,
+        "inSlope": 0.00603878638,
+        "outSlope": 0.00582004944,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1700.0,
+        "value": 15.4153242,
+        "inSlope": 0.00582004944,
+        "outSlope": 0.00281155272,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2150.0,
+        "value": 16.6805229,
+        "inSlope": 0.00281155272,
+        "outSlope": 0.0013025977,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2700.0,
+        "value": 17.3969517,
+        "inSlope": 0.0013025977,
+        "outSlope": 0.000536643958,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3200.0,
+        "value": 17.6652737,
+        "inSlope": 0.000536643958,
+        "outSlope": 0.000252928061,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3900.0,
+        "value": 17.8423233,
+        "inSlope": 0.000252928061,
+        "outSlope": -0.0002228403,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

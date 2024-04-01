@@ -1,0 +1,127 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Cadillac_CT5VBlackwingReward_2022BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 131.703674,
+        "inSlope": 0.00687266048,
+        "outSlope": 0.00687266048,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1450.0,
+        "value": 134.796371,
+        "inSlope": 0.00687266048,
+        "outSlope": 0.0102591552,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1700.0,
+        "value": 137.36116,
+        "inSlope": 0.0102591552,
+        "outSlope": 0.134607032,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2200.0,
+        "value": 204.664673,
+        "inSlope": 0.134607032,
+        "outSlope": 0.202753022,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2750.0,
+        "value": 316.178833,
+        "inSlope": 0.202753022,
+        "outSlope": 0.209461972,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3250.0,
+        "value": 420.909821,
+        "inSlope": 0.209461972,
+        "outSlope": 0.235550463,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3700.0,
+        "value": 526.907532,
+        "inSlope": 0.235550463,
+        "outSlope": 0.184510961,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4350.0,
+        "value": 646.839661,
+        "inSlope": 0.184510961,
+        "outSlope": 0.112920858,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5000.0,
+        "value": 720.2382,
+        "inSlope": 0.112920858,
+        "outSlope": -0.150395587,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5750.0,
+        "value": 607.4415,
+        "inSlope": -0.150395587,
+        "outSlope": -0.228545159,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6250.0,
+        "value": 493.168945,
+        "inSlope": -0.228545159,
+        "outSlope": -0.269224852,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6600.0,
+        "value": 398.940247,
+        "inSlope": -0.269224852,
+        "outSlope": -0.269224852,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

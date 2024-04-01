@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "VenomGTTurbo6",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1100.0,
+        "value": 0.0,
+        "inSlope": 0.006455007,
+        "outSlope": 0.006455007,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1300.0,
+        "value": 1.29100144,
+        "inSlope": 0.006455007,
+        "outSlope": 0.0124809453,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1800.0,
+        "value": 7.531474,
+        "inSlope": 0.0124809453,
+        "outSlope": 0.006494772,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2300.0,
+        "value": 10.77886,
+        "inSlope": 0.006494772,
+        "outSlope": 0.002303843,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3350.0,
+        "value": 13.1978951,
+        "inSlope": 0.002303843,
+        "outSlope": 0.000326245034,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4450.0,
+        "value": 13.5567646,
+        "inSlope": 0.000326245034,
+        "outSlope": -0.0001979208,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5250.0,
+        "value": 13.398428,
+        "inSlope": -0.0001979208,
+        "outSlope": -0.000373158167,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6100.0,
+        "value": 13.0812435,
+        "inSlope": -0.000373158167,
+        "outSlope": -0.008654922,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6650.0,
+        "value": 8.321036,
+        "inSlope": -0.008654922,
+        "outSlope": -0.004112508,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7000.0,
+        "value": 6.88165855,
+        "inSlope": -0.004112508,
+        "outSlope": -0.004112508,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

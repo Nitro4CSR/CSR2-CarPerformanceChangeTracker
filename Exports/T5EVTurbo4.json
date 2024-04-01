@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "T5EVTurbo4",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 29.9086,
+        "inSlope": 0.0002141571,
+        "outSlope": 0.0002141571,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1800.0,
+        "value": 30.0799255,
+        "inSlope": 0.0002141571,
+        "outSlope": 0.000279759,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2500.0,
+        "value": 30.2757568,
+        "inSlope": 0.000279759,
+        "outSlope": -0.000157185874,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3250.0,
+        "value": 30.1578674,
+        "inSlope": -0.000157185874,
+        "outSlope": 0.000231018072,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3950.0,
+        "value": 30.31958,
+        "inSlope": 0.000231018072,
+        "outSlope": 2.00195318E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4950.0,
+        "value": 30.3396,
+        "inSlope": 2.00195318E-05,
+        "outSlope": -2.721838E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6800.0,
+        "value": 30.3345642,
+        "inSlope": -2.721838E-06,
+        "outSlope": 0.0108080888,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "CorvetteC7RIntake6",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 5.108857,
+        "inSlope": 0.00125122431,
+        "outSlope": 0.00260612834,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1850.0,
+        "value": 7.324066,
+        "inSlope": 0.00260612834,
+        "outSlope": 0.00134547777,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2550.0,
+        "value": 8.265901,
+        "inSlope": 0.00134547777,
+        "outSlope": 0.000410289038,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3850.0,
+        "value": 8.799276,
+        "inSlope": 0.000410289038,
+        "outSlope": -0.000103980878,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5200.0,
+        "value": 8.658902,
+        "inSlope": -0.000103980878,
+        "outSlope": 1.180172E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Porsche_911TurboS_2021WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1069.518,
+        "value": 0.5518918,
+        "inSlope": -2.52456948E-06,
+        "outSlope": -2.52456948E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2868.988,
+        "value": 0.5473489,
+        "inSlope": -2.52456948E-06,
+        "outSlope": -0.102550581,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2871.85986,
+        "value": 0.252841473,
+        "inSlope": -0.102550581,
+        "outSlope": -0.0006405052,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3266.613,
+        "value": 0.0,
+        "inSlope": -0.0006405052,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3728.62939,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.00103592384,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3995.97729,
+        "value": 0.276952058,
+        "inSlope": 0.00103592384,
+        "outSlope": 0.00656869542,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4060.513,
+        "value": 0.700867057,
+        "inSlope": 0.00656869542,
+        "outSlope": 0.0001149049,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7976.943,
+        "value": 1.150884,
+        "inSlope": 0.0001149049,
+        "outSlope": 0.0001149049,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

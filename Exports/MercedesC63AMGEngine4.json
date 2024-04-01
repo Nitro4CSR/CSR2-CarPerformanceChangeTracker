@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "MercedesC63AMGEngine4",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 5.726249,
+        "inSlope": 0.00394567475,
+        "outSlope": 0.00377118867,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1250.0,
+        "value": 6.6690464,
+        "inSlope": 0.00377118867,
+        "outSlope": 0.00229365984,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1550.0,
+        "value": 7.35714436,
+        "inSlope": 0.00229365984,
+        "outSlope": 0.0008372923,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2200.0,
+        "value": 7.90138435,
+        "inSlope": 0.0008372923,
+        "outSlope": 0.0002727216,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2950.0,
+        "value": 8.105926,
+        "inSlope": 0.0002727216,
+        "outSlope": 8.68437055E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3850.0,
+        "value": 8.184085,
+        "inSlope": 8.68437055E-05,
+        "outSlope": 2.09592181E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5350.0,
+        "value": 8.215524,
+        "inSlope": 2.09592181E-05,
+        "outSlope": -2.108841E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

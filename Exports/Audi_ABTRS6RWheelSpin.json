@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Audi_ABTRS6RWheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 2872.51929,
+        "value": 0.376952559,
+        "inSlope": 1.388232E-05,
+        "outSlope": -6.92622853E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4892.234,
+        "value": 0.237062514,
+        "inSlope": -6.92622853E-05,
+        "outSlope": -0.0005996201,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5287.58838,
+        "value": 0.0,
+        "inSlope": -0.0005996201,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5690.259,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0005154307,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6127.28174,
+        "value": 0.225255042,
+        "inSlope": 0.0005154307,
+        "outSlope": 0.000430549262,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6452.25732,
+        "value": 0.365173042,
+        "inSlope": 0.000430549262,
+        "outSlope": 0.000125871142,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7643.276,
+        "value": 0.5150879,
+        "inSlope": 0.000125871142,
+        "outSlope": 0.000234458537,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

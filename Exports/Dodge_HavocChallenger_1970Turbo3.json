@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Dodge_HavocChallenger_1970Turbo3",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 1.97698176,
+        "inSlope": 4.46522245E-06,
+        "outSlope": 4.46522245E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2000.0,
+        "value": 1.981447,
+        "inSlope": 4.46522245E-06,
+        "outSlope": 3.87524319,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2002.00012,
+        "value": 9.732407,
+        "inSlope": 3.87524319,
+        "outSlope": 0.00525439251,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2600.0,
+        "value": 12.8745327,
+        "inSlope": 0.00525439251,
+        "outSlope": 0.0005643855,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3500.0,
+        "value": 13.38248,
+        "inSlope": 0.0005643855,
+        "outSlope": -0.00120921945,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5550.0,
+        "value": 10.90358,
+        "inSlope": -0.00120921945,
+        "outSlope": -0.0005330615,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6320.39941,
+        "value": 10.4929094,
+        "inSlope": -0.0005330615,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

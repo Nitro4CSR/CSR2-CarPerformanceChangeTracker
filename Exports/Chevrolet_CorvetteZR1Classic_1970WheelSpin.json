@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Chevrolet_CorvetteZR1Classic_1970WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1007.00134,
+        "value": 0.598979056,
+        "inSlope": 1.92270763E-05,
+        "outSlope": 1.92270763E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4237.993,
+        "value": 0.6611016,
+        "inSlope": 1.92270763E-05,
+        "outSlope": -0.0027000627,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4354.073,
+        "value": 0.3476781,
+        "inSlope": -0.0027000627,
+        "outSlope": -0.000239995556,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5802.759,
+        "value": 0.0,
+        "inSlope": -0.000239995556,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6168.71533,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.001014554,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6545.04346,
+        "value": 0.381805241,
+        "inSlope": 0.001014554,
+        "outSlope": 0.0009850489,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6947.44629,
+        "value": 0.778191745,
+        "inSlope": 0.0009850489,
+        "outSlope": 0.000152946959,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7975.634,
+        "value": 0.9354499,
+        "inSlope": 0.000152946959,
+        "outSlope": 9.18072838E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

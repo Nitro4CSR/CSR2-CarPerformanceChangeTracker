@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "VelosterTurbo2",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 5.59997272,
+        "inSlope": 0.00251539936,
+        "outSlope": 0.00236154068,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1400.0,
+        "value": 6.544589,
+        "inSlope": 0.00236154068,
+        "outSlope": 0.000196726061,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1850.0,
+        "value": 6.633116,
+        "inSlope": 0.000196726061,
+        "outSlope": 0.000204914322,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2700.0,
+        "value": 6.807293,
+        "inSlope": 0.000204914322,
+        "outSlope": 0.000605874637,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3950.0,
+        "value": 7.564636,
+        "inSlope": 0.000605874637,
+        "outSlope": -3.225287E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5150.0,
+        "value": 7.525933,
+        "inSlope": -3.225287E-05,
+        "outSlope": -0.0006224839,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6650.0,
+        "value": 6.592207,
+        "inSlope": -0.0006224839,
+        "outSlope": -0.0005801862,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

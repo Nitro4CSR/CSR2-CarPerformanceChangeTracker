@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "SCG003SIntake3",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1050.0,
+        "value": 3.60129976,
+        "inSlope": 0.00306129525,
+        "outSlope": 0.00316033675,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1350.0,
+        "value": 4.549401,
+        "inSlope": 0.00316033675,
+        "outSlope": 0.000960972335,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2750.0,
+        "value": 5.894762,
+        "inSlope": 0.000960972335,
+        "outSlope": -2.09880454E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4800.0,
+        "value": 5.85173655,
+        "inSlope": -2.09880454E-05,
+        "outSlope": -0.000198809721,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6350.0,
+        "value": 5.54358149,
+        "inSlope": -0.000198809721,
+        "outSlope": -0.000165240766,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

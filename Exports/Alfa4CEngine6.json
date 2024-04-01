@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Alfa4CEngine6",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 11.779789,
+        "inSlope": 0.0008450508,
+        "outSlope": 0.0008450508,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1700.0,
+        "value": 12.3713245,
+        "inSlope": 0.0008450508,
+        "outSlope": 0.0007215965,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2500.0,
+        "value": 12.9486017,
+        "inSlope": 0.0007215965,
+        "outSlope": 0.000368282315,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3250.0,
+        "value": 13.2248135,
+        "inSlope": 0.000368282315,
+        "outSlope": 0.00015910744,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4050.0,
+        "value": 13.3520994,
+        "inSlope": 0.00015910744,
+        "outSlope": 5.52573038E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6750.0,
+        "value": 13.5012941,
+        "inSlope": 5.52573038E-05,
+        "outSlope": -0.0005941081,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

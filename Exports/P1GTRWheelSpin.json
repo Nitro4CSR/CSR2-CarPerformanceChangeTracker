@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "P1GTRWheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1045.41858,
+        "value": 0.86960876,
+        "inSlope": 2.01109415E-05,
+        "outSlope": 2.01109415E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5165.611,
+        "value": 0.9524697,
+        "inSlope": 2.01109415E-05,
+        "outSlope": -0.0009397043,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6179.19531,
+        "value": 0.0,
+        "inSlope": -0.0009397043,
+        "outSlope": 6.300116E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6760.07373,
+        "value": 0.00355986413,
+        "inSlope": 6.300116E-06,
+        "outSlope": 0.000612731266,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8505.02,
+        "value": 1.06918287,
+        "inSlope": 0.000612731266,
+        "outSlope": 7.626836E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 9963.473,
+        "value": 1.1804167,
+        "inSlope": 7.626836E-05,
+        "outSlope": 7.626836E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "F3LancerEvolutionIXEngine4",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 4.82631254,
+        "inSlope": 0.01275823,
+        "outSlope": 0.01275823,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1150.0,
+        "value": 6.740047,
+        "inSlope": 0.01275823,
+        "outSlope": 0.00565302838,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1350.0,
+        "value": 7.87065268,
+        "inSlope": 0.00565302838,
+        "outSlope": 0.0009451451,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2050.0,
+        "value": 8.532254,
+        "inSlope": 0.0009451451,
+        "outSlope": 0.000476520334,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2950.0,
+        "value": 8.96112251,
+        "inSlope": 0.000476520334,
+        "outSlope": 0.0003502265,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4050.0,
+        "value": 9.346372,
+        "inSlope": 0.0003502265,
+        "outSlope": -0.00030869912,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5500.0,
+        "value": 8.898758,
+        "inSlope": -0.00030869912,
+        "outSlope": -0.000179430208,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

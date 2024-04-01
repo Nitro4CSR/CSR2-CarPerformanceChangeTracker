@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "MiniCooperSTurbo1",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 0.34181267,
+        "inSlope": -2.078942E-05,
+        "outSlope": -2.078942E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2249.9978,
+        "value": 0.315825939,
+        "inSlope": -2.078942E-05,
+        "outSlope": 0.8192601,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2252.25,
+        "value": 2.16096139,
+        "inSlope": 0.8192601,
+        "outSlope": 0.0007093781,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3000.0,
+        "value": 2.69139886,
+        "inSlope": 0.0007093781,
+        "outSlope": 0.003439297,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3750.0,
+        "value": 5.27087164,
+        "inSlope": 0.003439297,
+        "outSlope": 0.00198451034,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4400.0,
+        "value": 6.56080341,
+        "inSlope": 0.00198451034,
+        "outSlope": -0.00331878755,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5200.0,
+        "value": 3.9057734,
+        "inSlope": -0.00331878755,
+        "outSlope": -0.0006298964,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6200.0,
+        "value": 3.275877,
+        "inSlope": -0.0006298964,
+        "outSlope": -0.0006298964,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

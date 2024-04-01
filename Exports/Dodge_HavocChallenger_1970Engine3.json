@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Dodge_HavocChallenger_1970Engine3",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 8.167406,
+        "inSlope": 0.0037017155,
+        "outSlope": 0.00345434179,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1350.0,
+        "value": 9.376426,
+        "inSlope": 0.00345434179,
+        "outSlope": 0.00303302449,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1650.0,
+        "value": 10.2863331,
+        "inSlope": 0.00303302449,
+        "outSlope": 0.00126188062,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2100.0,
+        "value": 10.8541794,
+        "inSlope": 0.00126188062,
+        "outSlope": 0.000779461348,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2550.0,
+        "value": 11.204937,
+        "inSlope": 0.000779461348,
+        "outSlope": 0.0007654146,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3200.0,
+        "value": 11.7024565,
+        "inSlope": 0.0007654146,
+        "outSlope": 0.0004982516,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3950.0,
+        "value": 12.0761452,
+        "inSlope": 0.0004982516,
+        "outSlope": 0.000141385244,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6000.0,
+        "value": 12.3659849,
+        "inSlope": 0.000141385244,
+        "outSlope": 0.000152955938,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

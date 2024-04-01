@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Chevrolet_COPOCamaro_2019WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 994.584534,
+        "value": 0.725303054,
+        "inSlope": 5.52335223E-06,
+        "outSlope": 5.52335223E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4162.3,
+        "value": 0.742799461,
+        "inSlope": 5.52335223E-06,
+        "outSlope": -0.0006213568,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5185.35352,
+        "value": 0.107118025,
+        "inSlope": -0.0006213568,
+        "outSlope": -0.000202362469,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5714.691,
+        "value": 0.0,
+        "inSlope": -0.000202362469,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6215.942,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0003696699,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6648.032,
+        "value": 0.159730792,
+        "inSlope": 0.0003696699,
+        "outSlope": 0.0911648,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6654.687,
+        "value": 0.7664129,
+        "inSlope": 0.0911648,
+        "outSlope": 0.00016990563,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8792.545,
+        "value": 1.129647,
+        "inSlope": 0.00016990563,
+        "outSlope": 0.000112104,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

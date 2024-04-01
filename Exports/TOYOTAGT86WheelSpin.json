@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "TOYOTAGT86WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1008.42706,
+        "value": 0.6731484,
+        "inSlope": -0.000146202132,
+        "outSlope": -0.000146202132,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4051.75586,
+        "value": 0.228207216,
+        "inSlope": -0.000146202132,
+        "outSlope": -0.000235709726,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4432.42334,
+        "value": 0.138480186,
+        "inSlope": -0.000235709726,
+        "outSlope": -0.0008825225,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4589.3374,
+        "value": 0.0,
+        "inSlope": -0.0008825225,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5512.97656,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.009189181,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5547.251,
+        "value": 0.3149538,
+        "inSlope": 0.009189181,
+        "outSlope": 0.000385531632,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7020.40234,
+        "value": 0.882900238,
+        "inSlope": 0.000385531632,
+        "outSlope": 0.000139236421,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8792.545,
+        "value": 1.129647,
+        "inSlope": 0.000139236421,
+        "outSlope": 0.000139236421,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "VelosterEngine6",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 9.9562645,
+        "inSlope": 0.0008316644,
+        "outSlope": 0.0008316644,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1900.0,
+        "value": 10.7047625,
+        "inSlope": 0.0008316644,
+        "outSlope": 0.000390343659,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2500.0,
+        "value": 10.9389687,
+        "inSlope": 0.000390343659,
+        "outSlope": 6.104045E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4300.0,
+        "value": 11.0488415,
+        "inSlope": 6.104045E-05,
+        "outSlope": 0.00062896387,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5700.0,
+        "value": 11.9293909,
+        "inSlope": 0.00062896387,
+        "outSlope": -0.0004776181,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6600.0,
+        "value": 11.4995346,
+        "inSlope": -0.0004776181,
+        "outSlope": -0.0004776181,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

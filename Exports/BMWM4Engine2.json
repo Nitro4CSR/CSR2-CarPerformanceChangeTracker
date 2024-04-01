@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "BMWM4Engine2",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 4.391399,
+        "inSlope": 0.00123706553,
+        "outSlope": 0.00111908652,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1550.0,
+        "value": 5.0068965,
+        "inSlope": 0.00111908652,
+        "outSlope": 0.0006026878,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2050.0,
+        "value": 5.30824041,
+        "inSlope": 0.0006026878,
+        "outSlope": 0.0003540058,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2800.0,
+        "value": 5.573745,
+        "inSlope": 0.0003540058,
+        "outSlope": 8.458546E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3850.0,
+        "value": 5.66255951,
+        "inSlope": 8.458546E-05,
+        "outSlope": -8.722193E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4700.0,
+        "value": 5.65514565,
+        "inSlope": -8.722193E-06,
+        "outSlope": -0.0001605239,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5700.0,
+        "value": 5.49462175,
+        "inSlope": -0.0001605239,
+        "outSlope": 1.505661E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

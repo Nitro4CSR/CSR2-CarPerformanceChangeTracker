@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Porsche_911GT3_2022WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 3166.75464,
+        "value": 0.3379353,
+        "inSlope": -4.822309E-06,
+        "outSlope": -0.00010424346,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5197.272,
+        "value": 0.12626715,
+        "inSlope": -0.00010424346,
+        "outSlope": -0.0001220201,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6232.078,
+        "value": 0.0,
+        "inSlope": -0.0001220201,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6696.75,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.000110149434,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7650.153,
+        "value": 0.105016783,
+        "inSlope": 0.000110149434,
+        "outSlope": 0.000156268536,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 9884.318,
+        "value": 0.454146564,
+        "inSlope": 0.000156268536,
+        "outSlope": 0.000162519151,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

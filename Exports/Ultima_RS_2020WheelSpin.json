@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Ultima_RS_2020WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1045.41858,
+        "value": 0.86960876,
+        "inSlope": -8.778872E-05,
+        "outSlope": -0.000222221672,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3753.88867,
+        "value": 0.267728,
+        "inSlope": -0.000222221672,
+        "outSlope": -0.000269343931,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4747.889,
+        "value": 0.0,
+        "inSlope": -0.000269343931,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5337.744,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0001902331,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7010.22754,
+        "value": 0.3181617,
+        "inSlope": 0.0001902331,
+        "outSlope": 0.000291968667,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 9963.473,
+        "value": 1.1804167,
+        "inSlope": 0.000291968667,
+        "outSlope": 0.0002315268,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

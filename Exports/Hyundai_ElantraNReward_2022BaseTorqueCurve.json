@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Hyundai_ElantraNReward_2022BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1050.0,
+        "value": 94.21275,
+        "inSlope": 0.07408986,
+        "outSlope": 0.04137928,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2250.0,
+        "value": 143.867889,
+        "inSlope": 0.04137928,
+        "outSlope": 0.05734197,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3400.0,
+        "value": 209.811157,
+        "inSlope": 0.05734197,
+        "outSlope": 0.0501446873,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4300.0,
+        "value": 254.941376,
+        "inSlope": 0.0501446873,
+        "outSlope": 0.0582870133,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4750.0,
+        "value": 281.170532,
+        "inSlope": 0.0582870133,
+        "outSlope": 0.0289273784,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5400.0,
+        "value": 299.973328,
+        "inSlope": 0.0289273784,
+        "outSlope": -0.07305827,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6000.0,
+        "value": 256.138367,
+        "inSlope": -0.07305827,
+        "outSlope": -0.103111155,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6400.0,
+        "value": 214.8939,
+        "inSlope": -0.103111155,
+        "outSlope": -0.18339172,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

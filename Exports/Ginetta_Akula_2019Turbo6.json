@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Ginetta_Akula_2019Turbo6",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1100.0,
+        "value": 0.0,
+        "inSlope": 0.006455007,
+        "outSlope": 0.006455007,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1300.0,
+        "value": 1.29100144,
+        "inSlope": 0.006455007,
+        "outSlope": 0.0124809453,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1800.0,
+        "value": 7.531474,
+        "inSlope": 0.0124809453,
+        "outSlope": 0.008512178,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2300.0,
+        "value": 11.7875633,
+        "inSlope": 0.008512178,
+        "outSlope": 0.00232198881,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3400.0,
+        "value": 14.3417511,
+        "inSlope": 0.00232198881,
+        "outSlope": 0.000383498438,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4500.0,
+        "value": 14.7635994,
+        "inSlope": 0.000383498438,
+        "outSlope": -3.55275483E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5250.0,
+        "value": 14.7609348,
+        "inSlope": -3.55275483E-06,
+        "outSlope": -0.000365491753,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6100.0,
+        "value": 14.4502668,
+        "inSlope": -0.000365491753,
+        "outSlope": -0.00198362349,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6600.0,
+        "value": 13.4584551,
+        "inSlope": -0.00198362349,
+        "outSlope": -0.00348869176,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7250.0,
+        "value": 11.1908054,
+        "inSlope": -0.00348869176,
+        "outSlope": -0.001442155,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "InfinitiQ60WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1024.98022,
+        "value": 0.6903242,
+        "inSlope": 1.388232E-05,
+        "outSlope": 1.388232E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3611.27368,
+        "value": 0.726227939,
+        "inSlope": 1.388232E-05,
+        "outSlope": -0.0006266296,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4757.96045,
+        "value": 0.007680063,
+        "inSlope": -0.0006266296,
+        "outSlope": -1.74403667E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5198.322,
+        "value": 0.0,
+        "inSlope": -1.74403667E-05,
+        "outSlope": 0.00135728531,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5831.67529,
+        "value": 0.859641433,
+        "inSlope": 0.00135728531,
+        "outSlope": 0.000221956972,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6427.62354,
+        "value": 0.9919163,
+        "inSlope": 0.000221956972,
+        "outSlope": 0.000234458537,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7963.51563,
+        "value": 1.35201931,
+        "inSlope": 0.000234458537,
+        "outSlope": 0.000234458537,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

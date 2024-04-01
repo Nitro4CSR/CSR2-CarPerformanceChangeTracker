@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "AventadorEngine2",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 8.754328,
+        "inSlope": 0.0138880126,
+        "outSlope": 0.0138880126,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1550.0,
+        "value": 16.3927345,
+        "inSlope": 0.0138880126,
+        "outSlope": 0.0125624342,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1850.0,
+        "value": 20.1614647,
+        "inSlope": 0.0125624342,
+        "outSlope": 0.00277754152,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2450.0,
+        "value": 21.82799,
+        "inSlope": 0.00277754152,
+        "outSlope": 0.00142671482,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3400.0,
+        "value": 23.1833687,
+        "inSlope": 0.00142671482,
+        "outSlope": 0.0004343499,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4750.0,
+        "value": 23.7697411,
+        "inSlope": 0.0004343499,
+        "outSlope": 0.000252619066,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6500.0,
+        "value": 24.2118244,
+        "inSlope": 0.000252619066,
+        "outSlope": 0.00010082245,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

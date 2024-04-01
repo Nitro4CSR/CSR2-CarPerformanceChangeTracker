@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Dodge_HavocChallenger_1970Turbo6",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1100.0,
+        "value": 0.0,
+        "inSlope": 0.006455007,
+        "outSlope": 0.0222599562,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1350.0,
+        "value": 5.564989,
+        "inSlope": 0.0222599562,
+        "outSlope": 0.0131460978,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1700.0,
+        "value": 10.1661234,
+        "inSlope": 0.0131460978,
+        "outSlope": 0.00368503248,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2300.0,
+        "value": 12.3771429,
+        "inSlope": 0.00368503248,
+        "outSlope": 0.00133258908,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3450.0,
+        "value": 13.90962,
+        "inSlope": 0.00133258908,
+        "outSlope": 0.000206352415,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4500.0,
+        "value": 14.12629,
+        "inSlope": 0.000206352415,
+        "outSlope": -0.0003346753,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5300.0,
+        "value": 13.85855,
+        "inSlope": -0.0003346753,
+        "outSlope": -0.0009610033,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6100.0,
+        "value": 13.0897474,
+        "inSlope": -0.0009610033,
+        "outSlope": -0.004792778,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6700.0,
+        "value": 10.2140808,
+        "inSlope": -0.004792778,
+        "outSlope": -0.00417512562,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7400.0,
+        "value": 7.291493,
+        "inSlope": -0.00417512562,
+        "outSlope": -0.004112508,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

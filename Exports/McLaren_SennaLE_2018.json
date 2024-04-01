@@ -1,0 +1,2035 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5010576824879005575
+  },
+  "m_Name": "McLaren_SennaLE_2018",
+  "EcbValue": 0,
+  "CarType": 0,
+  "NeedsRestoration": 0,
+  "IsTunerStarsCar": 0,
+  "IsEVCar": 0,
+  "Key": "McLaren_SennaLE_2018",
+  "DisableNumberPlate": 0,
+  "ManufacturerID": "id_mclaren",
+  "CarEngineSound": 3,
+  "DSGGearBox": 0,
+  "ManufacturerName": "McLaren",
+  "DefaultLiveryBundleName": "",
+  "DefaultCustomisationBundleNames": [
+    ""
+  ],
+  "EliteOverrideCarAssetID": "",
+  "DriveType": 1,
+  "ModelPrefabString": "McLaren_SennaLE_2018",
+  "BaseCarTier": 4,
+  "BasePerformanceIndex": 603,
+  "FlyWheelPower": 789,
+  "IsAvailableInShowroomAndUpgrade": 1,
+  "Size": 0,
+  "IsOpenTopCar": 0,
+  "CarUnlocksInSeason": 0,
+  "CarUnlocksWithGacha": "",
+  "MechanicEngineFettleGraphSlope": 0.552317858,
+  "MechanicEngineFettleGraphIntercept": -359.752869,
+  "MechanicTyreGripFettleGraphSlope": 5.523149,
+  "MechanicTyreGripFettleGraphIntercept": -3597.508,
+  "EngineConsumableEngineGraphSlope": 0.6636803,
+  "EngineConsumableEngineGraphIntercept": -427.0942,
+  "EngineConsumableTyreGraphSlope": 6.63686848,
+  "EngineConsumableTyreGraphIntercept": -4270.9873,
+  "NitrousConsumableBodyGraphSlope": -1.70668387,
+  "NitrousConsumableBodyGraphIntercept": 1332.08923,
+  "TyreConsumableEngineGraphSlope": 0.335967243,
+  "TyreConsumableEngineGraphIntercept": -217.032074,
+  "TyreConsumableTyreGraphSlope": 3.35967255,
+  "TyreConsumableTyreGraphIntercept": -2170.3208,
+  "BaseRedlineRPM": 8500,
+  "OptimalLaunchRPM": 7000,
+  "TransmissionLoss": 35.0,
+  "BaseEngineData": {
+    "EngineRevRate": 9500.0,
+    "RevLimiterTime": 0.05,
+    "Classified": 0,
+    "_BaseTorqueCurve": {
+      "m_FileID": 0,
+      "m_PathID": -430949110269861380
+    },
+    "_BaseTorqueCurveEV": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "BaseChassisData": {
+    "Mass": 1133.981,
+    "CosmeticMass": 1197.9375,
+    "DragCoefficient": 0.52,
+    "Width": 1.98,
+    "Height": 1.19,
+    "LongitudinalBodyRollScaleFactor": 0.24,
+    "LongitudinalBodyRollDamping": 0.94,
+    "LongitudinalBodyRollScaleDownWithSpeed": 150.0,
+    "MaximumBodyRollAngle": 90.0,
+    "MaximumAirLiftHeight": 0.05,
+    "PreAirLiftHeightOffset": -0.05,
+    "AirLiftTime": 0.5,
+    "Classified": 0
+  },
+  "BaseGearBoxData": {
+    "GearRatios": [
+      3.981,
+      2.613,
+      1.905,
+      1.479,
+      1.161,
+      0.906,
+      0.686
+    ],
+    "DebugChangeGearAtMPH": [
+      52.4670219,
+      79.93541,
+      108.868286,
+      138.9776,
+      178.634,
+      230.54216,
+      0.0
+    ],
+    "FinalGearRatio": 3.31,
+    "RPMToShiftAutomatic": 6500.0,
+    "ClutchDelay": 0.325,
+    "ClutchDelayFirstGear": 0.1
+  },
+  "BaseTyreData": {
+    "WheelRadius": 0.34798,
+    "RollingFrictionCoefficient": 0.015,
+    "RoadFrictionCoefficient": 1.0,
+    "TireGripMax": 8500.0,
+    "TireWidth": 0.25,
+    "FrontAxleDriven": 0,
+    "RearAxleDriven": 1,
+    "_WheelSpinGripCurve": {
+      "m_FileID": 0,
+      "m_PathID": -6376015925286108337
+    },
+    "_WheelSpinGripCurveEV": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "_RPMVsExtraWheelSpinCurve": {
+      "m_FileID": 0,
+      "m_PathID": -4307764041117654629
+    },
+    "_RPMVsExtraWheelSpinCurveEV": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "BaseNitrousData": {
+    "Duration": 0.0,
+    "HorsePowerIncrease": 0.0,
+    "SuperNitrousDuration": 4.0,
+    "SuperNitrousHorsePowerIncrease": 400.0,
+    "SuperNitrousExtraTyreGrip": 5000.0
+  },
+  "AvailableUpgradeData": [
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_eng0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE01",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -348152054160261688
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_eng1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.5,
+      "UpgradeType": 0,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 3438473176836222209
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_eng2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -7360409913958652095
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_eng3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.5,
+      "UpgradeType": 0,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -4713394494890373916
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_eng4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.05,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 7896246555762861822
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_eng5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.05,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.5,
+      "UpgradeType": 0,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -6925216452437042950
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_tur0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -6480975560674438873
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_tur1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.056,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -8856074152961948420
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_tur2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 295190337461165349
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_tur3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.5,
+      "UpgradeType": 1,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 6970625486985523661
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_tur4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -809379782324221524
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_tur5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.05,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.5,
+      "UpgradeType": 1,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 168415912305499470
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_int0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE01",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 2,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 7117206100283908611
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_int1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 2,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -5364732308158457801
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_int2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 2,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -7551285427196216413
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_int3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 2,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -8962440724339466678
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_int4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -2.0,
+      "UpgradeType": 2,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 2466585886878050295
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_int5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 2,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -6717950269757815175
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_nit0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS01",
+      "NitrousTime": 2.0,
+      "NitrousHPBoost": 25.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 3,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_nit1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS02",
+      "NitrousTime": 1.0,
+      "NitrousHPBoost": 25.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 3,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_nit2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 25.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 3,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_nit3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 25.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.5,
+      "UpgradeType": 3,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_nit4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS05",
+      "NitrousTime": 1.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.5,
+      "UpgradeType": 3,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_nit5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS06",
+      "NitrousTime": 4.0,
+      "NitrousHPBoost": 25.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 3,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_bod0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY01",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -13.6077719,
+      "GripDifference": -15.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 4,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_bod1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -13.6077719,
+      "GripDifference": -15.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 4,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_bod2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 650.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -11.3398094,
+      "GripDifference": -12.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 4,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_bod3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -13.6077719,
+      "GripDifference": -15.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.5,
+      "UpgradeType": 4,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_bod4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -18.1436958,
+      "GripDifference": -20.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 4,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_bod5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -54.4310875,
+      "GripDifference": -60.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 4,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_tir0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES01",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.03,
+      "WeightDifference": 0.0,
+      "GripDifference": 94.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 5,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_tir1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 100.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.5,
+      "UpgradeType": 5,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_tir2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 125.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 5,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_tir3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 50.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -3.0,
+      "UpgradeType": 5,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_tir4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 115.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 5,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_tir5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 246.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 5,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_tra0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS01",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": -0.05,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 6,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_tra1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -13.6077719,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 6,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_tra2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.04,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": -0.05,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 6,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_tra3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.03,
+      "WeightDifference": 0.0,
+      "GripDifference": 50.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -2.5,
+      "UpgradeType": 6,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_tra4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -29.9370975,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.5,
+      "UpgradeType": 6,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SennaLE_2018_tra5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.03,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": -0.1,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 6,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ],
+  "AvailableRestorationData": [
+    {
+      "AssetDatabaseID": "",
+      "RestorationLocalisationTextID": "",
+      "RestorationType": 0,
+      "RestorationLevel": 0
+    },
+    {
+      "AssetDatabaseID": "",
+      "RestorationLocalisationTextID": "",
+      "RestorationType": 0,
+      "RestorationLevel": 0
+    },
+    {
+      "AssetDatabaseID": "",
+      "RestorationLocalisationTextID": "",
+      "RestorationType": 0,
+      "RestorationLevel": 0
+    },
+    {
+      "AssetDatabaseID": "",
+      "RestorationLocalisationTextID": "",
+      "RestorationType": 0,
+      "RestorationLevel": 0
+    }
+  ],
+  "PredefinedUpgradeSets": [
+    {
+      "PPIndex": 667,
+      "UpgradeData": "0000000000000000"
+    },
+    {
+      "PPIndex": 669,
+      "UpgradeData": "0000010000000000"
+    },
+    {
+      "PPIndex": 673,
+      "UpgradeData": "0000010000000100"
+    },
+    {
+      "PPIndex": 674,
+      "UpgradeData": "0000010000010100"
+    },
+    {
+      "PPIndex": 674,
+      "UpgradeData": "0100010000010100"
+    },
+    {
+      "PPIndex": 679,
+      "UpgradeData": "0100010100010100"
+    },
+    {
+      "PPIndex": 679,
+      "UpgradeData": "0101010100010100"
+    },
+    {
+      "PPIndex": 681,
+      "UpgradeData": "0101010100010101"
+    },
+    {
+      "PPIndex": 683,
+      "UpgradeData": "0101020100010101"
+    },
+    {
+      "PPIndex": 685,
+      "UpgradeData": "0101020100010201"
+    },
+    {
+      "PPIndex": 686,
+      "UpgradeData": "0101020100020201"
+    },
+    {
+      "PPIndex": 687,
+      "UpgradeData": "0201020100020201"
+    },
+    {
+      "PPIndex": 689,
+      "UpgradeData": "0201020200020201"
+    },
+    {
+      "PPIndex": 689,
+      "UpgradeData": "0202020200020201"
+    },
+    {
+      "PPIndex": 690,
+      "UpgradeData": "0202020200020202"
+    },
+    {
+      "PPIndex": 692,
+      "UpgradeData": "0202030200020202"
+    },
+    {
+      "PPIndex": 694,
+      "UpgradeData": "0202030200020302"
+    },
+    {
+      "PPIndex": 695,
+      "UpgradeData": "0202030200030302"
+    },
+    {
+      "PPIndex": 696,
+      "UpgradeData": "0302030200030302"
+    },
+    {
+      "PPIndex": 699,
+      "UpgradeData": "0302030300030302"
+    },
+    {
+      "PPIndex": 699,
+      "UpgradeData": "0303030300030302"
+    },
+    {
+      "PPIndex": 703,
+      "UpgradeData": "0303030300030303"
+    },
+    {
+      "PPIndex": 704,
+      "UpgradeData": "0303040300030303"
+    },
+    {
+      "PPIndex": 704,
+      "UpgradeData": "0303040300030403"
+    },
+    {
+      "PPIndex": 708,
+      "UpgradeData": "0303040300040403"
+    },
+    {
+      "PPIndex": 708,
+      "UpgradeData": "0403040300040403"
+    },
+    {
+      "PPIndex": 710,
+      "UpgradeData": "0403040400040403"
+    },
+    {
+      "PPIndex": 710,
+      "UpgradeData": "0404040400040403"
+    },
+    {
+      "PPIndex": 712,
+      "UpgradeData": "0404040400040404"
+    },
+    {
+      "PPIndex": 713,
+      "UpgradeData": "0404050400040404"
+    },
+    {
+      "PPIndex": 713,
+      "UpgradeData": "0404050400040504"
+    },
+    {
+      "PPIndex": 717,
+      "UpgradeData": "0404050400050504"
+    },
+    {
+      "PPIndex": 717,
+      "UpgradeData": "0504050400050504"
+    },
+    {
+      "PPIndex": 721,
+      "UpgradeData": "0504050500050504"
+    },
+    {
+      "PPIndex": 721,
+      "UpgradeData": "0505050500050504"
+    },
+    {
+      "PPIndex": 725,
+      "UpgradeData": "0505050500050505"
+    }
+  ]
+}

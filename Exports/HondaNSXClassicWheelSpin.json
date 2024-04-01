@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "HondaNSXClassicWheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1045.41858,
+        "value": 0.86960876,
+        "inSlope": 1.88132071E-05,
+        "outSlope": -3.83670558E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5102.28662,
+        "value": 0.7139587,
+        "inSlope": -3.83670558E-05,
+        "outSlope": -0.0005855066,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6321.673,
+        "value": 0.0,
+        "inSlope": -0.0005855066,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6728.412,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.000270001765,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8394.203,
+        "value": 0.449766517,
+        "inSlope": 0.000270001765,
+        "outSlope": 0.000465598918,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 9963.473,
+        "value": 1.1804167,
+        "inSlope": 0.000465598918,
+        "outSlope": 7.626836E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

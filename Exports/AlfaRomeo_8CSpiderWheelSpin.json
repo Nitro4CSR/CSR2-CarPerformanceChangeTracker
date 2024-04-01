@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "AlfaRomeo_8CSpiderWheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1024.98022,
+        "value": 0.6903242,
+        "inSlope": 1.388232E-05,
+        "outSlope": -0.000156119626,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3648.22437,
+        "value": 0.280784279,
+        "inSlope": -0.000156119626,
+        "outSlope": -0.0001245047,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5903.43457,
+        "value": 0.0,
+        "inSlope": -0.0001245047,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6232.94336,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.000267810217,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6718.494,
+        "value": 0.13003546,
+        "inSlope": 0.000267810217,
+        "outSlope": 0.000227544966,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7080.42041,
+        "value": 0.212389961,
+        "inSlope": 0.000227544966,
+        "outSlope": -4.522188E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7778.762,
+        "value": 0.180809632,
+        "inSlope": -4.522188E-05,
+        "outSlope": 0.000234458537,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

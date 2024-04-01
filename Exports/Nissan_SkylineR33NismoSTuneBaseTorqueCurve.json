@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Nissan_SkylineR33NismoSTuneBaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 116.016792,
+        "inSlope": 0.004431087,
+        "outSlope": 0.0007996859,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2400.0,
+        "value": 117.136353,
+        "inSlope": 0.0007996859,
+        "outSlope": 0.381851733,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2750.0,
+        "value": 250.784454,
+        "inSlope": 0.381851733,
+        "outSlope": 0.04183243,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3550.0,
+        "value": 284.2504,
+        "inSlope": 0.04183243,
+        "outSlope": 0.00549053,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4500.0,
+        "value": 289.4664,
+        "inSlope": 0.00549053,
+        "outSlope": -0.008223816,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5500.0,
+        "value": 281.242584,
+        "inSlope": -0.008223816,
+        "outSlope": -0.0193548873,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6550.0,
+        "value": 260.919952,
+        "inSlope": -0.0193548873,
+        "outSlope": -0.0244577024,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6850.0,
+        "value": 253.582642,
+        "inSlope": -0.0244577024,
+        "outSlope": -0.03132701,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8000.0,
+        "value": 217.55658,
+        "inSlope": -0.03132701,
+        "outSlope": -0.03132701,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

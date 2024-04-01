@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Dodge_ChallengerRTShakerF7_2015WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1007.00134,
+        "value": 0.598979056,
+        "inSlope": 2.204201E-05,
+        "outSlope": 2.204201E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4398.80762,
+        "value": 0.6737413,
+        "inSlope": 2.204201E-05,
+        "outSlope": -0.1332538,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4403.20654,
+        "value": 0.08756774,
+        "inSlope": -0.1332538,
+        "outSlope": -0.00020765065,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4824.91357,
+        "value": 0.0,
+        "inSlope": -0.00020765065,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5128.0957,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.000160557145,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5761.27539,
+        "value": 0.101661526,
+        "inSlope": 0.000160557145,
+        "outSlope": 0.00287464145,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5995.34961,
+        "value": 0.774540961,
+        "inSlope": 0.00287464145,
+        "outSlope": 8.125548E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7975.634,
+        "value": 0.9354499,
+        "inSlope": 8.125548E-05,
+        "outSlope": 0.000103672392,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

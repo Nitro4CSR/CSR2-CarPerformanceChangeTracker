@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "MercedesAMGGTBaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 950.0,
+        "value": 131.876923,
+        "inSlope": 0.419292361,
+        "outSlope": 0.003114285,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1598.4,
+        "value": 133.896225,
+        "inSlope": 0.003114285,
+        "outSlope": 193.27887,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1600.0,
+        "value": 443.1377,
+        "inSlope": 193.27887,
+        "outSlope": -0.000170139625,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3450.0,
+        "value": 442.822937,
+        "inSlope": -0.000170139625,
+        "outSlope": 0.002507462,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5000.0,
+        "value": 446.7095,
+        "inSlope": 0.002507462,
+        "outSlope": -0.0478225723,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6000.0,
+        "value": 398.886932,
+        "inSlope": -0.0478225723,
+        "outSlope": -0.083213076,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7000.0,
+        "value": 315.673859,
+        "inSlope": -0.083213076,
+        "outSlope": -0.083213076,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

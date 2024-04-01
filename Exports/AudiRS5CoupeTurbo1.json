@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "AudiRS5CoupeTurbo1",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 0.5586519,
+        "inSlope": 3.54899421E-05,
+        "outSlope": 1.81849318E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2249.9978,
+        "value": 0.581383049,
+        "inSlope": 1.81849318E-05,
+        "outSlope": 2.41924477,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2252.2478,
+        "value": 6.024684,
+        "inSlope": 2.41924477,
+        "outSlope": 0.00146792876,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3050.0,
+        "value": 7.19572735,
+        "inSlope": 0.00146792876,
+        "outSlope": 0.0002685343,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4500.0,
+        "value": 7.585102,
+        "inSlope": 0.0002685343,
+        "outSlope": -0.00020193863,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5750.0,
+        "value": 7.332679,
+        "inSlope": -0.00020193863,
+        "outSlope": -0.00179949473,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6250.0,
+        "value": 6.43293142,
+        "inSlope": -0.00179949473,
+        "outSlope": -0.00277415081,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7000.0,
+        "value": 4.35231829,
+        "inSlope": -0.00277415081,
+        "outSlope": -0.0007705612,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

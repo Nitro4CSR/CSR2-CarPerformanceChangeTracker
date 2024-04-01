@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "McLaren_600LT_2019WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1045.41858,
+        "value": 0.86960876,
+        "inSlope": 2.33817282E-05,
+        "outSlope": -8.16928441E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5608.87451,
+        "value": 0.496807069,
+        "inSlope": -8.16928441E-05,
+        "outSlope": -0.0003971126,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6859.923,
+        "value": 0.0,
+        "inSlope": -0.0003971126,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7234.99951,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.000841863,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8505.02,
+        "value": 1.06918287,
+        "inSlope": 0.000841863,
+        "outSlope": 7.626836E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 9963.473,
+        "value": 1.1804167,
+        "inSlope": 7.626836E-05,
+        "outSlope": 7.626836E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

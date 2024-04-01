@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "2020Audi RS5WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1005.49963,
+        "value": 0.635941863,
+        "inSlope": 1.30357648E-05,
+        "outSlope": 2.4160674E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2338.41821,
+        "value": 0.6681461,
+        "inSlope": 2.4160674E-05,
+        "outSlope": 7.39614E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2787.228,
+        "value": 0.7013407,
+        "inSlope": 7.39614E-05,
+        "outSlope": 0.000190334991,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3097.25269,
+        "value": 0.7603492,
+        "inSlope": 0.000190334991,
+        "outSlope": 0.000242327762,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3612.39575,
+        "value": 0.8851827,
+        "inSlope": 0.000242327762,
+        "outSlope": 0.000171399239,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3971.96533,
+        "value": 0.9468126,
+        "inSlope": 0.000171399239,
+        "outSlope": 0.000220909249,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4446.52148,
+        "value": 1.05164647,
+        "inSlope": 0.000220909249,
+        "outSlope": 0.000115563955,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5148.876,
+        "value": 1.13281333,
+        "inSlope": 0.000115563955,
+        "outSlope": 6.899268E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7980.23438,
+        "value": 1.32815635,
+        "inSlope": 6.899268E-05,
+        "outSlope": 0.000151866989,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

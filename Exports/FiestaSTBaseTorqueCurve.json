@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "FiestaSTBaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 993.292664,
+        "value": 128.646011,
+        "inSlope": 0.0426049829,
+        "outSlope": 0.0426049829,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1350.0,
+        "value": 143.843521,
+        "inSlope": 0.0426049829,
+        "outSlope": 0.158272222,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1700.0,
+        "value": 199.2388,
+        "inSlope": 0.158272222,
+        "outSlope": 0.00110656733,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2650.0,
+        "value": 200.290039,
+        "inSlope": 0.00110656733,
+        "outSlope": 0.00157216389,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3250.0,
+        "value": 201.233337,
+        "inSlope": 0.00157216389,
+        "outSlope": 0.0006173706,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3700.0,
+        "value": 201.511154,
+        "inSlope": 0.0006173706,
+        "outSlope": 0.001246521,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4200.0,
+        "value": 202.134415,
+        "inSlope": 0.001246521,
+        "outSlope": -0.00122869876,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4700.0,
+        "value": 201.520065,
+        "inSlope": -0.00122869876,
+        "outSlope": -0.008479401,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5200.0,
+        "value": 197.280365,
+        "inSlope": -0.008479401,
+        "outSlope": -0.0307730865,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6000.0,
+        "value": 172.6619,
+        "inSlope": -0.0307730865,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

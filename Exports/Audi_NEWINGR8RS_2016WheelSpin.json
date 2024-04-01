@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Audi_NEWINGR8RS_2016WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1045.41858,
+        "value": 0.86960876,
+        "inSlope": 2.08946549E-05,
+        "outSlope": -0.000171031832,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5387.242,
+        "value": 0.1270187,
+        "inSlope": -0.000171031832,
+        "outSlope": -9.663839E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6701.61328,
+        "value": 0.0,
+        "inSlope": -9.663839E-05,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7456.632,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.000190229111,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8030.09375,
+        "value": 0.109089151,
+        "inSlope": 0.000190229111,
+        "outSlope": 9.39009842E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 9441.054,
+        "value": 0.241579682,
+        "inSlope": 9.39009842E-05,
+        "outSlope": 7.626836E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

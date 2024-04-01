@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "2020MercedesAMG_G63SUVBaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 950.0,
+        "value": 131.876923,
+        "inSlope": 0.003114285,
+        "outSlope": 0.00448733848,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1400.0,
+        "value": 133.896225,
+        "inSlope": 0.00448733848,
+        "outSlope": 0.6362777,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1650.0,
+        "value": 292.965637,
+        "inSlope": 0.6362777,
+        "outSlope": 0.39385125,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 2500.0,
+        "value": 627.7392,
+        "inSlope": 0.39385125,
+        "outSlope": -0.000331324525,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3450.0,
+        "value": 627.424438,
+        "inSlope": -0.000331324525,
+        "outSlope": -0.0431703553,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5050.0,
+        "value": 558.351868,
+        "inSlope": -0.0431703553,
+        "outSlope": -0.05600936,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6000.0,
+        "value": 505.142975,
+        "inSlope": -0.05600936,
+        "outSlope": -0.189469114,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7000.0,
+        "value": 315.673859,
+        "inSlope": -0.189469114,
+        "outSlope": -0.083213076,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

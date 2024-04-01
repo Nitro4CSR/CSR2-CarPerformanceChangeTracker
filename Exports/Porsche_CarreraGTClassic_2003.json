@@ -1,0 +1,2033 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5010576824879005575
+  },
+  "m_Name": "Porsche_CarreraGTClassic_2003",
+  "EcbValue": 0,
+  "CarType": 1,
+  "NeedsRestoration": 1,
+  "IsTunerStarsCar": 0,
+  "IsEVCar": 0,
+  "Key": "Porsche_CarreraGTClassic_2003",
+  "DisableNumberPlate": 0,
+  "ManufacturerID": "id_porsche",
+  "CarEngineSound": 5,
+  "DSGGearBox": 0,
+  "ManufacturerName": "Porsche",
+  "DefaultLiveryBundleName": "",
+  "DefaultCustomisationBundleNames": [
+    ""
+  ],
+  "EliteOverrideCarAssetID": "",
+  "DriveType": 1,
+  "ModelPrefabString": "Porsche_CarreraGTClassic_2003",
+  "BaseCarTier": 4,
+  "BasePerformanceIndex": 602,
+  "FlyWheelPower": 605,
+  "IsAvailableInShowroomAndUpgrade": 1,
+  "Size": 0,
+  "IsOpenTopCar": 0,
+  "CarUnlocksInSeason": 0,
+  "CarUnlocksWithGacha": "",
+  "MechanicEngineFettleGraphSlope": 0.0,
+  "MechanicEngineFettleGraphIntercept": 0.0,
+  "MechanicTyreGripFettleGraphSlope": 0.0,
+  "MechanicTyreGripFettleGraphIntercept": 0.0,
+  "EngineConsumableEngineGraphSlope": 0.0638171658,
+  "EngineConsumableEngineGraphIntercept": -24.9981155,
+  "EngineConsumableTyreGraphSlope": 0.638170838,
+  "EngineConsumableTyreGraphIntercept": -249.980682,
+  "NitrousConsumableBodyGraphSlope": -0.738765538,
+  "NitrousConsumableBodyGraphIntercept": 595.043,
+  "TyreConsumableEngineGraphSlope": 0.0306689069,
+  "TyreConsumableEngineGraphIntercept": -12.10504,
+  "TyreConsumableTyreGraphSlope": 0.306688637,
+  "TyreConsumableTyreGraphIntercept": -121.050148,
+  "BaseRedlineRPM": 8400,
+  "OptimalLaunchRPM": 7000,
+  "TransmissionLoss": 28.0,
+  "BaseEngineData": {
+    "EngineRevRate": 6500.0,
+    "RevLimiterTime": 0.15,
+    "Classified": 0,
+    "_BaseTorqueCurve": {
+      "m_FileID": 0,
+      "m_PathID": 4297030745102662735
+    },
+    "_BaseTorqueCurveEV": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "BaseChassisData": {
+    "Mass": 1088.6217,
+    "CosmeticMass": 1378.9209,
+    "DragCoefficient": 0.62,
+    "Width": 2.03,
+    "Height": 1.16,
+    "LongitudinalBodyRollScaleFactor": 0.11,
+    "LongitudinalBodyRollDamping": 0.99,
+    "LongitudinalBodyRollScaleDownWithSpeed": 150.0,
+    "MaximumBodyRollAngle": 90.0,
+    "MaximumAirLiftHeight": 0.05,
+    "PreAirLiftHeightOffset": -0.05,
+    "AirLiftTime": 0.5,
+    "Classified": 0
+  },
+  "BaseGearBoxData": {
+    "GearRatios": [
+      2.88,
+      1.683,
+      1.224,
+      0.963,
+      0.81,
+      0.675
+    ],
+    "DebugChangeGearAtMPH": [
+      54.59964,
+      91.95049,
+      125.298149,
+      157.816391,
+      187.626175,
+      187.312637
+    ],
+    "FinalGearRatio": 4.44,
+    "RPMToShiftAutomatic": 6500.0,
+    "ClutchDelay": 0.4,
+    "ClutchDelayFirstGear": 0.2
+  },
+  "BaseTyreData": {
+    "WheelRadius": 0.3556,
+    "RollingFrictionCoefficient": 0.015,
+    "RoadFrictionCoefficient": 1.0,
+    "TireGripMax": 6750.0,
+    "TireWidth": 0.25,
+    "FrontAxleDriven": 0,
+    "RearAxleDriven": 1,
+    "_WheelSpinGripCurve": {
+      "m_FileID": 0,
+      "m_PathID": -6376015925286108337
+    },
+    "_WheelSpinGripCurveEV": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "_RPMVsExtraWheelSpinCurve": {
+      "m_FileID": 0,
+      "m_PathID": 5420364952429872589
+    },
+    "_RPMVsExtraWheelSpinCurveEV": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "BaseNitrousData": {
+    "Duration": 0.0,
+    "HorsePowerIncrease": 0.0,
+    "SuperNitrousDuration": 4.0,
+    "SuperNitrousHorsePowerIncrease": 400.0,
+    "SuperNitrousExtraTyreGrip": 5000.0
+  },
+  "AvailableUpgradeData": [
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_eng0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE01",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -1641285788269214474
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_eng1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -2.5,
+      "UpgradeType": 0,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 3101396094584116512
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_eng2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -6256613704664822781
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_eng3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.05,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -4.5,
+      "UpgradeType": 0,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -6835255866870471814
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_eng4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.05,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -7679973575153781074
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_eng5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 500,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -5.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 6853334541510291107
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_tur0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.5,
+      "UpgradeType": 1,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -2670242706994790722
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_tur1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -2.5,
+      "UpgradeType": 1,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 4856676373428817527
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_tur2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -0.5,
+      "UpgradeType": 1,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -2410876442764291756
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_tur3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.05,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -4.5,
+      "UpgradeType": 1,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -1075255180578345371
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_tur4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.07,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 3509691862402660197
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_tur5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.05,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_int0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE01",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 2,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 3379205932245270607
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_int1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 2,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 7890591394194936741
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_int2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 2,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -1344384534951516548
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_int3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -2.5,
+      "UpgradeType": 2,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 1700929169083096053
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_int4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -5.5,
+      "UpgradeType": 2,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -8534768491115577084
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_int5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.04,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -5.5,
+      "UpgradeType": 2,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 1621398238206019006
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_nit0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS01",
+      "NitrousTime": 2.0,
+      "NitrousHPBoost": 25.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.03,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.2,
+      "UpgradeType": 3,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_nit1",
+      "UpgradeLocalisationTextID": "TEXT_LEGENDS_UPGRADE_NITROUS02",
+      "NitrousTime": 1.0,
+      "NitrousHPBoost": 25.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -2.5,
+      "UpgradeType": 3,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_nit2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 25.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 3,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_nit3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 25.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.03,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -2.5,
+      "UpgradeType": 3,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_nit4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS05",
+      "NitrousTime": 1.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -3.5,
+      "UpgradeType": 3,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_nit5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS06",
+      "NitrousTime": 4.0,
+      "NitrousHPBoost": 25.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.03,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -3.5,
+      "UpgradeType": 3,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_bod0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY01",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -13.6077719,
+      "GripDifference": -15.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 4,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_bod1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -18.1436958,
+      "GripDifference": -20.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 4,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_bod2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 650.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -9.071848,
+      "GripDifference": -10.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 4,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_bod3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -22.6796188,
+      "GripDifference": -25.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 4,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_bod4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -31.7514668,
+      "GripDifference": -35.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 4,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_bod5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -54.4310875,
+      "GripDifference": -60.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 4,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_tir0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES01",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 94.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 5,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_tir1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 100.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 5,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_tir2",
+      "UpgradeLocalisationTextID": "TEXT_LEGENDS_UPGRADE_TYRES03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 125.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.3,
+      "UpgradeType": 5,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_tir3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.04,
+      "WeightDifference": 0.0,
+      "GripDifference": 50.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.5,
+      "UpgradeType": 5,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_tir4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 105.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 5,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_tir5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 246.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -3.0,
+      "UpgradeType": 5,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_tra0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS01",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": -0.05,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 6,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_tra1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -13.6077719,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 6,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_tra2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": -0.05,
+      "TransmissionLossPercentage": 2.2,
+      "UpgradeType": 6,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_tra3",
+      "UpgradeLocalisationTextID": "TEXT_LEGENDS_UPGRADE_TRANS04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.04,
+      "WeightDifference": 0.0,
+      "GripDifference": 50.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.5,
+      "UpgradeType": 6,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_tra4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -29.9370975,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 6,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_CarreraGTClassic_2003_tra5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": -0.12,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 6,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ],
+  "AvailableRestorationData": [
+    {
+      "AssetDatabaseID": "",
+      "RestorationLocalisationTextID": "",
+      "RestorationType": 0,
+      "RestorationLevel": 0
+    },
+    {
+      "AssetDatabaseID": "",
+      "RestorationLocalisationTextID": "",
+      "RestorationType": 0,
+      "RestorationLevel": 0
+    },
+    {
+      "AssetDatabaseID": "",
+      "RestorationLocalisationTextID": "",
+      "RestorationType": 0,
+      "RestorationLevel": 0
+    },
+    {
+      "AssetDatabaseID": "",
+      "RestorationLocalisationTextID": "",
+      "RestorationType": 0,
+      "RestorationLevel": 0
+    }
+  ],
+  "PredefinedUpgradeSets": [
+    {
+      "PPIndex": 512,
+      "UpgradeData": "0000000000000000"
+    },
+    {
+      "PPIndex": 518,
+      "UpgradeData": "0000010000000000"
+    },
+    {
+      "PPIndex": 523,
+      "UpgradeData": "0000010000000100"
+    },
+    {
+      "PPIndex": 526,
+      "UpgradeData": "0000010000010100"
+    },
+    {
+      "PPIndex": 533,
+      "UpgradeData": "0100010000010100"
+    },
+    {
+      "PPIndex": 545,
+      "UpgradeData": "0100010100010100"
+    },
+    {
+      "PPIndex": 546,
+      "UpgradeData": "0101010100010100"
+    },
+    {
+      "PPIndex": 550,
+      "UpgradeData": "0101010100010101"
+    },
+    {
+      "PPIndex": 555,
+      "UpgradeData": "0101020100010101"
+    },
+    {
+      "PPIndex": 560,
+      "UpgradeData": "0101020100010201"
+    },
+    {
+      "PPIndex": 565,
+      "UpgradeData": "0101020100020201"
+    },
+    {
+      "PPIndex": 567,
+      "UpgradeData": "0201020100020201"
+    },
+    {
+      "PPIndex": 573,
+      "UpgradeData": "0201020200020201"
+    },
+    {
+      "PPIndex": 574,
+      "UpgradeData": "0202020200020201"
+    },
+    {
+      "PPIndex": 575,
+      "UpgradeData": "0202020200020202"
+    },
+    {
+      "PPIndex": 579,
+      "UpgradeData": "0202030200020202"
+    },
+    {
+      "PPIndex": 584,
+      "UpgradeData": "0202030200020302"
+    },
+    {
+      "PPIndex": 589,
+      "UpgradeData": "0202030200030302"
+    },
+    {
+      "PPIndex": 592,
+      "UpgradeData": "0302030200030302"
+    },
+    {
+      "PPIndex": 594,
+      "UpgradeData": "0302030300030302"
+    },
+    {
+      "PPIndex": 596,
+      "UpgradeData": "0303030300030302"
+    },
+    {
+      "PPIndex": 602,
+      "UpgradeData": "0303030300030303"
+    },
+    {
+      "PPIndex": 606,
+      "UpgradeData": "0303040300030303"
+    },
+    {
+      "PPIndex": 608,
+      "UpgradeData": "0303040300030403"
+    },
+    {
+      "PPIndex": 613,
+      "UpgradeData": "0303040300040403"
+    },
+    {
+      "PPIndex": 614,
+      "UpgradeData": "0403040300040403"
+    },
+    {
+      "PPIndex": 616,
+      "UpgradeData": "0403040400040403"
+    },
+    {
+      "PPIndex": 617,
+      "UpgradeData": "0404040400040403"
+    },
+    {
+      "PPIndex": 619,
+      "UpgradeData": "0404040400040404"
+    },
+    {
+      "PPIndex": 622,
+      "UpgradeData": "0404050400040404"
+    },
+    {
+      "PPIndex": 625,
+      "UpgradeData": "0404050400040504"
+    },
+    {
+      "PPIndex": 629,
+      "UpgradeData": "0404050400050504"
+    },
+    {
+      "PPIndex": 631,
+      "UpgradeData": "0504050400050504"
+    },
+    {
+      "PPIndex": 636,
+      "UpgradeData": "0504050500050504"
+    },
+    {
+      "PPIndex": 637,
+      "UpgradeData": "0505050500050504"
+    },
+    {
+      "PPIndex": 643,
+      "UpgradeData": "0505050500050505"
+    }
+  ]
+}

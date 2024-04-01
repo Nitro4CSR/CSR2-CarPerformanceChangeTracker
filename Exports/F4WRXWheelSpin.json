@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "F4WRXWheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 141.4512,
+        "value": 0.6892742,
+        "inSlope": 1.44774476E-05,
+        "outSlope": 9.141935E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4022.88721,
+        "value": 0.724758,
+        "inSlope": 9.141935E-06,
+        "outSlope": -0.00178938569,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4263.492,
+        "value": 0.294222921,
+        "inSlope": -0.00178938569,
+        "outSlope": -0.0690069348,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4267.756,
+        "value": 0.0,
+        "inSlope": -0.0690069348,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4850.707,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0003455336,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5620.29932,
+        "value": 0.265919983,
+        "inSlope": 0.0003455336,
+        "outSlope": 0.00143690815,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6084.50146,
+        "value": 0.932935834,
+        "inSlope": 0.00143690815,
+        "outSlope": 6.552152E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7951.712,
+        "value": 1.0552783,
+        "inSlope": 6.552152E-05,
+        "outSlope": 6.552152E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

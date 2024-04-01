@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "MaseratiGTMCBaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 600.0,
+        "value": 146.131744,
+        "inSlope": 0.000906949455,
+        "outSlope": -0.00168491912,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 950.0,
+        "value": 145.542023,
+        "inSlope": -0.00168491912,
+        "outSlope": 0.0496966429,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2150.0,
+        "value": 205.178,
+        "inSlope": 0.0496966429,
+        "outSlope": 0.235352874,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2650.0,
+        "value": 322.854431,
+        "inSlope": 0.235352874,
+        "outSlope": 0.0284101646,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4750.0,
+        "value": 382.515778,
+        "inSlope": 0.0284101646,
+        "outSlope": -0.0190826822,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7000.0,
+        "value": 339.579742,
+        "inSlope": -0.0190826822,
+        "outSlope": -0.0184988342,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

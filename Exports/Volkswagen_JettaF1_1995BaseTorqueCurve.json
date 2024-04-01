@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Volkswagen_JettaF1_1995BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 154.942337,
+        "inSlope": 0.0003451575,
+        "outSlope": 0.0003451575,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1998.0,
+        "value": 155.2868,
+        "inSlope": 0.0003451575,
+        "outSlope": 37.31118,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2000.0,
+        "value": 229.909164,
+        "inSlope": 37.31118,
+        "outSlope": 0.0304430388,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3000.0,
+        "value": 260.3522,
+        "inSlope": 0.0304430388,
+        "outSlope": 0.0203271676,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4045.95,
+        "value": 281.6134,
+        "inSlope": 0.0203271676,
+        "outSlope": 0.03396307,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4950.0,
+        "value": 312.317719,
+        "inSlope": 0.03396307,
+        "outSlope": 0.02131785,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5850.0,
+        "value": 331.503784,
+        "inSlope": 0.02131785,
+        "outSlope": 0.005301673,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7000.0,
+        "value": 337.6007,
+        "inSlope": 0.005301673,
+        "outSlope": 0.00411302643,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

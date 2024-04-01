@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "F3SilviaS15WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 994.584534,
+        "value": 0.725303054,
+        "inSlope": 8.999022E-06,
+        "outSlope": 8.999022E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5643.45068,
+        "value": 0.7671383,
+        "inSlope": 8.999022E-06,
+        "outSlope": -0.00318380725,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5774.28857,
+        "value": 0.3505757,
+        "inSlope": -0.00318380725,
+        "outSlope": -0.000698746,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6276.01,
+        "value": 0.0,
+        "inSlope": -0.000698746,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6732.455,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0009913498,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7137.84,
+        "value": 0.4018781,
+        "inSlope": 0.0009913498,
+        "outSlope": 0.05223722,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7144.985,
+        "value": 0.775114059,
+        "inSlope": 0.05223722,
+        "outSlope": 0.000215186665,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8792.545,
+        "value": 1.129647,
+        "inSlope": 0.000215186665,
+        "outSlope": 0.000215186665,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

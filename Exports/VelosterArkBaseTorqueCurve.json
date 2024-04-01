@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "VelosterArkBaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 997.676636,
+        "value": 199.624863,
+        "inSlope": 0.000744221441,
+        "outSlope": 0.000744221441,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1408.84424,
+        "value": 199.930862,
+        "inSlope": 0.000744221441,
+        "outSlope": 0.164530113,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2000.0,
+        "value": 297.1938,
+        "inSlope": 0.164530113,
+        "outSlope": 0.0143465009,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2650.0,
+        "value": 306.519,
+        "inSlope": 0.0143465009,
+        "outSlope": -0.02076936,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7000.0,
+        "value": 216.1723,
+        "inSlope": -0.02076936,
+        "outSlope": -0.041439347,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

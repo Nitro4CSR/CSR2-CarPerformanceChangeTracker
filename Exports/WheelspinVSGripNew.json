@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6755949621639688822
+  },
+  "m_Name": "WheelspinVSGripNew",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 1.0,
+        "inSlope": -4.03009462,
+        "outSlope": -4.03009462,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.0234387759,
+        "value": 0.9055395,
+        "inSlope": -4.03009462,
+        "outSlope": -0.04284897,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.394706041,
+        "value": 0.8896311,
+        "inSlope": -0.04284897,
+        "outSlope": -0.0466387831,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.6089139,
+        "value": 0.8796407,
+        "inSlope": -0.0466387831,
+        "outSlope": -0.04617277,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.846170545,
+        "value": 0.8686859,
+        "inSlope": -0.04617277,
+        "outSlope": -0.142101526,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1.99586427,
+        "value": 0.705312669,
+        "inSlope": -0.142101526,
+        "outSlope": -0.05746461,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

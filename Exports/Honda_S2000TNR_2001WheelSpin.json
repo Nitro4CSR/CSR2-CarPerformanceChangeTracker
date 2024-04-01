@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Honda_S2000TNR_2001WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1132.303,
+        "value": 0.3434229,
+        "inSlope": 8.999022E-06,
+        "outSlope": -3.55007942E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4321.35449,
+        "value": 0.230209023,
+        "inSlope": -3.55007942E-05,
+        "outSlope": -0.000117298179,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5377.72559,
+        "value": 0.106298618,
+        "inSlope": -0.000117298179,
+        "outSlope": -0.0002550549,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5794.493,
+        "value": 0.0,
+        "inSlope": -0.0002550549,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6261.72363,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.000371578,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6683.329,
+        "value": 0.15665932,
+        "inSlope": 0.000371578,
+        "outSlope": 0.000265498937,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7425.56543,
+        "value": 0.353722274,
+        "inSlope": 0.000265498937,
+        "outSlope": -7.49697138E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8821.582,
+        "value": 0.249063313,
+        "inSlope": -7.49697138E-05,
+        "outSlope": -0.000171782289,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

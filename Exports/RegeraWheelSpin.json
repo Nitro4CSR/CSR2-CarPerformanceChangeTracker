@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "RegeraWheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 198.18486,
+        "value": 0.697018564,
+        "inSlope": 1.02558015E-05,
+        "outSlope": 4.44110919E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3369.65381,
+        "value": 0.837866962,
+        "inSlope": 4.44110919E-05,
+        "outSlope": -0.0017599907,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3838.43677,
+        "value": 0.0128133222,
+        "inSlope": -0.0017599907,
+        "outSlope": -3.281053E-08,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4157.369,
+        "value": 0.0128028579,
+        "inSlope": -3.281053E-08,
+        "outSlope": 0.0035379848,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4386.33057,
+        "value": 0.8228649,
+        "inSlope": 0.0035379848,
+        "outSlope": -2.8508779E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6105.35742,
+        "value": 0.773857534,
+        "inSlope": -2.8508779E-05,
+        "outSlope": 7.658355E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8573.037,
+        "value": 0.9628412,
+        "inSlope": 7.658355E-05,
+        "outSlope": 7.658355E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "AMGF1Engine6",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 20.77993,
+        "inSlope": 0.00052001,
+        "outSlope": 0.0009112034,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3150.0,
+        "value": 23.65022,
+        "inSlope": 0.0009112034,
+        "outSlope": 0.000215314751,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5600.0,
+        "value": 24.177742,
+        "inSlope": 0.000215314751,
+        "outSlope": 4.57538263E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7800.0,
+        "value": 24.2784,
+        "inSlope": 4.57538263E-05,
+        "outSlope": -5.40044566E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 11400.0,
+        "value": 24.0839844,
+        "inSlope": -5.40044566E-05,
+        "outSlope": -0.00023671097,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 15000.0,
+        "value": 23.2318249,
+        "inSlope": -0.00023671097,
+        "outSlope": -0.000280808425,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

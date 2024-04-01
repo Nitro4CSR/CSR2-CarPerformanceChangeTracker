@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "FordRaptorTurbo4",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1150.0,
+        "value": 8.586126,
+        "inSlope": 0.00133595464,
+        "outSlope": 0.00114500045,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2000.0,
+        "value": 9.559377,
+        "inSlope": 0.00114500045,
+        "outSlope": 0.0007594776,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2400.0,
+        "value": 9.863168,
+        "inSlope": 0.0007594776,
+        "outSlope": 0.0003691905,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3100.0,
+        "value": 10.1216011,
+        "inSlope": 0.0003691905,
+        "outSlope": -2.701823E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5350.0,
+        "value": 10.06081,
+        "inSlope": -2.701823E-05,
+        "outSlope": -0.0002653742,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5950.0,
+        "value": 9.901586,
+        "inSlope": -0.0002653742,
+        "outSlope": -0.00223204028,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7000.0,
+        "value": 7.55794334,
+        "inSlope": -0.00223204028,
+        "outSlope": -0.00072657835,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

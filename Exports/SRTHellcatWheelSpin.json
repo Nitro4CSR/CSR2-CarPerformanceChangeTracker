@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "SRTHellcatWheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1007.00134,
+        "value": 0.598979056,
+        "inSlope": 1.92270763E-05,
+        "outSlope": 1.92270763E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4237.993,
+        "value": 0.6611016,
+        "inSlope": 1.92270763E-05,
+        "outSlope": -0.00299950317,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4354.073,
+        "value": 0.312919021,
+        "inSlope": -0.00299950317,
+        "outSlope": -0.0007416087,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4776.01953,
+        "value": 0.0,
+        "inSlope": -0.0007416087,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5233.051,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.00104315754,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5568.768,
+        "value": 0.350206017,
+        "inSlope": 0.00104315754,
+        "outSlope": 0.065505,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5574.337,
+        "value": 0.714993358,
+        "inSlope": 0.065505,
+        "outSlope": 9.18072838E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7975.634,
+        "value": 0.9354499,
+        "inSlope": 9.18072838E-05,
+        "outSlope": 9.18072838E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

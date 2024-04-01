@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "66StingrayWheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1024.98022,
+        "value": 0.6903242,
+        "inSlope": -4.699295E-05,
+        "outSlope": -0.000112610542,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3672.8584,
+        "value": 0.3921452,
+        "inSlope": -0.000112610542,
+        "outSlope": -0.0009337051,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4092.84668,
+        "value": 0.0,
+        "inSlope": -0.0009337051,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4681.01074,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.000750741339,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5375.94873,
+        "value": 0.5217187,
+        "inSlope": 0.000750741339,
+        "outSlope": 0.00044709412,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6427.62354,
+        "value": 0.9919163,
+        "inSlope": 0.00044709412,
+        "outSlope": 0.000234458537,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7963.51563,
+        "value": 1.35201931,
+        "inSlope": 0.000234458537,
+        "outSlope": 0.000234458537,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

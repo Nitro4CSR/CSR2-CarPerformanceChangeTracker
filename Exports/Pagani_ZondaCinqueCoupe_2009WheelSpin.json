@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Pagani_ZondaCinqueCoupe_2009WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1017.72211,
+        "value": 0.696518,
+        "inSlope": 1.63882869E-05,
+        "outSlope": 2.80975182E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3579.20239,
+        "value": 0.768489242,
+        "inSlope": 2.80975182E-05,
+        "outSlope": -0.000198097288,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4462.191,
+        "value": 0.5935716,
+        "inSlope": -0.000198097288,
+        "outSlope": -0.0009454144,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5090.03369,
+        "value": 0.0,
+        "inSlope": -0.0009454144,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5345.022,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.00145248172,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5825.805,
+        "value": 0.6983288,
+        "inSlope": 0.00145248172,
+        "outSlope": 3.790562E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7197.5293,
+        "value": 0.750324845,
+        "inSlope": 3.790562E-05,
+        "outSlope": 7.247653E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8505.246,
+        "value": 0.8451036,
+        "inSlope": 7.247653E-05,
+        "outSlope": 0.000103340521,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

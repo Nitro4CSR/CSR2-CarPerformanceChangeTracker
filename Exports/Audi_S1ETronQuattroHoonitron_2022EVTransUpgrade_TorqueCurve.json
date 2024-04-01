@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Audi_S1ETronQuattroHoonitron_2022EVTransUpgrade_TorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 2000.0,
+        "value": 352.655273,
+        "inSlope": 0.0287559163,
+        "outSlope": 0.0287559163,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3950.0,
+        "value": 408.7293,
+        "inSlope": 0.0287559163,
+        "outSlope": 0.0104833385,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7000.0,
+        "value": 440.7035,
+        "inSlope": 0.0104833385,
+        "outSlope": -0.00083621213,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 15000.0,
+        "value": 434.0138,
+        "inSlope": -0.00083621213,
+        "outSlope": -0.00285110483,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 28000.0,
+        "value": 396.949432,
+        "inSlope": -0.00285110483,
+        "outSlope": -0.00285110483,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

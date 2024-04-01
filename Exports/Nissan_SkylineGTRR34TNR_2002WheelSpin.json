@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Nissan_SkylineGTRR34TNR_2002WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 994.584534,
+        "value": 0.725303054,
+        "inSlope": 8.999022E-06,
+        "outSlope": 8.999022E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5643.45068,
+        "value": 0.7671383,
+        "inSlope": 8.999022E-06,
+        "outSlope": -0.000954572868,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6341.755,
+        "value": 0.100556053,
+        "inSlope": -0.000954572868,
+        "outSlope": -0.000213107967,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6813.61,
+        "value": 0.0,
+        "inSlope": -0.000213107967,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7349.699,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.00034929032,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7674.902,
+        "value": 0.113590136,
+        "inSlope": 0.00034929032,
+        "outSlope": 0.008033944,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7742.318,
+        "value": 0.6552066,
+        "inSlope": 0.008033944,
+        "outSlope": -0.000171782289,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8752.723,
+        "value": 0.481636971,
+        "inSlope": -0.000171782289,
+        "outSlope": 0.000215186665,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "AudiTTRSWheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1024.98022,
+        "value": 0.6903242,
+        "inSlope": 4.04478233E-05,
+        "outSlope": 4.04478233E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3241.766,
+        "value": 0.779988348,
+        "inSlope": 4.04478233E-05,
+        "outSlope": -0.00154085,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3747.97266,
+        "value": 0.0,
+        "inSlope": -0.00154085,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4261.1875,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.001276934,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4883.272,
+        "value": 0.7943609,
+        "inSlope": 0.001276934,
+        "outSlope": 8.86088746E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5639.34033,
+        "value": 0.861355245,
+        "inSlope": 8.86088746E-05,
+        "outSlope": 0.000211113191,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7963.51563,
+        "value": 1.35201931,
+        "inSlope": 0.000211113191,
+        "outSlope": 0.000136122457,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

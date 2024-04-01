@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "BMWM4WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1055.57593,
+        "value": 0.55575645,
+        "inSlope": 1.58791427E-05,
+        "outSlope": 1.58791427E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4486.58643,
+        "value": 0.610237956,
+        "inSlope": 1.58791427E-05,
+        "outSlope": -0.0008155839,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5234.80859,
+        "value": 0.0,
+        "inSlope": -0.0008155839,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5756.074,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.00076517713,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6582.407,
+        "value": 0.632291138,
+        "inSlope": 0.00076517713,
+        "outSlope": 0.000107027874,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8847.163,
+        "value": 0.874683142,
+        "inSlope": 0.000107027874,
+        "outSlope": 4.46221065E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 9945.068,
+        "value": 0.8795822,
+        "inSlope": 4.46221065E-06,
+        "outSlope": 4.46221065E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

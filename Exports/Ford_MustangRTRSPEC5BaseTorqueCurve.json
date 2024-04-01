@@ -1,0 +1,163 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Ford_MustangRTRSPEC5BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 138.1557,
+        "inSlope": -0.00106083462,
+        "outSlope": -0.00106083462,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1350.0,
+        "value": 137.784409,
+        "inSlope": -0.00106083462,
+        "outSlope": -0.000190086372,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1750.0,
+        "value": 137.708374,
+        "inSlope": -0.000190086372,
+        "outSlope": 0.47411865,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2000.0,
+        "value": 256.238037,
+        "inSlope": 0.47411865,
+        "outSlope": 0.122563682,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2450.0,
+        "value": 311.3917,
+        "inSlope": 0.122563682,
+        "outSlope": 0.06216388,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2950.0,
+        "value": 342.473633,
+        "inSlope": 0.06216388,
+        "outSlope": 0.236374646,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3400.0,
+        "value": 448.842224,
+        "inSlope": 0.236374646,
+        "outSlope": 0.124283448,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4000.0,
+        "value": 523.4123,
+        "inSlope": 0.124283448,
+        "outSlope": 0.144392088,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4600.0,
+        "value": 610.047546,
+        "inSlope": 0.144392088,
+        "outSlope": -0.0017234293,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4900.0,
+        "value": 609.5305,
+        "inSlope": -0.0017234293,
+        "outSlope": 0.0002364095,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5350.0,
+        "value": 609.6369,
+        "inSlope": 0.0002364095,
+        "outSlope": 0.0408124328,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5900.0,
+        "value": 632.08374,
+        "inSlope": 0.0408124328,
+        "outSlope": -0.00589794945,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6150.0,
+        "value": 630.609253,
+        "inSlope": -0.00589794945,
+        "outSlope": -0.0483465567,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6350.0,
+        "value": 620.939941,
+        "inSlope": -0.0483465567,
+        "outSlope": -0.13988173,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6800.0,
+        "value": 557.993164,
+        "inSlope": -0.13988173,
+        "outSlope": -0.09630642,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7250.0,
+        "value": 514.6553,
+        "inSlope": -0.09630642,
+        "outSlope": -0.06317084,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

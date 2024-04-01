@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Spyker_C8Preliator_2017WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1006.1554,
+        "value": 0.6762218,
+        "inSlope": 2.55819759E-05,
+        "outSlope": -0.000106151841,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3625.469,
+        "value": 0.398176819,
+        "inSlope": -0.000106151841,
+        "outSlope": -0.000198205933,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4600.992,
+        "value": 0.204822332,
+        "inSlope": -0.000198205933,
+        "outSlope": -0.000156319657,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5911.271,
+        "value": 0.0,
+        "inSlope": -0.000156319657,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6166.533,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.00026536794,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6565.315,
+        "value": 0.105823889,
+        "inSlope": 0.00026536794,
+        "outSlope": 0.000390191271,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6941.86,
+        "value": 0.25274843,
+        "inSlope": 0.000390191271,
+        "outSlope": 0.00142902823,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7522.075,
+        "value": 1.08189249,
+        "inSlope": 0.00142902823,
+        "outSlope": 6.33429954E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

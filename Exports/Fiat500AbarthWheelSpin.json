@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Fiat500AbarthWheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1005.49963,
+        "value": 0.635941863,
+        "inSlope": 1.30357648E-05,
+        "outSlope": 1.30357648E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2895.57153,
+        "value": 0.6605804,
+        "inSlope": 1.30357648E-05,
+        "outSlope": -0.00600807834,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2960.56445,
+        "value": 0.270097852,
+        "inSlope": -0.00600807834,
+        "outSlope": -0.00309875561,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3047.72778,
+        "value": 0.0,
+        "inSlope": -0.00309875561,
+        "outSlope": 3.72940713E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4066.94385,
+        "value": 0.00380107155,
+        "inSlope": 3.72940713E-06,
+        "outSlope": 0.05686767,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4071.015,
+        "value": 0.235311911,
+        "inSlope": 0.05686767,
+        "outSlope": 0.0254613515,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4087.46729,
+        "value": 0.654212058,
+        "inSlope": 0.0254613515,
+        "outSlope": 0.000240136753,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5025.06445,
+        "value": 0.8793636,
+        "inSlope": 0.000240136753,
+        "outSlope": 0.000151866989,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7980.23438,
+        "value": 1.32815635,
+        "inSlope": 0.000151866989,
+        "outSlope": 0.000151866989,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

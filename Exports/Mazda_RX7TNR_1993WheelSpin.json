@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Mazda_RX7TNR_1993WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1008.42706,
+        "value": 0.6731484,
+        "inSlope": -0.000150780965,
+        "outSlope": -0.000140033488,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4162.29932,
+        "value": 0.231500655,
+        "inSlope": -0.000140033488,
+        "outSlope": -0.000218729561,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4777.87256,
+        "value": 0.0968565941,
+        "inSlope": -0.000218729561,
+        "outSlope": -0.000230910533,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5197.32764,
+        "value": 0.0,
+        "inSlope": -0.000230910533,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5816.97168,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0003382139,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6348.69336,
+        "value": 0.179835662,
+        "inSlope": 0.0003382139,
+        "outSlope": 0.000111681853,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7531.667,
+        "value": 0.311952353,
+        "inSlope": 0.000111681853,
+        "outSlope": -9.943977E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

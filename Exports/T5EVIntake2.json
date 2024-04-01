@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "T5EVIntake2",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1848.15,
+        "value": 19.6028671,
+        "inSlope": 0.0560561679,
+        "outSlope": 0.000338223472,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2150.0,
+        "value": 19.70496,
+        "inSlope": 0.000338223472,
+        "outSlope": 0.000231107071,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2450.0,
+        "value": 19.774292,
+        "inSlope": 0.000231107071,
+        "outSlope": 5.669227E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3100.0,
+        "value": 19.811142,
+        "inSlope": 5.669227E-05,
+        "outSlope": 1.61976277E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4000.0,
+        "value": 19.82572,
+        "inSlope": 1.61976277E-05,
+        "outSlope": -9.852554E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5650.0,
+        "value": 19.6631527,
+        "inSlope": -9.852554E-05,
+        "outSlope": 6.447869E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

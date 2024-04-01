@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "FiestaSTWheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1055.57593,
+        "value": 0.55575645,
+        "inSlope": 2.92765289E-05,
+        "outSlope": 2.92765289E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3650.23267,
+        "value": 0.631719,
+        "inSlope": 2.92765289E-05,
+        "outSlope": -0.0009870339,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4287.141,
+        "value": 0.00306870556,
+        "inSlope": -0.0009870339,
+        "outSlope": -3.08111726E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5283.113,
+        "value": 0.0,
+        "inSlope": -3.08111726E-06,
+        "outSlope": 0.00707632955,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5319.993,
+        "value": 0.260977656,
+        "inSlope": 0.00707632955,
+        "outSlope": 0.000173993743,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8847.163,
+        "value": 0.874683142,
+        "inSlope": 0.000173993743,
+        "outSlope": 4.46221065E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 9945.068,
+        "value": 0.8795822,
+        "inSlope": 4.46221065E-06,
+        "outSlope": 4.46221065E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

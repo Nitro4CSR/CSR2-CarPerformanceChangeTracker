@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Lexus_LFA_2011_Wheelspin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1746.42566,
+        "value": 0.679620743,
+        "inSlope": 2.388156E-05,
+        "outSlope": 2.38815574E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5048.17529,
+        "value": 0.758471668,
+        "inSlope": 2.38815574E-05,
+        "outSlope": -0.000525990734,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6008.765,
+        "value": 0.253210336,
+        "inSlope": -0.000525990734,
+        "outSlope": -0.0003393401,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6754.94971,
+        "value": 0.0,
+        "inSlope": -0.0003393401,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7305.97559,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.000783441763,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7766.422,
+        "value": 0.360732853,
+        "inSlope": 0.000783441763,
+        "outSlope": 0.001110054,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8422.4,
+        "value": 1.08890438,
+        "inSlope": 0.001110054,
+        "outSlope": 8.458356E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 9384.317,
+        "value": 1.17026675,
+        "inSlope": 8.458356E-05,
+        "outSlope": 8.458356E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Ford_F150Hoonitruck_1977WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1065.97278,
+        "value": 0.7153051,
+        "inSlope": 1.0994796E-05,
+        "outSlope": 3.60415834E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4637.811,
+        "value": 0.728178561,
+        "inSlope": 3.60415834E-06,
+        "outSlope": -0.000301088876,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5436.508,
+        "value": 0.487699836,
+        "inSlope": -0.000301088876,
+        "outSlope": -0.002058955,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5673.37549,
+        "value": 0.0,
+        "inSlope": -0.002058955,
+        "outSlope": 7.479294E-13,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6295.976,
+        "value": 4.656613E-10,
+        "inSlope": 7.479294E-13,
+        "outSlope": 0.00230678055,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6510.039,
+        "value": 0.493796349,
+        "inSlope": 0.00230678055,
+        "outSlope": 0.000624608132,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6853.818,
+        "value": 0.7085234,
+        "inSlope": 0.000624608132,
+        "outSlope": 0.000138190648,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7401.585,
+        "value": 0.7842197,
+        "inSlope": 0.000138190648,
+        "outSlope": 7.042708E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

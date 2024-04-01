@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Hyundai_Ioniq5NReward_2023EVTorqueCurve(after upgrade)",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1900.0,
+        "value": 138.950989,
+        "inSlope": -1.85139979E-05,
+        "outSlope": -1.85139979E-05,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3550.0,
+        "value": 138.920441,
+        "inSlope": -1.85139979E-05,
+        "outSlope": 0.119233631,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4150.0,
+        "value": 210.460617,
+        "inSlope": 0.119233631,
+        "outSlope": 0.05508689,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5900.0,
+        "value": 306.862671,
+        "inSlope": 0.05508689,
+        "outSlope": 0.01897317,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8000.0,
+        "value": 346.706329,
+        "inSlope": 0.01897317,
+        "outSlope": -0.0355345272,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 9950.0,
+        "value": 277.414,
+        "inSlope": -0.0355345272,
+        "outSlope": -0.03254731,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 12000.0,
+        "value": 210.692017,
+        "inSlope": -0.03254731,
+        "outSlope": -0.0200938787,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

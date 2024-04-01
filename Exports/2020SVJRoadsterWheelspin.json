@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "2020SVJRoadsterWheelspin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1003.02008,
+        "value": 0.345037878,
+        "inSlope": 0.000155576359,
+        "outSlope": 0.000155576359,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1755.78442,
+        "value": 0.462150216,
+        "inSlope": 0.000155576359,
+        "outSlope": -6.39448554E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3399.687,
+        "value": 0.3570311,
+        "inSlope": -6.39448554E-05,
+        "outSlope": -0.000310354284,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4275.7793,
+        "value": 0.08513211,
+        "inSlope": -0.000310354284,
+        "outSlope": -0.000152305409,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4834.736,
+        "value": 0.0,
+        "inSlope": -0.000152305409,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5257.92432,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.000223533774,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5736.20264,
+        "value": 0.106911361,
+        "inSlope": 0.000223533774,
+        "outSlope": 0.0005521423,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6363.78369,
+        "value": 0.453425378,
+        "inSlope": 0.0005521423,
+        "outSlope": 0.0006807076,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6824.135,
+        "value": 0.766789854,
+        "inSlope": 0.0006807076,
+        "outSlope": -0.000168415878,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8046.27148,
+        "value": 0.5609626,
+        "inSlope": -0.000168415878,
+        "outSlope": 9.652565E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

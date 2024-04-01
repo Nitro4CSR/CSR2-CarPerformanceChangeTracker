@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Audi_RSetronGTReward_2022EVWheelspinCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 1.38309312,
+        "inSlope": 0.000109986177,
+        "outSlope": 0.000109986177,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 31.771101,
+        "value": 1.3865875,
+        "inSlope": 0.000109986177,
+        "outSlope": -4.01150464E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5730.06641,
+        "value": 1.36372876,
+        "inSlope": -4.01150464E-06,
+        "outSlope": -0.00409799768,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6038.388,
+        "value": 0.100226827,
+        "inSlope": -0.00409799768,
+        "outSlope": -0.0004887123,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6243.47168,
+        "value": 0.0,
+        "inSlope": -0.0004887123,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6731.05664,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.000137020281,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6950.00244,
+        "value": 0.0300000142,
+        "inSlope": 0.000137020281,
+        "outSlope": 0.0152788432,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7037.98975,
+        "value": 1.37434423,
+        "inSlope": 0.0152788432,
+        "outSlope": -2.310674E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 9494.636,
+        "value": 1.36866772,
+        "inSlope": -2.310674E-06,
+        "outSlope": -8.41039946E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 11049.9951,
+        "value": 1.35558653,
+        "inSlope": -8.41039946E-06,
+        "outSlope": -8.41039946E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

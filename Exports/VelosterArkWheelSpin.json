@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "VelosterArkWheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1065.97278,
+        "value": 0.7153051,
+        "inSlope": 1.0994796E-05,
+        "outSlope": 1.0994796E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3808.37939,
+        "value": 0.7454573,
+        "inSlope": 1.0994796E-05,
+        "outSlope": -0.001072004,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4357.06738,
+        "value": 0.157261565,
+        "inSlope": -0.001072004,
+        "outSlope": -0.000112382921,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5756.4043,
+        "value": 0.0,
+        "inSlope": -0.000112382921,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6208.959,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.000446886668,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6534.15039,
+        "value": 0.145323709,
+        "inSlope": 0.000446886668,
+        "outSlope": 0.00127112016,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7005.04,
+        "value": 0.743881047,
+        "inSlope": 0.00127112016,
+        "outSlope": 0.000191250365,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8371.201,
+        "value": 1.00515985,
+        "inSlope": 0.000191250365,
+        "outSlope": 7.25649952E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

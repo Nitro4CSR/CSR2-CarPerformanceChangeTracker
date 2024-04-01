@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "SSC_TuataraStriker_2022BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 2050.0,
+        "value": 79.6679153,
+        "inSlope": 0.07953224,
+        "outSlope": 0.07953224,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2250.0,
+        "value": 95.57436,
+        "inSlope": 0.07953224,
+        "outSlope": 0.8392082,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3050.0,
+        "value": 766.9409,
+        "inSlope": 0.8392082,
+        "outSlope": 0.311830133,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3850.0,
+        "value": 1016.405,
+        "inSlope": 0.311830133,
+        "outSlope": 0.168481082,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5500.0,
+        "value": 1294.3988,
+        "inSlope": 0.168481082,
+        "outSlope": 0.109792359,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 6500.0,
+        "value": 1404.19116,
+        "inSlope": 0.109792359,
+        "outSlope": -0.108181246,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7800.0,
+        "value": 1263.55554,
+        "inSlope": -0.108181246,
+        "outSlope": -0.345460385,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 8750.0,
+        "value": 935.368164,
+        "inSlope": -0.345460385,
+        "outSlope": 0.04999419,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

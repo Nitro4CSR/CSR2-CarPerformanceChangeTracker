@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "MercedesAMG_GTBlackSeries_2020WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1065.97278,
+        "value": 0.7153051,
+        "inSlope": 1.0994796E-05,
+        "outSlope": 1.0994796E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3808.37939,
+        "value": 0.7454573,
+        "inSlope": 1.0994796E-05,
+        "outSlope": -0.147662446,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3812.188,
+        "value": 0.183071017,
+        "inSlope": -0.147662446,
+        "outSlope": -0.000345792621,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4341.6123,
+        "value": 0.0,
+        "inSlope": -0.000345792621,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4730.57,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.000285761053,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5236.68652,
+        "value": 0.144628435,
+        "inSlope": 0.000285761053,
+        "outSlope": 0.003392444,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5311.77637,
+        "value": 0.399366528,
+        "inSlope": 0.003392444,
+        "outSlope": 9.5186464E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6759.06738,
+        "value": 0.537129045,
+        "inSlope": 9.5186464E-05,
+        "outSlope": 8.558173E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

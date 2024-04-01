@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "MaseratiGranTurismoSWheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1042.64319,
+        "value": 0.670151532,
+        "inSlope": 1.30357648E-05,
+        "outSlope": -2.95999562E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4319.534,
+        "value": 0.5731557,
+        "inSlope": -2.95999562E-05,
+        "outSlope": -0.000722738157,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4817.742,
+        "value": 0.213081777,
+        "inSlope": -0.000722738157,
+        "outSlope": -0.0002324436,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5734.44531,
+        "value": 0.0,
+        "inSlope": -0.0002324436,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6187.682,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.000367428263,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6745.351,
+        "value": 0.204903334,
+        "inSlope": 0.000367428263,
+        "outSlope": 0.00156992069,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7133.23926,
+        "value": 0.813857,
+        "inSlope": 0.00156992069,
+        "outSlope": 0.000124310449,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7996.549,
+        "value": 0.9211754,
+        "inSlope": 0.000124310449,
+        "outSlope": 0.000257828069,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 9589.789,
+        "value": 1.33195746,
+        "inSlope": 0.000257828069,
+        "outSlope": 0.000151866989,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}
