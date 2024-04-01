@@ -3,7 +3,7 @@ A Repo that tries to keep track of the nerfs and buffs of CSR2.
 
 ## Latest Update Info
 **Update 5.0.0**
-1. Additions
+ 1. Additions
  - Aston Martin DB12
  - Aston Martin Valkyrie AMR Pro
  - Aston Martin Walkyrie Spider
@@ -24,7 +24,7 @@ A Repo that tries to keep track of the nerfs and buffs of CSR2.
  - Rimac Nevera (GS)
  - Rimac Nevera (PS)
 <br>
-2. Nerfs/Buffs<br>
+ 2. Nerfs/Buffs<br>
  - No buffs were detected.
 <br>
 ## History<br>
