@@ -27,7 +27,9 @@ A Repo that tries to keep track of the nerfs and buffs of CSR2.
  2. Nerfs/Buffs<br>
  - No buffs were detected.
 <br>
-## History<br>
-**Update 4.9.0**<br>
+## History
+<br>
+**Update 4.9.0**
+<br>
  - Created the Project
 <br>
