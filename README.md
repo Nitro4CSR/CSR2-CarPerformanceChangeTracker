@@ -24,7 +24,7 @@ A Repo that tries to keep track of the nerfs and buffs of CSR2.
  - Rimac Nevera (GS)
  - Rimac Nevera (PS)
 <br>
-2. Nerfs/Buffs
+2. Nerfs/Buffs<br>
  - No buffs were detected.
 ## History
 **Update 4.9.0**
