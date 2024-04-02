@@ -8,70 +8,70 @@
     "m_FileID": 0,
     "m_PathID": -5010576824879005575
   },
-  "m_Name": "Nissan_LBSuperSilhouetteSilviaS15_1999",
+  "m_Name": "Porsche_TaycanTurboSPride_2021",
   "EcbValue": 0,
   "CarType": 0,
   "NeedsRestoration": 0,
   "IsTunerStarsCar": 0,
-  "IsEVCar": 0,
-  "Key": "Nissan_LBSuperSilhouetteSilviaS15_1999",
+  "IsEVCar": 1,
+  "Key": "Porsche_TaycanTurboSPride_2021",
   "DisableNumberPlate": 0,
-  "ManufacturerID": "id_nissan",
-  "CarEngineSound": 2,
+  "ManufacturerID": "id_porsche",
+  "CarEngineSound": 8,
   "DSGGearBox": 0,
-  "ManufacturerName": "Nissan",
+  "ManufacturerName": "Porsche",
   "DefaultLiveryBundleName": "",
   "DefaultCustomisationBundleNames": [
     ""
   ],
   "EliteOverrideCarAssetID": "",
-  "DriveType": 1,
-  "ModelPrefabString": "Nissan_LBSuperSilhouetteSilviaS15_1999",
+  "DriveType": 2,
+  "ModelPrefabString": "Porsche_TaycanTurboSPride_2021",
   "BaseCarTier": 4,
   "BasePerformanceIndex": 603,
-  "FlyWheelPower": 550,
+  "FlyWheelPower": 751,
   "IsAvailableInShowroomAndUpgrade": 1,
-  "Size": 2,
+  "Size": 0,
   "IsOpenTopCar": 0,
   "CarUnlocksInSeason": 0,
   "CarUnlocksWithGacha": "",
-  "MechanicEngineFettleGraphSlope": 0.06194405,
-  "MechanicEngineFettleGraphIntercept": -24.6357841,
-  "MechanicTyreGripFettleGraphSlope": 0.6194414,
-  "MechanicTyreGripFettleGraphIntercept": -246.358353,
-  "EngineConsumableEngineGraphSlope": 0.1312783,
-  "EngineConsumableEngineGraphIntercept": -58.26934,
-  "EngineConsumableTyreGraphSlope": 1.3127867,
-  "EngineConsumableTyreGraphIntercept": -582.6955,
-  "NitrousConsumableBodyGraphSlope": -1.11318994,
-  "NitrousConsumableBodyGraphIntercept": 870.1063,
-  "TyreConsumableEngineGraphSlope": 0.06388008,
-  "TyreConsumableEngineGraphIntercept": -28.0183163,
-  "TyreConsumableTyreGraphSlope": 0.6387999,
-  "TyreConsumableTyreGraphIntercept": -280.182648,
-  "BaseRedlineRPM": 8000,
-  "OptimalLaunchRPM": 6500,
-  "TransmissionLoss": 26.0,
+  "MechanicEngineFettleGraphSlope": 0.552317858,
+  "MechanicEngineFettleGraphIntercept": -359.752869,
+  "MechanicTyreGripFettleGraphSlope": 5.523149,
+  "MechanicTyreGripFettleGraphIntercept": -3597.508,
+  "EngineConsumableEngineGraphSlope": 0.6636803,
+  "EngineConsumableEngineGraphIntercept": -427.0942,
+  "EngineConsumableTyreGraphSlope": 6.63686848,
+  "EngineConsumableTyreGraphIntercept": -4270.9873,
+  "NitrousConsumableBodyGraphSlope": -1.70668387,
+  "NitrousConsumableBodyGraphIntercept": 1332.08923,
+  "TyreConsumableEngineGraphSlope": 0.335967243,
+  "TyreConsumableEngineGraphIntercept": -217.032074,
+  "TyreConsumableTyreGraphSlope": 3.35967255,
+  "TyreConsumableTyreGraphIntercept": -2170.3208,
+  "BaseRedlineRPM": 15000,
+  "OptimalLaunchRPM": 8000,
+  "TransmissionLoss": 4.0,
   "BaseEngineData": {
-    "EngineRevRate": 9000.0,
-    "RevLimiterTime": 0.15,
-    "Classified": 1,
+    "EngineRevRate": 6500.0,
+    "RevLimiterTime": 0.05,
+    "Classified": 0,
     "_BaseTorqueCurve": {
       "m_FileID": 0,
-      "m_PathID": -2460323738746714845
+      "m_PathID": -4409054219021797111
     },
     "_BaseTorqueCurveEV": {
       "m_FileID": 0,
-      "m_PathID": 0
+      "m_PathID": 4306278900680479371
     }
   },
   "BaseChassisData": {
-    "Mass": 932.1324,
-    "CosmeticMass": 1539.94617,
-    "DragCoefficient": 0.59,
-    "Width": 1.9,
-    "Height": 1.37,
-    "LongitudinalBodyRollScaleFactor": 0.2,
+    "Mass": 1115.83728,
+    "CosmeticMass": 2320.125,
+    "DragCoefficient": 0.65,
+    "Width": 1.98,
+    "Height": 1.19,
+    "LongitudinalBodyRollScaleFactor": 0.24,
     "LongitudinalBodyRollDamping": 0.94,
     "LongitudinalBodyRollScaleDownWithSpeed": 150.0,
     "MaximumBodyRollAngle": 90.0,
@@ -82,31 +82,21 @@
   },
   "BaseGearBoxData": {
     "GearRatios": [
-      3.62,
-      2.6275,
-      1.70499992,
-      1.21,
-      1.0,
-      0.77
+      1.0
     ],
     "DebugChangeGearAtMPH": [
-      44.34105,
-      63.1872826,
-      94.99709,
-      124.236771,
-      156.148285,
-      0.0
+      125.918358
     ],
-    "FinalGearRatio": 3.69,
+    "FinalGearRatio": 4.64,
     "RPMToShiftAutomatic": 6500.0,
-    "ClutchDelay": 0.3,
+    "ClutchDelay": 0.325,
     "ClutchDelayFirstGear": 0.1
   },
   "BaseTyreData": {
-    "WheelRadius": 0.32766,
+    "WheelRadius": 0.357251,
     "RollingFrictionCoefficient": 0.015,
     "RoadFrictionCoefficient": 1.0,
-    "TireGripMax": 6700.0,
+    "TireGripMax": 7388.0,
     "TireWidth": 0.25,
     "FrontAxleDriven": 0,
     "RearAxleDriven": 1,
@@ -116,15 +106,15 @@
     },
     "_WheelSpinGripCurveEV": {
       "m_FileID": 0,
-      "m_PathID": 0
+      "m_PathID": -6376015925286108337
     },
     "_RPMVsExtraWheelSpinCurve": {
       "m_FileID": 0,
-      "m_PathID": 7599086550519053470
+      "m_PathID": -1492685415954571205
     },
     "_RPMVsExtraWheelSpinCurveEV": {
       "m_FileID": 0,
-      "m_PathID": 0
+      "m_PathID": -1492685415954571205
     }
   },
   "BaseNitrousData": {
@@ -136,19 +126,19 @@
   },
   "AvailableUpgradeData": [
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_eng0",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE01",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_eng0",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_ENGINE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 0,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -171,15 +161,15 @@
       "FinalGearRatioEV": 3.44,
       "ClutchDelayEV": 0.2,
       "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
+      "OptimalLaunchRPMDiffEV": 5500,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -1529342994309393640
+        "m_PathID": -1777033459163024747
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_eng1",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE02",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_eng1",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_ENGINE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
@@ -190,7 +180,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.5,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 0,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -216,12 +206,12 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6294534423436789158
+        "m_PathID": 922700547795800093
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_eng2",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE03",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_eng2",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_ENGINE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
@@ -232,7 +222,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.4,
+      "TransmissionLossPercentage": 0.2,
       "UpgradeType": 0,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -258,12 +248,12 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -5609980830709573919
+        "m_PathID": 8882087576257041099
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_eng3",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_eng3",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_ENGINE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
@@ -274,7 +264,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 0,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -300,23 +290,23 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 7148990984129838496
+        "m_PathID": -5301264350494981274
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_eng4",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_eng4",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_ENGINE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.5,
+      "TransmissionLossPercentage": 3.5,
       "UpgradeType": 0,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -342,23 +332,23 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 6452118562461683935
+        "m_PathID": -4312857570912850495
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_eng5",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_eng5",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_ENGINE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.1,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.5,
+      "TransmissionLossPercentage": 3.0,
       "UpgradeType": 0,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -384,12 +374,12 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -550004563652667086
+        "m_PathID": -8149958853125069032
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tur0",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_tur0",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_TURBO01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
@@ -400,7 +390,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.5,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 1,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -426,12 +416,12 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 3464022801470792356
+        "m_PathID": 8205022273668765930
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tur1",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_tur1",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_TURBO02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
@@ -442,7 +432,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.5,
+      "TransmissionLossPercentage": 1.0,
       "UpgradeType": 1,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -468,12 +458,264 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 5959597570603317224
+        "m_PathID": -7455860041007780934
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tur2",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_tur2",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_TURBO03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.7,
+      "UpgradeType": 1,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 4295131109877515231
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_tur3",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_TURBO04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.04,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.5,
+      "UpgradeType": 1,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 9120686811593584615
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_tur4",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_TURBO05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.05,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -0.5,
+      "UpgradeType": 1,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 2362049485935353357
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_tur5",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_TURBO06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.09,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 7916255195064189063
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_int0",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_INTAKE01",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -0.5,
+      "UpgradeType": 2,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -3267898969039809730
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_int1",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_INTAKE02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 1.0,
+      "UpgradeType": 2,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -6177865807188522985
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_int2",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_INTAKE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
@@ -485,7 +727,7 @@
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.5,
-      "UpgradeType": 1,
+      "UpgradeType": 2,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
       "GearRatiosEV": [
@@ -510,24 +752,24 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 4718753442986148289
+        "m_PathID": -917262756287437330
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tur3",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_int3",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_INTAKE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
-      "UpgradeType": 1,
+      "TransmissionLossPercentage": -0.5,
+      "UpgradeType": 2,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
       "GearRatiosEV": [
@@ -552,24 +794,24 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -186363213143652629
+        "m_PathID": 6887343588558211252
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tur4",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_int4",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_INTAKE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
-      "UpgradeType": 1,
+      "TransmissionLossPercentage": -3.0,
+      "UpgradeType": 2,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
       "GearRatiosEV": [
@@ -594,24 +836,24 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -7802634110745424184
+        "m_PathID": 2593355213628976233
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tur5",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO06",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_int5",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_INTAKE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.08,
+      "DragCoeffDifference": -0.05,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -4.0,
-      "UpgradeType": 1,
+      "TransmissionLossPercentage": -1.0,
+      "UpgradeType": 2,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
       "GearRatiosEV": [
@@ -636,14 +878,14 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 5368508775493996974
+        "m_PathID": -4500888158518402752
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_int0",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE01",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_nit0",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_NITROUS01",
+      "NitrousTime": 1.0,
+      "NitrousHPBoost": 50.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
@@ -652,8 +894,8 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 2,
+      "TransmissionLossPercentage": -1.0,
+      "UpgradeType": 3,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
       "GearRatiosEV": [
@@ -678,24 +920,24 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 5850267244201475209
+        "m_PathID": 0
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_int1",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE02",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_nit1",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_NITROUS02",
+      "NitrousTime": 2.3,
+      "NitrousHPBoost": 38.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
-      "UpgradeType": 2,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 3,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
       "GearRatiosEV": [
@@ -720,24 +962,24 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -2105464617380827525
+        "m_PathID": 0
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_int2",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE03",
-      "NitrousTime": 0.0,
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_nit2",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_NITROUS03",
+      "NitrousTime": 0.5,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
-      "UpgradeType": 2,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 3,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
       "GearRatiosEV": [
@@ -762,24 +1004,24 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -1329562035945171464
+        "m_PathID": 0
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_int3",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE04",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_nit3",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_NITROUS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -1.0,
-      "UpgradeType": 2,
+      "UpgradeType": 3,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
       "GearRatiosEV": [
@@ -804,182 +1046,14 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -8671053612129079040
+        "m_PathID": 0
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_int4",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE05",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
-      "UpgradeType": 2,
-      "UpgradeLevel": 4,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -7136060508125700681
-      }
-    },
-    {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_int5",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE06",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.06,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 2,
-      "UpgradeLevel": 5,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -7994247533430310105
-      }
-    },
-    {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_nit0",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS01",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_nit4",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_NITROUS05",
       "NitrousTime": 2.0,
-      "NitrousHPBoost": 25.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
-      "UpgradeType": 3,
-      "UpgradeLevel": 0,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 0
-      }
-    },
-    {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_nit1",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS02",
-      "NitrousTime": 1.0,
-      "NitrousHPBoost": 25.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
-      "UpgradeType": 3,
-      "UpgradeLevel": 1,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 0
-      }
-    },
-    {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_nit2",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS03",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 25.0,
+      "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
@@ -988,91 +1062,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
-      "UpgradeType": 3,
-      "UpgradeLevel": 2,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 0
-      }
-    },
-    {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_nit3",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS04",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 25.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -2.0,
-      "UpgradeType": 3,
-      "UpgradeLevel": 3,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 0
-      }
-    },
-    {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_nit4",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS05",
-      "NitrousTime": 1.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 3,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1102,19 +1092,19 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_nit5",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS06",
-      "NitrousTime": 4.0,
-      "NitrousHPBoost": 25.0,
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_nit5",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_NITROUS06",
+      "NitrousTime": 2.0,
+      "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -3.5,
       "UpgradeType": 3,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1144,7 +1134,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_bod0",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_bod0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1152,9 +1142,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
-      "WeightDifference": -4.535924,
-      "GripDifference": -5.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -18.1436958,
+      "GripDifference": -10.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1186,7 +1176,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_bod1",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_bod1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1194,11 +1184,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
-      "WeightDifference": -9.071848,
-      "GripDifference": -10.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -31.7514668,
+      "GripDifference": -20.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 1.0,
       "UpgradeType": 4,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1228,7 +1218,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_bod2",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_bod2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1238,7 +1228,7 @@
       "EngineRevRateDifference": 650.0,
       "DragCoeffDifference": 0.0,
       "WeightDifference": -11.3398094,
-      "GripDifference": -12.0,
+      "GripDifference": -10.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1270,7 +1260,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_bod3",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_bod3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1278,11 +1268,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
-      "WeightDifference": -13.6077719,
-      "GripDifference": -15.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -22.6796188,
+      "GripDifference": -10.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 4,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1312,7 +1302,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_bod4",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_bod4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1320,11 +1310,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
-      "WeightDifference": -9.071848,
-      "GripDifference": -10.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -22.6796188,
+      "GripDifference": -25.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1354,7 +1344,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_bod5",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_bod5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1363,8 +1353,8 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -45.3592377,
-      "GripDifference": -50.0,
+      "WeightDifference": -22.6796188,
+      "GripDifference": -10.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1396,7 +1386,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tir0",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_tir0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1404,9 +1394,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
-      "GripDifference": 94.0,
+      "GripDifference": 20.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
@@ -1438,7 +1428,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tir1",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_tir1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1446,11 +1436,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
-      "GripDifference": 90.0,
+      "GripDifference": 75.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1480,7 +1470,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tir2",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_tir2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1490,7 +1480,7 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 125.0,
+      "GripDifference": 90.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
@@ -1522,7 +1512,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tir3",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_tir3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1530,9 +1520,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
-      "GripDifference": 50.0,
+      "GripDifference": 120.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -1.0,
       "UpgradeType": 5,
@@ -1564,7 +1554,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tir4",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_tir4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1574,9 +1564,9 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 175.0,
+      "GripDifference": 150.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1606,7 +1596,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tir5",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_tir5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1616,7 +1606,7 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 266.0,
+      "GripDifference": 150.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
@@ -1648,29 +1638,31 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tra0",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS01",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_tra0",
+      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_TRANS01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
-      "GearShiftTimeDifference": -0.05,
-      "TransmissionLossPercentage": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 43.0,
       "UpgradeType": 6,
       "UpgradeLevel": 0,
-      "ShowEVUpgrade": 0,
+      "ShowEVUpgrade": 1,
       "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
+        5.25,
+        3.2175,
+        2.172,
+        1.72,
+        1.316,
+        1.0,
+        0.822,
+        0.64
       ],
       "DebugChangeGearAtMPHEV": [
         0.0,
@@ -1678,10 +1670,12 @@
         0.0,
         0.0,
         0.0,
+        0.0,
+        0.0,
         0.0
       ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
+      "FinalGearRatioEV": 3.15,
+      "ClutchDelayEV": 0.325,
       "ClutchDelayFirstGearEV": 0.1,
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
@@ -1690,7 +1684,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tra1",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_tra1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1698,11 +1692,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -15.8757334,
+      "DragCoeffDifference": 0.0024,
+      "WeightDifference": -23.0155449,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1732,7 +1726,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tra2",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_tra2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1740,11 +1734,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.04,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
-      "GearShiftTimeDifference": -0.05,
-      "TransmissionLossPercentage": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.2,
       "UpgradeType": 6,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1774,7 +1768,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tra3",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_tra3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1782,10 +1776,10 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 50.0,
-      "GearShiftTimeDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": -0.05,
       "TransmissionLossPercentage": -1.0,
       "UpgradeType": 6,
       "UpgradeLevel": 3,
@@ -1816,7 +1810,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tra4",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_tra4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1824,8 +1818,8 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -25.4011745,
+      "DragCoeffDifference": 0.03,
+      "WeightDifference": -39.0089455,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 1.0,
@@ -1858,7 +1852,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tra5",
+      "AssetDatabaseID": "Porsche_TaycanTurboSPride_2021_tra5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1866,11 +1860,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.06,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
-      "GearShiftTimeDifference": -0.1,
-      "TransmissionLossPercentage": 4.0,
+      "GearShiftTimeDifference": -0.09,
+      "TransmissionLossPercentage": -3.0,
       "UpgradeType": 6,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1928,147 +1922,147 @@
   ],
   "PredefinedUpgradeSets": [
     {
-      "PPIndex": 502,
+      "PPIndex": 667,
       "UpgradeData": "0000000000000000"
     },
     {
-      "PPIndex": 511,
+      "PPIndex": 669,
       "UpgradeData": "0000010000000000"
     },
     {
-      "PPIndex": 523,
+      "PPIndex": 673,
       "UpgradeData": "0000010000000100"
     },
     {
-      "PPIndex": 524,
+      "PPIndex": 674,
       "UpgradeData": "0000010000010100"
     },
     {
-      "PPIndex": 527,
+      "PPIndex": 674,
       "UpgradeData": "0100010000010100"
     },
     {
-      "PPIndex": 532,
+      "PPIndex": 679,
       "UpgradeData": "0100010100010100"
     },
     {
-      "PPIndex": 533,
+      "PPIndex": 679,
       "UpgradeData": "0101010100010100"
     },
     {
-      "PPIndex": 536,
+      "PPIndex": 681,
       "UpgradeData": "0101010100010101"
     },
     {
-      "PPIndex": 542,
+      "PPIndex": 683,
       "UpgradeData": "0101020100010101"
     },
     {
-      "PPIndex": 548,
+      "PPIndex": 685,
       "UpgradeData": "0101020100010201"
     },
     {
-      "PPIndex": 550,
+      "PPIndex": 686,
       "UpgradeData": "0101020100020201"
     },
     {
-      "PPIndex": 551,
+      "PPIndex": 687,
       "UpgradeData": "0201020100020201"
     },
     {
-      "PPIndex": 557,
+      "PPIndex": 689,
       "UpgradeData": "0201020200020201"
     },
     {
-      "PPIndex": 558,
+      "PPIndex": 689,
       "UpgradeData": "0202020200020201"
     },
     {
-      "PPIndex": 559,
+      "PPIndex": 690,
       "UpgradeData": "0202020200020202"
     },
     {
-      "PPIndex": 561,
+      "PPIndex": 692,
       "UpgradeData": "0202030200020202"
     },
     {
-      "PPIndex": 564,
+      "PPIndex": 694,
       "UpgradeData": "0202030200020302"
     },
     {
-      "PPIndex": 569,
+      "PPIndex": 695,
       "UpgradeData": "0202030200030302"
     },
     {
-      "PPIndex": 573,
+      "PPIndex": 696,
       "UpgradeData": "0302030200030302"
     },
     {
-      "PPIndex": 574,
+      "PPIndex": 699,
       "UpgradeData": "0302030300030302"
     },
     {
-      "PPIndex": 575,
+      "PPIndex": 699,
       "UpgradeData": "0303030300030302"
     },
     {
-      "PPIndex": 582,
+      "PPIndex": 703,
       "UpgradeData": "0303030300030303"
     },
     {
-      "PPIndex": 587,
+      "PPIndex": 704,
       "UpgradeData": "0303040300030303"
     },
     {
-      "PPIndex": 597,
+      "PPIndex": 704,
       "UpgradeData": "0303040300030403"
     },
     {
-      "PPIndex": 598,
+      "PPIndex": 708,
       "UpgradeData": "0303040300040403"
     },
     {
-      "PPIndex": 601,
+      "PPIndex": 708,
       "UpgradeData": "0403040300040403"
     },
     {
-      "PPIndex": 603,
+      "PPIndex": 710,
       "UpgradeData": "0403040400040403"
     },
     {
-      "PPIndex": 607,
+      "PPIndex": 710,
       "UpgradeData": "0404040400040403"
     },
     {
-      "PPIndex": 606,
+      "PPIndex": 712,
       "UpgradeData": "0404040400040404"
     },
     {
-      "PPIndex": 610,
+      "PPIndex": 713,
       "UpgradeData": "0404050400040404"
     },
     {
-      "PPIndex": 613,
+      "PPIndex": 713,
       "UpgradeData": "0404050400040504"
     },
     {
-      "PPIndex": 617,
+      "PPIndex": 717,
       "UpgradeData": "0404050400050504"
     },
     {
-      "PPIndex": 618,
+      "PPIndex": 717,
       "UpgradeData": "0504050400050504"
     },
     {
-      "PPIndex": 622,
+      "PPIndex": 721,
       "UpgradeData": "0504050500050504"
     },
     {
-      "PPIndex": 623,
+      "PPIndex": 721,
       "UpgradeData": "0505050500050504"
     },
     {
-      "PPIndex": 628,
+      "PPIndex": 725,
       "UpgradeData": "0505050500050505"
     }
   ]

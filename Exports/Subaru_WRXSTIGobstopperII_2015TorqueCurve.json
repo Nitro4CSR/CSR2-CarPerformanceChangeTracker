@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Subaru_WRXSTIGobstopperII_2015TorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 132.2732,
+        "inSlope": 0.00128617859,
+        "outSlope": 0.00128617859,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2000.0,
+        "value": 133.559372,
+        "inSlope": 0.00128617859,
+        "outSlope": 4.099024,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2050.0,
+        "value": 338.510559,
+        "inSlope": 4.099024,
+        "outSlope": 2.04266167,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2100.0,
+        "value": 440.643646,
+        "inSlope": 2.04266167,
+        "outSlope": 0.000785467,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3750.0,
+        "value": 441.939667,
+        "inSlope": 0.000785467,
+        "outSlope": 0.00642168848,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6300.0,
+        "value": 458.314972,
+        "inSlope": 0.00642168848,
+        "outSlope": -0.00171127322,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7500.0,
+        "value": 456.261444,
+        "inSlope": -0.00171127322,
+        "outSlope": -0.06310265,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7900.0,
+        "value": 431.0204,
+        "inSlope": -0.06310265,
+        "outSlope": -0.07330885,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8800.0,
+        "value": 365.042419,
+        "inSlope": -0.07330885,
+        "outSlope": -0.0738848,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 9500.0,
+        "value": 313.323059,
+        "inSlope": -0.0738848,
+        "outSlope": -0.0507674478,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

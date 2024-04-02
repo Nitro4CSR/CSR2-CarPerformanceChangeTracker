@@ -8,57 +8,57 @@
     "m_FileID": 0,
     "m_PathID": -5010576824879005575
   },
-  "m_Name": "Nissan_LBSuperSilhouetteSilviaS15_1999",
+  "m_Name": "Hennessey_VenomF5RoadsterRewardRecycled_2023",
   "EcbValue": 0,
   "CarType": 0,
   "NeedsRestoration": 0,
   "IsTunerStarsCar": 0,
   "IsEVCar": 0,
-  "Key": "Nissan_LBSuperSilhouetteSilviaS15_1999",
+  "Key": "Hennessey_VenomF5RoadsterRewardRecycled_2023",
   "DisableNumberPlate": 0,
-  "ManufacturerID": "id_nissan",
-  "CarEngineSound": 2,
+  "ManufacturerID": "id_hennessey",
+  "CarEngineSound": 3,
   "DSGGearBox": 0,
-  "ManufacturerName": "Nissan",
+  "ManufacturerName": "Hennessey",
   "DefaultLiveryBundleName": "",
   "DefaultCustomisationBundleNames": [
     ""
   ],
   "EliteOverrideCarAssetID": "",
   "DriveType": 1,
-  "ModelPrefabString": "Nissan_LBSuperSilhouetteSilviaS15_1999",
+  "ModelPrefabString": "Hennessey_VenomF5RoadsterRewardRecycled_2023",
   "BaseCarTier": 4,
   "BasePerformanceIndex": 603,
-  "FlyWheelPower": 550,
+  "FlyWheelPower": 1817,
   "IsAvailableInShowroomAndUpgrade": 1,
-  "Size": 2,
-  "IsOpenTopCar": 0,
+  "Size": 0,
+  "IsOpenTopCar": 1,
   "CarUnlocksInSeason": 0,
   "CarUnlocksWithGacha": "",
-  "MechanicEngineFettleGraphSlope": 0.06194405,
-  "MechanicEngineFettleGraphIntercept": -24.6357841,
-  "MechanicTyreGripFettleGraphSlope": 0.6194414,
-  "MechanicTyreGripFettleGraphIntercept": -246.358353,
-  "EngineConsumableEngineGraphSlope": 0.1312783,
-  "EngineConsumableEngineGraphIntercept": -58.26934,
-  "EngineConsumableTyreGraphSlope": 1.3127867,
-  "EngineConsumableTyreGraphIntercept": -582.6955,
-  "NitrousConsumableBodyGraphSlope": -1.11318994,
-  "NitrousConsumableBodyGraphIntercept": 870.1063,
-  "TyreConsumableEngineGraphSlope": 0.06388008,
-  "TyreConsumableEngineGraphIntercept": -28.0183163,
-  "TyreConsumableTyreGraphSlope": 0.6387999,
-  "TyreConsumableTyreGraphIntercept": -280.182648,
-  "BaseRedlineRPM": 8000,
-  "OptimalLaunchRPM": 6500,
-  "TransmissionLoss": 26.0,
+  "MechanicEngineFettleGraphSlope": 0.552317858,
+  "MechanicEngineFettleGraphIntercept": -359.752869,
+  "MechanicTyreGripFettleGraphSlope": 5.523149,
+  "MechanicTyreGripFettleGraphIntercept": -3597.508,
+  "EngineConsumableEngineGraphSlope": 0.6636803,
+  "EngineConsumableEngineGraphIntercept": -427.0942,
+  "EngineConsumableTyreGraphSlope": 6.63686848,
+  "EngineConsumableTyreGraphIntercept": -4270.9873,
+  "NitrousConsumableBodyGraphSlope": -1.70668387,
+  "NitrousConsumableBodyGraphIntercept": 1332.08923,
+  "TyreConsumableEngineGraphSlope": 0.335967243,
+  "TyreConsumableEngineGraphIntercept": -217.032074,
+  "TyreConsumableTyreGraphSlope": 3.35967255,
+  "TyreConsumableTyreGraphIntercept": -2170.3208,
+  "BaseRedlineRPM": 8500,
+  "OptimalLaunchRPM": 6000,
+  "TransmissionLoss": 70.0,
   "BaseEngineData": {
-    "EngineRevRate": 9000.0,
-    "RevLimiterTime": 0.15,
-    "Classified": 1,
+    "EngineRevRate": 9500.0,
+    "RevLimiterTime": 0.05,
+    "Classified": 0,
     "_BaseTorqueCurve": {
       "m_FileID": 0,
-      "m_PathID": -2460323738746714845
+      "m_PathID": -3344273442261163102
     },
     "_BaseTorqueCurveEV": {
       "m_FileID": 0,
@@ -66,12 +66,12 @@
     }
   },
   "BaseChassisData": {
-    "Mass": 932.1324,
-    "CosmeticMass": 1539.94617,
-    "DragCoefficient": 0.59,
-    "Width": 1.9,
-    "Height": 1.37,
-    "LongitudinalBodyRollScaleFactor": 0.2,
+    "Mass": 1065.94214,
+    "CosmeticMass": 1359.87,
+    "DragCoefficient": 0.88,
+    "Width": 1.98,
+    "Height": 1.19,
+    "LongitudinalBodyRollScaleFactor": 0.11,
     "LongitudinalBodyRollDamping": 0.94,
     "LongitudinalBodyRollScaleDownWithSpeed": 150.0,
     "MaximumBodyRollAngle": 90.0,
@@ -82,31 +82,33 @@
   },
   "BaseGearBoxData": {
     "GearRatios": [
-      3.62,
-      2.6275,
-      1.70499992,
-      1.21,
-      1.0,
-      0.77
+      3.133,
+      2.1,
+      1.52,
+      1.172,
+      0.941,
+      0.784,
+      0.675
     ],
     "DebugChangeGearAtMPH": [
-      44.34105,
-      63.1872826,
-      94.99709,
-      124.236771,
-      156.148285,
+      56.1980743,
+      83.84218,
+      115.015419,
+      146.510956,
+      177.5154,
+      211.07869,
       0.0
     ],
-    "FinalGearRatio": 3.69,
+    "FinalGearRatio": 3.17,
     "RPMToShiftAutomatic": 6500.0,
-    "ClutchDelay": 0.3,
+    "ClutchDelay": 0.325,
     "ClutchDelayFirstGear": 0.1
   },
   "BaseTyreData": {
-    "WheelRadius": 0.32766,
+    "WheelRadius": 0.280924,
     "RollingFrictionCoefficient": 0.015,
     "RoadFrictionCoefficient": 1.0,
-    "TireGripMax": 6700.0,
+    "TireGripMax": 10001.0,
     "TireWidth": 0.25,
     "FrontAxleDriven": 0,
     "RearAxleDriven": 1,
@@ -120,7 +122,7 @@
     },
     "_RPMVsExtraWheelSpinCurve": {
       "m_FileID": 0,
-      "m_PathID": 7599086550519053470
+      "m_PathID": -4951682229211429315
     },
     "_RPMVsExtraWheelSpinCurveEV": {
       "m_FileID": 0,
@@ -136,7 +138,7 @@
   },
   "AvailableUpgradeData": [
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_eng0",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_eng0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -144,11 +146,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 0.5,
       "UpgradeType": 0,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -174,11 +176,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -1529342994309393640
+        "m_PathID": -1768529981126044280
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_eng1",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_eng1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -190,7 +192,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.5,
+      "TransmissionLossPercentage": -0.2,
       "UpgradeType": 0,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -216,11 +218,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6294534423436789158
+        "m_PathID": 3662552097176281774
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_eng2",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_eng2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -228,11 +230,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.4,
+      "TransmissionLossPercentage": 0.3,
       "UpgradeType": 0,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -258,11 +260,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -5609980830709573919
+        "m_PathID": 1187524832976067455
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_eng3",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_eng3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -270,11 +272,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.04,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -0.25,
       "UpgradeType": 0,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -300,11 +302,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 7148990984129838496
+        "m_PathID": -1231745389102367149
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_eng4",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_eng4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -312,11 +314,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.5,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 0,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -342,11 +344,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 6452118562461683935
+        "m_PathID": -451280531058824520
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_eng5",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_eng5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -354,11 +356,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.5,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 0,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -384,11 +386,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -550004563652667086
+        "m_PathID": 1999155352826908813
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tur0",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_tur0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -396,11 +398,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 1,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -426,11 +428,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 3464022801470792356
+        "m_PathID": -8559536352513677404
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tur1",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_tur1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -442,7 +444,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.5,
+      "TransmissionLossPercentage": -0.4,
       "UpgradeType": 1,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -468,11 +470,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 5959597570603317224
+        "m_PathID": 6379254081196550660
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tur2",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_tur2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -484,7 +486,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.5,
+      "TransmissionLossPercentage": 0.4,
       "UpgradeType": 1,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -510,11 +512,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 4718753442986148289
+        "m_PathID": 1231970876096548813
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tur3",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_tur3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -526,7 +528,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 1,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -552,11 +554,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -186363213143652629
+        "m_PathID": -4122283225930135173
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tur4",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_tur4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -564,11 +566,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 1,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -594,11 +596,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -7802634110745424184
+        "m_PathID": -5038109467076127867
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tur5",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_tur5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -606,11 +608,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.08,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -4.0,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 1,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -636,11 +638,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 5368508775493996974
+        "m_PathID": 279625453796753324
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_int0",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_int0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -648,7 +650,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -678,11 +680,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 5850267244201475209
+        "m_PathID": 7582251286205797474
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_int1",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_int1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -690,11 +692,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 2,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -720,11 +722,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -2105464617380827525
+        "m_PathID": -7867301547775983077
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_int2",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_int2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -736,7 +738,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
+      "TransmissionLossPercentage": 0.2,
       "UpgradeType": 2,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -762,11 +764,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -1329562035945171464
+        "m_PathID": -2834937723778888389
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_int3",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_int3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -774,11 +776,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.05,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 2,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -804,11 +806,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -8671053612129079040
+        "m_PathID": -7774880506390950693
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_int4",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_int4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -816,7 +818,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -846,11 +848,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -7136060508125700681
+        "m_PathID": -5406936639885045547
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_int5",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_int5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -858,11 +860,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.06,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 2,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -888,11 +890,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -7994247533430310105
+        "m_PathID": 5784106527841677061
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_nit0",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_nit0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS01",
       "NitrousTime": 2.0,
       "NitrousHPBoost": 25.0,
@@ -900,11 +902,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 3,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -934,7 +936,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_nit1",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_nit1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS02",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 25.0,
@@ -942,11 +944,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
+      "TransmissionLossPercentage": -0.3,
       "UpgradeType": 3,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -976,7 +978,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_nit2",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_nit2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 25.0,
@@ -984,11 +986,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 3,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1018,7 +1020,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_nit3",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_nit3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 25.0,
@@ -1026,11 +1028,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 3,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1060,7 +1062,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_nit4",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_nit4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS05",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 0.0,
@@ -1068,7 +1070,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -1102,7 +1104,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_nit5",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_nit5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS06",
       "NitrousTime": 4.0,
       "NitrousHPBoost": 25.0,
@@ -1144,7 +1146,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_bod0",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_bod0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1152,9 +1154,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
-      "WeightDifference": -4.535924,
-      "GripDifference": -5.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -13.6077719,
+      "GripDifference": -15.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1186,7 +1188,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_bod1",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_bod1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1194,11 +1196,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
-      "WeightDifference": -9.071848,
-      "GripDifference": -10.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -13.6077719,
+      "GripDifference": -15.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 4,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1228,7 +1230,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_bod2",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_bod2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1237,8 +1239,8 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 650.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -11.3398094,
-      "GripDifference": -12.0,
+      "WeightDifference": -9.071848,
+      "GripDifference": -10.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1270,7 +1272,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_bod3",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_bod3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1278,11 +1280,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.015,
       "WeightDifference": -13.6077719,
       "GripDifference": -15.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 4,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1312,7 +1314,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_bod4",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_bod4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1320,11 +1322,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
-      "WeightDifference": -9.071848,
-      "GripDifference": -10.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -27.2155437,
+      "GripDifference": -30.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1354,7 +1356,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_bod5",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_bod5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1396,7 +1398,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tir0",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_tir0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1404,7 +1406,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 94.0,
       "GearShiftTimeDifference": 0.0,
@@ -1438,7 +1440,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tir1",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_tir1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1446,11 +1448,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.05,
       "WeightDifference": 0.0,
-      "GripDifference": 90.0,
+      "GripDifference": 100.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1480,7 +1482,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tir2",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_tir2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1488,7 +1490,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 125.0,
       "GearShiftTimeDifference": 0.0,
@@ -1522,7 +1524,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tir3",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_tir3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1530,11 +1532,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": 0.0,
-      "GripDifference": 50.0,
+      "GripDifference": 75.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 5,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1564,7 +1566,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tir4",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_tir4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1572,11 +1574,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
-      "GripDifference": 175.0,
+      "GripDifference": 165.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 5,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1606,7 +1608,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tir5",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_tir5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1616,9 +1618,9 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 266.0,
+      "GripDifference": 226.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 5,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1648,7 +1650,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tra0",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_tra0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1656,7 +1658,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
@@ -1690,7 +1692,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tra1",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_tra1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1698,11 +1700,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -15.8757334,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": -18.1436958,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1732,7 +1734,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tra2",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_tra2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1740,7 +1742,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.04,
+      "DragCoeffDifference": 0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
@@ -1774,7 +1776,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tra3",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_tra3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1782,11 +1784,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.05,
       "WeightDifference": 0.0,
-      "GripDifference": 50.0,
+      "GripDifference": 75.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1816,7 +1818,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tra4",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_tra4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1824,11 +1826,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -25.4011745,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": -29.9370975,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1858,7 +1860,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Nissan_LBSuperSilhouetteSilviaS15_1999_tra5",
+      "AssetDatabaseID": "Hennessey_VenomF5RoadsterRewardRecycled_2023_tra5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1866,11 +1868,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.1,
-      "TransmissionLossPercentage": 4.0,
+      "TransmissionLossPercentage": 0.5,
       "UpgradeType": 6,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1928,147 +1930,147 @@
   ],
   "PredefinedUpgradeSets": [
     {
-      "PPIndex": 502,
+      "PPIndex": 667,
       "UpgradeData": "0000000000000000"
     },
     {
-      "PPIndex": 511,
+      "PPIndex": 669,
       "UpgradeData": "0000010000000000"
     },
     {
-      "PPIndex": 523,
+      "PPIndex": 673,
       "UpgradeData": "0000010000000100"
     },
     {
-      "PPIndex": 524,
+      "PPIndex": 674,
       "UpgradeData": "0000010000010100"
     },
     {
-      "PPIndex": 527,
+      "PPIndex": 674,
       "UpgradeData": "0100010000010100"
     },
     {
-      "PPIndex": 532,
+      "PPIndex": 679,
       "UpgradeData": "0100010100010100"
     },
     {
-      "PPIndex": 533,
+      "PPIndex": 679,
       "UpgradeData": "0101010100010100"
     },
     {
-      "PPIndex": 536,
+      "PPIndex": 681,
       "UpgradeData": "0101010100010101"
     },
     {
-      "PPIndex": 542,
+      "PPIndex": 683,
       "UpgradeData": "0101020100010101"
     },
     {
-      "PPIndex": 548,
+      "PPIndex": 685,
       "UpgradeData": "0101020100010201"
     },
     {
-      "PPIndex": 550,
+      "PPIndex": 686,
       "UpgradeData": "0101020100020201"
     },
     {
-      "PPIndex": 551,
+      "PPIndex": 687,
       "UpgradeData": "0201020100020201"
     },
     {
-      "PPIndex": 557,
+      "PPIndex": 689,
       "UpgradeData": "0201020200020201"
     },
     {
-      "PPIndex": 558,
+      "PPIndex": 689,
       "UpgradeData": "0202020200020201"
     },
     {
-      "PPIndex": 559,
+      "PPIndex": 690,
       "UpgradeData": "0202020200020202"
     },
     {
-      "PPIndex": 561,
+      "PPIndex": 692,
       "UpgradeData": "0202030200020202"
     },
     {
-      "PPIndex": 564,
+      "PPIndex": 694,
       "UpgradeData": "0202030200020302"
     },
     {
-      "PPIndex": 569,
+      "PPIndex": 695,
       "UpgradeData": "0202030200030302"
     },
     {
-      "PPIndex": 573,
+      "PPIndex": 696,
       "UpgradeData": "0302030200030302"
     },
     {
-      "PPIndex": 574,
+      "PPIndex": 699,
       "UpgradeData": "0302030300030302"
     },
     {
-      "PPIndex": 575,
+      "PPIndex": 699,
       "UpgradeData": "0303030300030302"
     },
     {
-      "PPIndex": 582,
+      "PPIndex": 703,
       "UpgradeData": "0303030300030303"
     },
     {
-      "PPIndex": 587,
+      "PPIndex": 704,
       "UpgradeData": "0303040300030303"
     },
     {
-      "PPIndex": 597,
+      "PPIndex": 704,
       "UpgradeData": "0303040300030403"
     },
     {
-      "PPIndex": 598,
+      "PPIndex": 708,
       "UpgradeData": "0303040300040403"
     },
     {
-      "PPIndex": 601,
+      "PPIndex": 708,
       "UpgradeData": "0403040300040403"
     },
     {
-      "PPIndex": 603,
+      "PPIndex": 710,
       "UpgradeData": "0403040400040403"
     },
     {
-      "PPIndex": 607,
+      "PPIndex": 710,
       "UpgradeData": "0404040400040403"
     },
     {
-      "PPIndex": 606,
+      "PPIndex": 712,
       "UpgradeData": "0404040400040404"
     },
     {
-      "PPIndex": 610,
+      "PPIndex": 713,
       "UpgradeData": "0404050400040404"
     },
     {
-      "PPIndex": 613,
+      "PPIndex": 713,
       "UpgradeData": "0404050400040504"
     },
     {
-      "PPIndex": 617,
+      "PPIndex": 717,
       "UpgradeData": "0404050400050504"
     },
     {
-      "PPIndex": 618,
+      "PPIndex": 717,
       "UpgradeData": "0504050400050504"
     },
     {
-      "PPIndex": 622,
+      "PPIndex": 721,
       "UpgradeData": "0504050500050504"
     },
     {
-      "PPIndex": 623,
+      "PPIndex": 721,
       "UpgradeData": "0505050500050504"
     },
     {
-      "PPIndex": 628,
+      "PPIndex": 725,
       "UpgradeData": "0505050500050505"
     }
   ]

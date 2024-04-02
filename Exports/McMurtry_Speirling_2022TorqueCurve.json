@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "McMurtry_Speirling_2022TorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 156.29454,
+        "inSlope": 0.033765763,
+        "outSlope": 1.00452209,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 400.0,
+        "value": 558.1034,
+        "inSlope": 1.00452209,
+        "outSlope": 0.00192995067,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 10000.0,
+        "value": 576.6309,
+        "inSlope": 0.00192995067,
+        "outSlope": -0.04058651,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 13200.0,
+        "value": 446.7541,
+        "inSlope": -0.04058651,
+        "outSlope": -0.0226798728,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 17750.0,
+        "value": 343.560669,
+        "inSlope": -0.0226798728,
+        "outSlope": -0.0432573855,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

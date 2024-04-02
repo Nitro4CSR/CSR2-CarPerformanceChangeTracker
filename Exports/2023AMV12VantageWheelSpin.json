@@ -6,79 +6,79 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 0,
-    "m_PathID": 9218491004411354591
+    "m_PathID": 7467269084997592608
   },
-  "m_Name": "Hyundai_ElantraNReward_2022BaseTorqueCurve",
+  "m_Name": "2023AMV12VantageWheelSpin",
   "animationCurve": {
     "m_Curve": [
       {
-        "time": 1050.0,
-        "value": 94.21275,
-        "inSlope": 0.07408986,
-        "outSlope": 0.04137928,
+        "time": 1006.1554,
+        "value": 0.6762218,
+        "inSlope": 2.55819759E-05,
+        "outSlope": 2.55819778E-05,
         "weightedMode": 0,
         "inWeight": 0.333333343,
         "outWeight": 0.333333343
       },
       {
-        "time": 2250.0,
-        "value": 143.867889,
-        "inSlope": 0.04137928,
-        "outSlope": 0.05734197,
+        "time": 4354.17236,
+        "value": 0.7618707,
+        "inSlope": 2.55819778E-05,
+        "outSlope": -0.00731435232,
         "weightedMode": 0,
         "inWeight": 0.333333343,
         "outWeight": 0.333333343
       },
       {
-        "time": 3400.0,
-        "value": 209.811157,
-        "inSlope": 0.05734197,
-        "outSlope": 0.0501446873,
+        "time": 4415.925,
+        "value": 0.310191572,
+        "inSlope": -0.00731435232,
+        "outSlope": -0.000915900629,
         "weightedMode": 0,
         "inWeight": 0.333333343,
         "outWeight": 0.333333343
       },
       {
-        "time": 4300.0,
-        "value": 254.941376,
-        "inSlope": 0.0501446873,
-        "outSlope": 0.0582870133,
+        "time": 4754.59863,
+        "value": 0.0,
+        "inSlope": -0.000915900629,
+        "outSlope": 0.0,
         "weightedMode": 0,
         "inWeight": 0.333333343,
         "outWeight": 0.333333343
       },
       {
-        "time": 4750.0,
-        "value": 281.170532,
-        "inSlope": 0.0582870133,
-        "outSlope": 0.0289273784,
+        "time": 5242.9707,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.00228496082,
         "weightedMode": 0,
         "inWeight": 0.333333343,
         "outWeight": 0.333333343
       },
       {
-        "time": 5400.0,
-        "value": 299.973328,
-        "inSlope": 0.0289273784,
-        "outSlope": -0.07305827,
+        "time": 5385.975,
+        "value": 0.326759428,
+        "inSlope": 0.00228496082,
+        "outSlope": 0.0015309212,
         "weightedMode": 0,
         "inWeight": 0.333333343,
         "outWeight": 0.333333343
       },
       {
-        "time": 6000.0,
-        "value": 256.138367,
-        "inSlope": -0.07305827,
-        "outSlope": -0.103111155,
+        "time": 5808.32129,
+        "value": 0.9733382,
+        "inSlope": 0.0015309212,
+        "outSlope": 6.33429954E-05,
         "weightedMode": 0,
         "inWeight": 0.333333343,
         "outWeight": 0.333333343
       },
       {
-        "time": 6400.0,
-        "value": 214.8939,
-        "inSlope": -0.103111155,
-        "outSlope": -0.18339172,
+        "time": 7522.075,
+        "value": 1.08189249,
+        "inSlope": 6.33429954E-05,
+        "outSlope": 6.33429954E-05,
         "weightedMode": 0,
         "inWeight": 0.333333343,
         "outWeight": 0.333333343
