@@ -8,70 +8,70 @@
     "m_FileID": 0,
     "m_PathID": -5010576824879005575
   },
-  "m_Name": "Hyundai_Ioniq5NReward_2023",
+  "m_Name": "Chevrolet_RingbrothersChevelle_1966",
   "EcbValue": 0,
   "CarType": 0,
   "NeedsRestoration": 0,
   "IsTunerStarsCar": 0,
-  "IsEVCar": 1,
-  "Key": "Hyundai_Ioniq5NReward_2023",
+  "IsEVCar": 0,
+  "Key": "Chevrolet_RingbrothersChevelle_1966",
   "DisableNumberPlate": 0,
-  "ManufacturerID": "id_hyundai",
-  "CarEngineSound": 1,
+  "ManufacturerID": "id_chevrolet",
+  "CarEngineSound": 3,
   "DSGGearBox": 0,
-  "ManufacturerName": "Hyundai",
+  "ManufacturerName": "Chevrolet",
   "DefaultLiveryBundleName": "",
   "DefaultCustomisationBundleNames": [
     ""
   ],
   "EliteOverrideCarAssetID": "",
-  "DriveType": 2,
-  "ModelPrefabString": "Hyundai_Ioniq5NReward_2023",
-  "BaseCarTier": 3,
-  "BasePerformanceIndex": 500,
-  "FlyWheelPower": 320,
+  "DriveType": 1,
+  "ModelPrefabString": "Chevrolet_RingbrothersChevelle_1966",
+  "BaseCarTier": 4,
+  "BasePerformanceIndex": 603,
+  "FlyWheelPower": 980,
   "IsAvailableInShowroomAndUpgrade": 1,
-  "Size": 0,
+  "Size": 3,
   "IsOpenTopCar": 0,
   "CarUnlocksInSeason": 0,
   "CarUnlocksWithGacha": "",
-  "MechanicEngineFettleGraphSlope": 0.552317858,
-  "MechanicEngineFettleGraphIntercept": -359.752869,
-  "MechanicTyreGripFettleGraphSlope": 5.523149,
-  "MechanicTyreGripFettleGraphIntercept": -3597.508,
-  "EngineConsumableEngineGraphSlope": 0.6636803,
-  "EngineConsumableEngineGraphIntercept": -427.0942,
-  "EngineConsumableTyreGraphSlope": 6.63686848,
-  "EngineConsumableTyreGraphIntercept": -4270.9873,
-  "NitrousConsumableBodyGraphSlope": -1.70668387,
-  "NitrousConsumableBodyGraphIntercept": 1332.08923,
-  "TyreConsumableEngineGraphSlope": 0.335967243,
-  "TyreConsumableEngineGraphIntercept": -217.032074,
-  "TyreConsumableTyreGraphSlope": 3.35967255,
-  "TyreConsumableTyreGraphIntercept": -2170.3208,
-  "BaseRedlineRPM": 12000,
-  "OptimalLaunchRPM": 8000,
-  "TransmissionLoss": 22.0,
+  "MechanicEngineFettleGraphSlope": 0.03702838,
+  "MechanicEngineFettleGraphIntercept": -5.99676,
+  "MechanicTyreGripFettleGraphSlope": 0.370283067,
+  "MechanicTyreGripFettleGraphIntercept": -59.9673233,
+  "EngineConsumableEngineGraphSlope": 0.06482829,
+  "EngineConsumableEngineGraphIntercept": -12.5709028,
+  "EngineConsumableTyreGraphSlope": 0.6482835,
+  "EngineConsumableTyreGraphIntercept": -125.709244,
+  "NitrousConsumableBodyGraphSlope": -1.21394968,
+  "NitrousConsumableBodyGraphIntercept": 721.388367,
+  "TyreConsumableEngineGraphSlope": 0.02590572,
+  "TyreConsumableEngineGraphIntercept": -3.89880681,
+  "TyreConsumableTyreGraphSlope": 0.259056956,
+  "TyreConsumableTyreGraphIntercept": -38.9879723,
+  "BaseRedlineRPM": 6500,
+  "OptimalLaunchRPM": 5000,
+  "TransmissionLoss": 31.0,
   "BaseEngineData": {
-    "EngineRevRate": 9500.0,
-    "RevLimiterTime": 0.05,
+    "EngineRevRate": 7000.0,
+    "RevLimiterTime": 0.17,
     "Classified": 0,
     "_BaseTorqueCurve": {
       "m_FileID": 0,
-      "m_PathID": -6641416859088623123
+      "m_PathID": -3378956601861406176
     },
     "_BaseTorqueCurveEV": {
       "m_FileID": 0,
-      "m_PathID": 4920639251836829802
+      "m_PathID": 0
     }
   },
   "BaseChassisData": {
-    "Mass": 1360.77722,
-    "CosmeticMass": 2125.98755,
-    "DragCoefficient": 0.8,
-    "Width": 1.98,
-    "Height": 1.19,
-    "LongitudinalBodyRollScaleFactor": 0.24,
+    "Mass": 1115.83728,
+    "CosmeticMass": 1612.521,
+    "DragCoefficient": 0.81,
+    "Width": 1.91,
+    "Height": 1.37,
+    "LongitudinalBodyRollScaleFactor": 0.34,
     "LongitudinalBodyRollDamping": 0.94,
     "LongitudinalBodyRollScaleDownWithSpeed": 150.0,
     "MaximumBodyRollAngle": 90.0,
@@ -82,22 +82,32 @@
   },
   "BaseGearBoxData": {
     "GearRatios": [
-      1.0
+      2.66,
+      1.78,
+      1.3,
+      0.9,
+      0.8,
+      0.63
     ],
     "DebugChangeGearAtMPH": [
-      125.918358
+      56.99934,
+      81.58081,
+      114.658829,
+      144.27034,
+      173.51181,
+      0.0
     ],
-    "FinalGearRatio": 4.96,
+    "FinalGearRatio": 3.4,
     "RPMToShiftAutomatic": 6500.0,
-    "ClutchDelay": 0.325,
+    "ClutchDelay": 0.4,
     "ClutchDelayFirstGear": 0.1
   },
   "BaseTyreData": {
-    "WheelRadius": 0.3683,
-    "RollingFrictionCoefficient": 0.015,
+    "WheelRadius": 0.344424,
+    "RollingFrictionCoefficient": 0.04,
     "RoadFrictionCoefficient": 1.0,
-    "TireGripMax": 7500.0,
-    "TireWidth": 0.315,
+    "TireGripMax": 9300.0,
+    "TireWidth": 0.25,
     "FrontAxleDriven": 0,
     "RearAxleDriven": 1,
     "_WheelSpinGripCurve": {
@@ -106,15 +116,15 @@
     },
     "_WheelSpinGripCurveEV": {
       "m_FileID": 0,
-      "m_PathID": -6376015925286108337
+      "m_PathID": 0
     },
     "_RPMVsExtraWheelSpinCurve": {
       "m_FileID": 0,
-      "m_PathID": -6082695449422172937
+      "m_PathID": 1519104342323437355
     },
     "_RPMVsExtraWheelSpinCurveEV": {
       "m_FileID": 0,
-      "m_PathID": -6082695449422172937
+      "m_PathID": 0
     }
   },
   "BaseNitrousData": {
@@ -126,850 +136,10 @@
   },
   "AvailableUpgradeData": [
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_eng0",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_ENGINE01",
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_eng0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
-      "UpgradeType": 0,
-      "UpgradeLevel": 0,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 5500,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -1777033459163024747
-      }
-    },
-    {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_eng1",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_ENGINE02",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 0,
-      "UpgradeLevel": 1,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 922700547795800093
-      }
-    },
-    {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_eng2",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_ENGINE03",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 0,
-      "UpgradeLevel": 2,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 8882087576257041099
-      }
-    },
-    {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_eng3",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_ENGINE04",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
-      "UpgradeType": 0,
-      "UpgradeLevel": 3,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -5301264350494981274
-      }
-    },
-    {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_eng4",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_ENGINE05",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.04,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 2.0,
-      "UpgradeType": 0,
-      "UpgradeLevel": 4,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -4312857570912850495
-      }
-    },
-    {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_eng5",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_ENGINE06",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.1,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -12.0,
-      "UpgradeType": 0,
-      "UpgradeLevel": 5,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -8149958853125069032
-      }
-    },
-    {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_tur0",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_TURBO01",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.7,
-      "UpgradeType": 1,
-      "UpgradeLevel": 0,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 8205022273668765930
-      }
-    },
-    {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_tur1",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_TURBO02",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.08,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.0,
-      "UpgradeType": 1,
-      "UpgradeLevel": 1,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -7455860041007780934
-      }
-    },
-    {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_tur2",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_TURBO03",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.06,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
-      "UpgradeType": 1,
-      "UpgradeLevel": 2,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 4295131109877515231
-      }
-    },
-    {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_tur3",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_TURBO04",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.07,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.5,
-      "UpgradeType": 1,
-      "UpgradeLevel": 3,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 9120686811593584615
-      }
-    },
-    {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_tur4",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_TURBO05",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.06,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 2.0,
-      "UpgradeType": 1,
-      "UpgradeLevel": 4,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 2362049485935353357
-      }
-    },
-    {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_tur5",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_TURBO06",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.08,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -5.0,
-      "UpgradeType": 1,
-      "UpgradeLevel": 5,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 7916255195064189063
-      }
-    },
-    {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_int0",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_INTAKE01",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.04,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.0,
-      "UpgradeType": 2,
-      "UpgradeLevel": 0,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -3267898969039809730
-      }
-    },
-    {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_int1",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_INTAKE02",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.06,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 2.0,
-      "UpgradeType": 2,
-      "UpgradeLevel": 1,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -6177865807188522985
-      }
-    },
-    {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_int2",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_INTAKE03",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.06,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 2,
-      "UpgradeLevel": 2,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -917262756287437330
-      }
-    },
-    {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_int3",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_INTAKE04",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.0,
-      "UpgradeType": 2,
-      "UpgradeLevel": 3,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 6887343588558211252
-      }
-    },
-    {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_int4",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_INTAKE05",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.0,
-      "UpgradeType": 2,
-      "UpgradeLevel": 4,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 2593355213628976233
-      }
-    },
-    {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_int5",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_INTAKE06",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.08,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -6.0,
-      "UpgradeType": 2,
-      "UpgradeLevel": 5,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -4500888158518402752
-      }
-    },
-    {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_nit0",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_NITROUS01",
-      "NitrousTime": 1.0,
-      "NitrousHPBoost": 50.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.04,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 3,
-      "UpgradeLevel": 0,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 0
-      }
-    },
-    {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_nit1",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_NITROUS02",
-      "NitrousTime": 1.0,
-      "NitrousHPBoost": 25.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.75,
-      "UpgradeType": 3,
-      "UpgradeLevel": 1,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 0
-      }
-    },
-    {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_nit2",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_NITROUS03",
-      "NitrousTime": 0.5,
-      "NitrousHPBoost": 25.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
@@ -979,6 +149,846 @@
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.5,
+      "UpgradeType": 0,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -3830540764375993523
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_eng1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.5,
+      "UpgradeType": 0,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 4106962160041962883
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_eng2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 6692661513542918394
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_eng3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.04,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -2.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -1049993401984513417
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_eng4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.03,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -2.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -1605879860165479786
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_eng5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 100,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.04,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -2.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -9048320361466016994
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_tur0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NOTURBO01",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -0.5,
+      "UpgradeType": 1,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 8767145566048315148
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_tur1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -8933733950497482866
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_tur2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 2893396679246076613
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_tur3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.03,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -7145221268599585060
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_tur4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.03,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 6750280463497848411
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_tur5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -3.5,
+      "UpgradeType": 1,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -684246032154257778
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_int0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE01",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.0,
+      "UpgradeType": 2,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 3359146478192477145
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_int1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.04,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 2,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 321798263416533271
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_int2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -0.5,
+      "UpgradeType": 2,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -7304942874754306162
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_int3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.03,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.5,
+      "UpgradeType": 2,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 7188728545157206561
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_int4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.5,
+      "UpgradeType": 2,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -9047947689985918410
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_int5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 50,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.05,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 2,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 7509830917572871225
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_nit0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS01",
+      "NitrousTime": 2.0,
+      "NitrousHPBoost": 25.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -0.5,
+      "UpgradeType": 3,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_nit1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS02",
+      "NitrousTime": 1.0,
+      "NitrousHPBoost": 25.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.0,
+      "UpgradeType": 3,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_nit2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 25.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 3,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1008,15 +1018,15 @@
       }
     },
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_nit3",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_NITROUS04",
-      "NitrousTime": 1.5,
-      "NitrousHPBoost": 50.0,
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_nit3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 25.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.04,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -1050,19 +1060,19 @@
       }
     },
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_nit4",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_NITROUS05",
-      "NitrousTime": 2.0,
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_nit4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS05",
+      "NitrousTime": 1.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 3,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1092,19 +1102,19 @@
       }
     },
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_nit5",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_NITROUS06",
-      "NitrousTime": 2.0,
-      "NitrousHPBoost": 0.0,
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_nit5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS06",
+      "NitrousTime": 4.0,
+      "NitrousHPBoost": 25.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.06,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -4.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 3,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1134,7 +1144,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_bod0",
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_bod0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1142,11 +1152,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -9.071848,
-      "GripDifference": -10.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": -13.6077719,
+      "GripDifference": -15.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -1176,7 +1186,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_bod1",
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_bod1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1185,10 +1195,10 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -13.6077719,
-      "GripDifference": -15.0,
+      "WeightDifference": -22.6796188,
+      "GripDifference": -25.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 4,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1218,7 +1228,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_bod2",
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_bod2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1227,10 +1237,10 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 650.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -18.1436958,
-      "GripDifference": -20.0,
+      "WeightDifference": -11.3398094,
+      "GripDifference": -12.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.4,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1260,7 +1270,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_bod3",
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_bod3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1268,11 +1278,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.04,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": -22.6796188,
       "GripDifference": -25.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 4,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1302,7 +1312,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_bod4",
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_bod4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1310,11 +1320,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -36.28739,
-      "GripDifference": -40.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": -27.2155437,
+      "GripDifference": -30.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": 1.0,
       "UpgradeType": 4,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1344,7 +1354,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_bod5",
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_bod5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1352,11 +1362,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -45.3592377,
-      "GripDifference": -50.0,
+      "DragCoeffDifference": 0.01,
+      "WeightDifference": -54.4310875,
+      "GripDifference": -60.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": 1.5,
       "UpgradeType": 4,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1386,7 +1396,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_tir0",
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_tir0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1394,9 +1404,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.04,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
-      "GripDifference": 20.0,
+      "GripDifference": 94.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
@@ -1428,7 +1438,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_tir1",
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_tir1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1436,11 +1446,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
-      "GripDifference": 75.0,
+      "GripDifference": 100.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.6,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 5,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1470,7 +1480,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_tir2",
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_tir2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1478,9 +1488,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": 0.0,
-      "GripDifference": 0.0,
+      "GripDifference": 125.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -0.5,
       "UpgradeType": 5,
@@ -1512,7 +1522,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_tir3",
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_tir3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1522,9 +1532,9 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
-      "GripDifference": 120.0,
+      "GripDifference": 100.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 5,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1554,7 +1564,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_tir4",
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_tir4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1562,11 +1572,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 150.0,
+      "GripDifference": 125.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 5,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1596,7 +1606,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_tir5",
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_tir5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1606,9 +1616,9 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 150.0,
+      "GripDifference": 246.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 5,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1638,38 +1648,40 @@
       }
     },
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_tra0",
-      "UpgradeLocalisationTextID": "TEXT_EV_UPGRADE_TRANS01",
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_tra0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.3,
+      "GearShiftTimeDifference": -0.05,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 0,
-      "ShowEVUpgrade": 1,
+      "ShowEVUpgrade": 0,
       "GearRatiosEV": [
-        5.0,
-        3.65333343,
-        2.63999987,
-        2.03124976,
-        1.420625
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
       ],
       "DebugChangeGearAtMPHEV": [
         0.0,
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
-      "FinalGearRatioEV": 3.52,
-      "ClutchDelayEV": 0.325,
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
       "ClutchDelayFirstGearEV": 0.1,
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
@@ -1678,7 +1690,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_tra1",
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_tra1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1686,11 +1698,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.04,
-      "WeightDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -18.1436958,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 6,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1720,7 +1732,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_tra2",
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_tra2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1728,11 +1740,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
+      "GearShiftTimeDifference": -0.05,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1762,7 +1774,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_tra3",
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_tra3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1770,11 +1782,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.06,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
-      "GripDifference": 0.0,
+      "GripDifference": 80.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 6,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1804,7 +1816,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_tra4",
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_tra4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1812,11 +1824,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
-      "WeightDifference": -39.0089455,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": -20.86525,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1846,7 +1858,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Hyundai_Ioniq5NReward_2023_tra5",
+      "AssetDatabaseID": "Chevrolet_RingbrothersChevelle_1966_tra5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1854,11 +1866,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
-      "GearShiftTimeDifference": -0.09,
-      "TransmissionLossPercentage": -4.0,
+      "GearShiftTimeDifference": -0.1,
+      "TransmissionLossPercentage": 1.5,
       "UpgradeType": 6,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1916,147 +1928,147 @@
   ],
   "PredefinedUpgradeSets": [
     {
-      "PPIndex": 667,
+      "PPIndex": 314,
       "UpgradeData": "0000000000000000"
     },
     {
-      "PPIndex": 669,
+      "PPIndex": 318,
       "UpgradeData": "0000010000000000"
     },
     {
-      "PPIndex": 673,
+      "PPIndex": 323,
       "UpgradeData": "0000010000000100"
     },
     {
-      "PPIndex": 674,
+      "PPIndex": 326,
       "UpgradeData": "0000010000010100"
     },
     {
-      "PPIndex": 674,
+      "PPIndex": 330,
       "UpgradeData": "0100010000010100"
     },
     {
-      "PPIndex": 679,
+      "PPIndex": 337,
       "UpgradeData": "0100010100010100"
     },
     {
-      "PPIndex": 679,
+      "PPIndex": 338,
       "UpgradeData": "0101010100010100"
     },
     {
-      "PPIndex": 681,
+      "PPIndex": 340,
       "UpgradeData": "0101010100010101"
     },
     {
-      "PPIndex": 683,
+      "PPIndex": 344,
       "UpgradeData": "0101020100010101"
     },
     {
-      "PPIndex": 685,
+      "PPIndex": 348,
       "UpgradeData": "0101020100010201"
     },
     {
-      "PPIndex": 686,
+      "PPIndex": 351,
       "UpgradeData": "0101020100020201"
     },
     {
-      "PPIndex": 687,
+      "PPIndex": 352,
       "UpgradeData": "0201020100020201"
     },
     {
-      "PPIndex": 689,
+      "PPIndex": 355,
       "UpgradeData": "0201020200020201"
     },
     {
-      "PPIndex": 689,
+      "PPIndex": 357,
       "UpgradeData": "0202020200020201"
     },
     {
-      "PPIndex": 690,
+      "PPIndex": 358,
       "UpgradeData": "0202020200020202"
     },
     {
-      "PPIndex": 692,
+      "PPIndex": 361,
       "UpgradeData": "0202030200020202"
     },
     {
-      "PPIndex": 694,
+      "PPIndex": 365,
       "UpgradeData": "0202030200020302"
     },
     {
-      "PPIndex": 695,
+      "PPIndex": 369,
       "UpgradeData": "0202030200030302"
     },
     {
-      "PPIndex": 696,
+      "PPIndex": 374,
       "UpgradeData": "0302030200030302"
     },
     {
-      "PPIndex": 699,
+      "PPIndex": 377,
       "UpgradeData": "0302030300030302"
     },
     {
-      "PPIndex": 699,
+      "PPIndex": 378,
       "UpgradeData": "0303030300030302"
     },
     {
-      "PPIndex": 703,
+      "PPIndex": 384,
       "UpgradeData": "0303030300030303"
     },
     {
-      "PPIndex": 704,
+      "PPIndex": 391,
       "UpgradeData": "0303040300030303"
     },
     {
-      "PPIndex": 704,
+      "PPIndex": 395,
       "UpgradeData": "0303040300030403"
     },
     {
-      "PPIndex": 708,
+      "PPIndex": 401,
       "UpgradeData": "0303040300040403"
     },
     {
-      "PPIndex": 708,
+      "PPIndex": 404,
       "UpgradeData": "0403040300040403"
     },
     {
-      "PPIndex": 710,
+      "PPIndex": 407,
       "UpgradeData": "0403040400040403"
     },
     {
-      "PPIndex": 710,
+      "PPIndex": 408,
       "UpgradeData": "0404040400040403"
     },
     {
-      "PPIndex": 712,
+      "PPIndex": 410,
       "UpgradeData": "0404040400040404"
     },
     {
-      "PPIndex": 713,
+      "PPIndex": 416,
       "UpgradeData": "0404050400040404"
     },
     {
-      "PPIndex": 713,
+      "PPIndex": 421,
       "UpgradeData": "0404050400040504"
     },
     {
-      "PPIndex": 717,
+      "PPIndex": 432,
       "UpgradeData": "0404050400050504"
     },
     {
-      "PPIndex": 717,
+      "PPIndex": 435,
       "UpgradeData": "0504050400050504"
     },
     {
-      "PPIndex": 721,
+      "PPIndex": 443,
       "UpgradeData": "0504050500050504"
     },
     {
-      "PPIndex": 721,
+      "PPIndex": 444,
       "UpgradeData": "0505050500050504"
     },
     {
-      "PPIndex": 725,
+      "PPIndex": 449,
       "UpgradeData": "0505050500050505"
     }
   ]
