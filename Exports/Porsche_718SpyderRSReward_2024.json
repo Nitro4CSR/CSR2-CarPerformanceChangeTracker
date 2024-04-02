@@ -8,28 +8,28 @@
     "m_FileID": 0,
     "m_PathID": -5010576824879005575
   },
-  "m_Name": "Maserati_MC20_2021",
+  "m_Name": "Porsche_718SpyderRSReward_2024",
   "EcbValue": 0,
   "CarType": 0,
   "NeedsRestoration": 0,
   "IsTunerStarsCar": 0,
   "IsEVCar": 0,
-  "Key": "Maserati_MC20_2021",
+  "Key": "Porsche_718SpyderRSReward_2024",
   "DisableNumberPlate": 0,
-  "ManufacturerID": "id_maserati",
-  "CarEngineSound": 6,
+  "ManufacturerID": "id_porsche",
+  "CarEngineSound": 2,
   "DSGGearBox": 0,
-  "ManufacturerName": "Maserati",
+  "ManufacturerName": "Porsche",
   "DefaultLiveryBundleName": "",
   "DefaultCustomisationBundleNames": [
     ""
   ],
   "EliteOverrideCarAssetID": "",
   "DriveType": 1,
-  "ModelPrefabString": "Maserati_MC20_2021",
+  "ModelPrefabString": "Porsche_718SpyderRSReward_2024",
   "BaseCarTier": 4,
   "BasePerformanceIndex": 603,
-  "FlyWheelPower": 621,
+  "FlyWheelPower": 493,
   "IsAvailableInShowroomAndUpgrade": 1,
   "Size": 0,
   "IsOpenTopCar": 0,
@@ -49,16 +49,16 @@
   "TyreConsumableEngineGraphIntercept": -217.032074,
   "TyreConsumableTyreGraphSlope": 3.35967255,
   "TyreConsumableTyreGraphIntercept": -2170.3208,
-  "BaseRedlineRPM": 8000,
-  "OptimalLaunchRPM": 6500,
-  "TransmissionLoss": 5.0,
+  "BaseRedlineRPM": 9000,
+  "OptimalLaunchRPM": 7000,
+  "TransmissionLoss": 48.0,
   "BaseEngineData": {
     "EngineRevRate": 7500.0,
     "RevLimiterTime": 0.05,
     "Classified": 0,
     "_BaseTorqueCurve": {
       "m_FileID": 0,
-      "m_PathID": -1966993402570360910
+      "m_PathID": -409122131409821989
     },
     "_BaseTorqueCurveEV": {
       "m_FileID": 0,
@@ -66,9 +66,9 @@
     }
   },
   "BaseChassisData": {
-    "Mass": 957.079956,
-    "CosmeticMass": 1475.0824,
-    "DragCoefficient": 0.53,
+    "Mass": 907.184753,
+    "CosmeticMass": 1754.949,
+    "DragCoefficient": 0.62,
     "Width": 1.98,
     "Height": 1.19,
     "LongitudinalBodyRollScaleFactor": 0.24,
@@ -82,35 +82,33 @@
   },
   "BaseGearBoxData": {
     "GearRatios": [
-      2.905,
-      1.758,
-      1.22,
-      0.878,
-      0.635,
-      0.508,
-      0.397,
-      0.329
+      3.75,
+      2.38,
+      1.72,
+      1.34,
+      1.11,
+      0.96,
+      0.84
     ],
     "DebugChangeGearAtMPH": [
-      46.3191528,
-      76.5398941,
-      110.292725,
-      153.254135,
-      208.58371,
-      263.051636,
-      324.715118,
+      45.9970436,
+      71.33697,
+      96.09871,
+      119.998207,
+      140.815674,
+      159.698563,
       0.0
     ],
-    "FinalGearRatio": 4.8,
+    "FinalGearRatio": 4.17,
     "RPMToShiftAutomatic": 6500.0,
-    "ClutchDelay": 0.4,
+    "ClutchDelay": 0.325,
     "ClutchDelayFirstGear": 0.1
   },
   "BaseTyreData": {
-    "WheelRadius": 0.34544,
+    "WheelRadius": 0.341884,
     "RollingFrictionCoefficient": 0.015,
     "RoadFrictionCoefficient": 1.0,
-    "TireGripMax": 5500.0,
+    "TireGripMax": 8000.0,
     "TireWidth": 0.25,
     "FrontAxleDriven": 0,
     "RearAxleDriven": 1,
@@ -124,7 +122,7 @@
     },
     "_RPMVsExtraWheelSpinCurve": {
       "m_FileID": 0,
-      "m_PathID": 0
+      "m_PathID": -5810934256488570730
     },
     "_RPMVsExtraWheelSpinCurveEV": {
       "m_FileID": 0,
@@ -140,7 +138,7 @@
   },
   "AvailableUpgradeData": [
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_eng0",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_eng0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -148,11 +146,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 0,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -178,11 +176,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6867506468338505255
+        "m_PathID": -1764855342576014841
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_eng1",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_eng1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -190,11 +188,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
-      "WeightDifference": 0.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": -2.267962,
       "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.0,
+      "GearShiftTimeDifference": -0.005,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 0,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -220,11 +218,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 1159134328627298237
+        "m_PathID": -2423726191429900416
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_eng2",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_eng2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -232,11 +230,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 0,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -262,23 +260,23 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 9043507569586604247
+        "m_PathID": 6564987900272881386
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_eng3",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_eng3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 100,
+      "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.05,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.5,
+      "GearShiftTimeDifference": -0.005,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 0,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -304,23 +302,23 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -2330896044691356587
+        "m_PathID": 8005566747095054156
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_eng4",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_eng4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 100,
+      "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.05,
-      "WeightDifference": 0.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": -3.628739,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -5.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 0,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -346,23 +344,23 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 2370768359348371784
+        "m_PathID": 8311774942941317351
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_eng5",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_eng5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 100,
+      "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.1,
-      "WeightDifference": 0.0,
+      "DragCoeffDifference": -0.07,
+      "WeightDifference": -2.267962,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 0,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -388,11 +386,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 102855493361106311
+        "m_PathID": -4936017278193813530
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_tur0",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_tur0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -400,11 +398,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 1,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -430,11 +428,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 5802401437244953686
+        "m_PathID": -2896230655241218038
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_tur1",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_tur1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -446,7 +444,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 1,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -472,11 +470,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 1758045629403887032
+        "m_PathID": -1142259798608869559
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_tur2",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_tur2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -484,11 +482,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
+      "DragCoeffDifference": 0.005,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 1,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -514,11 +512,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 5720151482793178507
+        "m_PathID": 2304147355953873471
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_tur3",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_tur3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -526,11 +524,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.05,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.5,
+      "GearShiftTimeDifference": -0.005,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 1,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -556,11 +554,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -8416472331971546194
+        "m_PathID": 5627568363034615089
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_tur4",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_tur4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -568,11 +566,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.04,
-      "WeightDifference": 0.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": -4.535924,
       "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "GearShiftTimeDifference": -0.005,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 1,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -598,23 +596,23 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 6807986632957903038
+        "m_PathID": -2100670606675263172
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_tur5",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_tur5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 100,
+      "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.1,
+      "DragCoeffDifference": -0.11,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -6.5,
+      "TransmissionLossPercentage": -4.0,
       "UpgradeType": 1,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -640,11 +638,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 2026608016483450376
+        "m_PathID": 3277449150444709486
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_int0",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_int0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -652,11 +650,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.015,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 2,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -682,11 +680,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 3203627196628184547
+        "m_PathID": 48827239004934010
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_int1",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_int1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -694,11 +692,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.5,
+      "GearShiftTimeDifference": -0.001,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 2,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -724,11 +722,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -4960280506278642622
+        "m_PathID": 2981977031039043794
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_int2",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_int2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -736,7 +734,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": 0.009,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -766,11 +764,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -1266539708877081036
+        "m_PathID": 8136907380704044606
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_int3",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_int3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -778,11 +776,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
-      "GripDifference": 0.0,
+      "GripDifference": 20.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -5.0,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 2,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -808,11 +806,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 7697479877325153340
+        "m_PathID": -264966813160061229
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_int4",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_int4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -820,11 +818,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.04,
-      "WeightDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -4.535924,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 2,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -850,11 +848,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 8588372956388002115
+        "m_PathID": 3870514019459554295
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_int5",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_int5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -862,11 +860,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.5,
+      "GearShiftTimeDifference": -0.005,
+      "TransmissionLossPercentage": -7.0,
       "UpgradeType": 2,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -892,11 +890,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 2850628468121222881
+        "m_PathID": -313729234433756636
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_nit0",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_nit0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS01",
       "NitrousTime": 2.0,
       "NitrousHPBoost": 25.0,
@@ -904,11 +902,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 3,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -938,7 +936,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_nit1",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_nit1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS02",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 25.0,
@@ -946,11 +944,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 3,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -980,7 +978,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_nit2",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_nit2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 25.0,
@@ -992,7 +990,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 3,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1022,7 +1020,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_nit3",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_nit3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 25.0,
@@ -1030,11 +1028,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.05,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -5.0,
+      "TransmissionLossPercentage": -2.5,
       "UpgradeType": 3,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1064,7 +1062,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_nit4",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_nit4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS05",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 0.0,
@@ -1072,11 +1070,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
-      "WeightDifference": 0.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": -2.267962,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -5.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 3,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1106,7 +1104,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_nit5",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_nit5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS06",
       "NitrousTime": 4.0,
       "NitrousHPBoost": 25.0,
@@ -1114,11 +1112,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
-      "GripDifference": 0.0,
+      "GripDifference": 66.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.5,
+      "TransmissionLossPercentage": -3.0,
       "UpgradeType": 3,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1148,7 +1146,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_bod0",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_bod0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1156,11 +1154,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -13.6077719,
-      "GripDifference": -15.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": -11.3398094,
+      "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -1190,7 +1188,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_bod1",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_bod1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1198,11 +1196,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -18.1436958,
-      "GripDifference": -20.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": -9.071848,
+      "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 4,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1232,7 +1230,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_bod2",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_bod2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1240,11 +1238,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 650.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -11.3398094,
-      "GripDifference": -12.0,
+      "DragCoeffDifference": 0.005,
+      "WeightDifference": -6.803886,
+      "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.5,
+      "TransmissionLossPercentage": -0.25,
       "UpgradeType": 4,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1274,7 +1272,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_bod3",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_bod3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1282,11 +1280,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -27.2155437,
-      "GripDifference": -30.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": -11.3398094,
+      "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 4,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1316,7 +1314,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_bod4",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_bod4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1324,11 +1322,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
-      "WeightDifference": -31.7514668,
-      "GripDifference": -35.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -11.3398094,
+      "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.5,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 4,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1358,7 +1356,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_bod5",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_bod5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1366,11 +1364,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.12,
-      "WeightDifference": -68.03886,
-      "GripDifference": -75.0,
+      "DragCoeffDifference": -0.04,
+      "WeightDifference": -11.3398094,
+      "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -3.0,
       "UpgradeType": 4,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1400,7 +1398,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_tir0",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_tir0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1408,9 +1406,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
-      "WeightDifference": 0.0,
-      "GripDifference": 94.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -4.535924,
+      "GripDifference": 25.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -0.5,
       "UpgradeType": 5,
@@ -1442,8 +1440,92 @@
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_tir1",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_tir1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": -6.803886,
+      "GripDifference": 50.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -0.5,
+      "UpgradeType": 5,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_tir2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 95.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 5,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_tir3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
@@ -1452,93 +1534,9 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
-      "GripDifference": 100.0,
+      "GripDifference": 55.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 5,
-      "UpgradeLevel": 1,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 0
-      }
-    },
-    {
-      "AssetDatabaseID": "Maserati_MC20_2021_tir2",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES03",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.05,
-      "WeightDifference": 0.0,
-      "GripDifference": 125.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
-      "UpgradeType": 5,
-      "UpgradeLevel": 2,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 0
-      }
-    },
-    {
-      "AssetDatabaseID": "Maserati_MC20_2021_tir3",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES04",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": 0.0,
-      "GripDifference": 100.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.5,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 5,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1568,7 +1566,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_tir4",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_tir4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1576,11 +1574,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 110.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 5,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1610,7 +1608,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_tir5",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_tir5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1618,11 +1616,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.05,
+      "DragCoeffDifference": -0.05,
       "WeightDifference": 0.0,
-      "GripDifference": 246.0,
+      "GripDifference": 100.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -3.0,
       "UpgradeType": 5,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1652,7 +1650,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_tra0",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_tra0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1660,7 +1658,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
@@ -1694,7 +1692,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_tra1",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_tra1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1702,11 +1700,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -22.6796188,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": -4.535924,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 6,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1736,7 +1734,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_tra2",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_tra2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1744,11 +1742,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.04,
+      "DragCoeffDifference": 0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 1.0,
       "UpgradeType": 6,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1778,7 +1776,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_tra3",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_tra3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1788,9 +1786,9 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 75.0,
+      "GripDifference": 50.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -5.0,
+      "TransmissionLossPercentage": -2.5,
       "UpgradeType": 6,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1820,7 +1818,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_tra4",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_tra4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1828,11 +1826,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.03,
-      "WeightDifference": -29.9370975,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -25.4011745,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1862,7 +1860,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Maserati_MC20_2021_tra5",
+      "AssetDatabaseID": "Porsche_718SpyderRSReward_2024_tra5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1870,11 +1868,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.07,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
-      "GearShiftTimeDifference": -0.12,
-      "TransmissionLossPercentage": 20.0,
+      "GearShiftTimeDifference": -0.05,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,

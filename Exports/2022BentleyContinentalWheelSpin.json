@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "2022BentleyContinentalWheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 994.584534,
+        "value": 0.725303054,
+        "inSlope": 1.59901338E-05,
+        "outSlope": -5.765461E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3525.54272,
+        "value": 0.579381645,
+        "inSlope": -5.765461E-05,
+        "outSlope": -0.00153255567,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3711.13965,
+        "value": 0.294944018,
+        "inSlope": -0.00153255567,
+        "outSlope": -0.000503319141,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4297.1377,
+        "value": 0.0,
+        "inSlope": -0.000503319141,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4739.13,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.00030555416,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5781.27148,
+        "value": 0.3184307,
+        "inSlope": 0.00030555416,
+        "outSlope": 0.000207841338,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7158.82031,
+        "value": 0.6047423,
+        "inSlope": 0.000207841338,
+        "outSlope": 2.736293E-05,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8806.388,
+        "value": 0.64982456,
+        "inSlope": 2.736293E-05,
+        "outSlope": 0.0002827176,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}
