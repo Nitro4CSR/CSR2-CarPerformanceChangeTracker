@@ -8,30 +8,30 @@
     "m_FileID": 0,
     "m_PathID": -5010576824879005575
   },
-  "m_Name": "Dodge_ViperACRExtremeAeroPackage_2016",
+  "m_Name": "Lamborghini_UrusPerformanteRewardRecycled_2023",
   "EcbValue": 0,
   "CarType": 0,
   "NeedsRestoration": 0,
   "IsTunerStarsCar": 0,
   "IsEVCar": 0,
-  "Key": "Dodge_ViperACRExtremeAeroPackage_2016",
+  "Key": "Lamborghini_UrusPerformanteRewardRecycled_2023",
   "DisableNumberPlate": 0,
-  "ManufacturerID": "id_dodge",
-  "CarEngineSound": 5,
+  "ManufacturerID": "id_lamborghini",
+  "CarEngineSound": 4,
   "DSGGearBox": 0,
-  "ManufacturerName": "Dodge",
+  "ManufacturerName": "Lamborghini",
   "DefaultLiveryBundleName": "",
   "DefaultCustomisationBundleNames": [
     ""
   ],
   "EliteOverrideCarAssetID": "",
-  "DriveType": 1,
-  "ModelPrefabString": "Dodge_ViperACRExtremeAeroPackage_2016",
-  "BaseCarTier": 4,
-  "BasePerformanceIndex": 603,
-  "FlyWheelPower": 645,
+  "DriveType": 2,
+  "ModelPrefabString": "Lamborghini_UrusPerformanteRewardRecycled_2023",
+  "BaseCarTier": 3,
+  "BasePerformanceIndex": 500,
+  "FlyWheelPower": 657,
   "IsAvailableInShowroomAndUpgrade": 1,
-  "Size": 0,
+  "Size": 1,
   "IsOpenTopCar": 0,
   "CarUnlocksInSeason": 0,
   "CarUnlocksWithGacha": "",
@@ -49,16 +49,16 @@
   "TyreConsumableEngineGraphIntercept": -217.032074,
   "TyreConsumableTyreGraphSlope": 3.35967255,
   "TyreConsumableTyreGraphIntercept": -2170.3208,
-  "BaseRedlineRPM": 6400,
-  "OptimalLaunchRPM": 5000,
-  "TransmissionLoss": 14.5,
+  "BaseRedlineRPM": 6800,
+  "OptimalLaunchRPM": 3500,
+  "TransmissionLoss": 38.0,
   "BaseEngineData": {
-    "EngineRevRate": 8500.0,
-    "RevLimiterTime": 0.08,
+    "EngineRevRate": 8000.0,
+    "RevLimiterTime": 0.05,
     "Classified": 0,
     "_BaseTorqueCurve": {
       "m_FileID": 0,
-      "m_PathID": -1498861270982264130
+      "m_PathID": 3049711363095533656
     },
     "_BaseTorqueCurveEV": {
       "m_FileID": 0,
@@ -66,12 +66,12 @@
     }
   },
   "BaseChassisData": {
-    "Mass": 1152.12463,
-    "CosmeticMass": 1539.039,
-    "DragCoefficient": 0.48,
-    "Width": 1.9,
-    "Height": 1.37,
-    "LongitudinalBodyRollScaleFactor": 0.2,
+    "Mass": 1428.816,
+    "CosmeticMass": 2149.57422,
+    "DragCoefficient": 0.5,
+    "Width": 1.98,
+    "Height": 1.19,
+    "LongitudinalBodyRollScaleFactor": 0.24,
     "LongitudinalBodyRollDamping": 0.94,
     "LongitudinalBodyRollScaleDownWithSpeed": 150.0,
     "MaximumBodyRollAngle": 90.0,
@@ -82,37 +82,41 @@
   },
   "BaseGearBoxData": {
     "GearRatios": [
-      2.26,
-      1.58,
-      1.19,
+      4.714,
+      3.143,
+      2.106,
+      1.667,
+      1.285,
       1.0,
-      0.77,
-      0.5
+      0.839,
+      0.667
     ],
     "DebugChangeGearAtMPH": [
-      62.814167,
-      89.848114,
-      119.294128,
-      141.960022,
-      184.363678,
+      37.4820061,
+      56.2170525,
+      81.9323654,
+      104.415062,
+      135.4552,
+      169.528748,
+      205.660965,
       0.0
     ],
-    "FinalGearRatio": 3.55,
+    "FinalGearRatio": 3.54,
     "RPMToShiftAutomatic": 6500.0,
-    "ClutchDelay": 0.3,
+    "ClutchDelay": 0.325,
     "ClutchDelayFirstGear": 0.1
   },
   "BaseTyreData": {
-    "WheelRadius": 0.34798,
+    "WheelRadius": 0.3937,
     "RollingFrictionCoefficient": 0.015,
     "RoadFrictionCoefficient": 1.0,
-    "TireGripMax": 7500.0,
+    "TireGripMax": 9600.0,
     "TireWidth": 0.25,
     "FrontAxleDriven": 0,
     "RearAxleDriven": 1,
     "_WheelSpinGripCurve": {
       "m_FileID": 0,
-      "m_PathID": -3914739865554002719
+      "m_PathID": -6376015925286108337
     },
     "_WheelSpinGripCurveEV": {
       "m_FileID": 0,
@@ -120,7 +124,7 @@
     },
     "_RPMVsExtraWheelSpinCurve": {
       "m_FileID": 0,
-      "m_PathID": 8116193767955119572
+      "m_PathID": 2075771479146015213
     },
     "_RPMVsExtraWheelSpinCurveEV": {
       "m_FileID": 0,
@@ -136,7 +140,7 @@
   },
   "AvailableUpgradeData": [
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng0",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_eng0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -144,11 +148,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 1.2,
       "UpgradeType": 0,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -174,11 +178,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 1524382907060105551
+        "m_PathID": 1984527194892387784
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng1",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_eng1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -186,11 +190,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 0,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -216,11 +220,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 5508496801135679755
+        "m_PathID": 1427018305138357145
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng2",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_eng2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -228,7 +232,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
+      "DragCoeffDifference": 0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -258,11 +262,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -2046737138871446034
+        "m_PathID": -5142910755141480326
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng3",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_eng3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -270,11 +274,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 0,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -300,11 +304,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6222642530488608891
+        "m_PathID": -6813698217103692943
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng4",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_eng4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -312,11 +316,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.05,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": 0.5,
       "UpgradeType": 0,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -342,11 +346,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6709431489503655410
+        "m_PathID": -7769523111048539171
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng5",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_eng5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -354,11 +358,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.05,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 0,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -384,11 +388,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 3216211313353343617
+        "m_PathID": -5195362700318036804
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur0",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_tur0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -400,7 +404,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 1.5,
       "UpgradeType": 1,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -426,11 +430,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -4572069151364278562
+        "m_PathID": -6283352347016569522
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur1",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_tur1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -438,11 +442,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.06,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 1,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -468,12 +472,180 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 3014022729561551237
+        "m_PathID": 443179673524386734
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur2",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_tur2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.03,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.2,
+      "UpgradeType": 1,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -6114517552495142559
+      }
+    },
+    {
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_tur3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 6021240477598413269
+      }
+    },
+    {
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_tur4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 1.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -6357008858590601691
+      }
+    },
+    {
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_tur5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.1,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -4327190013463962710
+      }
+    },
+    {
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_int0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
@@ -485,7 +657,91 @@
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 1,
+      "UpgradeType": 2,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -428111998165215560
+      }
+    },
+    {
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_int1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.03,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 2,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 9000419155689602824
+      }
+    },
+    {
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_int2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.2,
+      "UpgradeType": 2,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
       "GearRatiosEV": [
@@ -510,24 +766,24 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 4935794401953172359
+        "m_PathID": -7781111528586166693
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur3",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_int3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
-      "UpgradeType": 1,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 2,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
       "GearRatiosEV": [
@@ -552,12 +808,12 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -7093823248444302273
+        "m_PathID": 5781373769288293299
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur4",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_int4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
@@ -568,8 +824,8 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 1,
+      "TransmissionLossPercentage": -1.0,
+      "UpgradeType": 2,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
       "GearRatiosEV": [
@@ -594,12 +850,12 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6822118834655021311
+        "m_PathID": -7348612914309892566
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur5",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO06",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_int5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
@@ -611,258 +867,6 @@
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -2.0,
-      "UpgradeType": 1,
-      "UpgradeLevel": 5,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -1380640490360010114
-      }
-    },
-    {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int0",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE01",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
-      "UpgradeType": 2,
-      "UpgradeLevel": 0,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -3552633690960347212
-      }
-    },
-    {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int1",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE02",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 2,
-      "UpgradeLevel": 1,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 7513915110814224968
-      }
-    },
-    {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int2",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE03",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 2,
-      "UpgradeLevel": 2,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 2330838258002517994
-      }
-    },
-    {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int3",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE04",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
-      "UpgradeType": 2,
-      "UpgradeLevel": 3,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -8124441438498712911
-      }
-    },
-    {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int4",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE05",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 2,
-      "UpgradeLevel": 4,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 2272060271794067778
-      }
-    },
-    {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int5",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE06",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 2,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -888,11 +892,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 7609848919880428247
+        "m_PathID": -5042479577965050192
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit0",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_nit0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS01",
       "NitrousTime": 2.0,
       "NitrousHPBoost": 25.0,
@@ -904,7 +908,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 3,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -934,7 +938,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit1",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_nit1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS02",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 25.0,
@@ -946,7 +950,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 3,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -976,7 +980,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit2",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_nit2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 25.0,
@@ -1018,7 +1022,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit3",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_nit3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 25.0,
@@ -1026,11 +1030,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -4.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 3,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1060,7 +1064,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit4",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_nit4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS05",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 0.0,
@@ -1072,7 +1076,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 3,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1102,7 +1106,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit5",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_nit5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS06",
       "NitrousTime": 4.0,
       "NitrousHPBoost": 25.0,
@@ -1144,7 +1148,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod0",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_bod0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1156,7 +1160,7 @@
       "WeightDifference": -13.6077719,
       "GripDifference": -15.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 4,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -1186,7 +1190,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod1",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_bod1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1195,10 +1199,10 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -18.1436958,
-      "GripDifference": -20.0,
+      "WeightDifference": -13.6077719,
+      "GripDifference": -15.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1228,7 +1232,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod2",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_bod2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1270,7 +1274,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod3",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_bod3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1278,11 +1282,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -24.9475822,
-      "GripDifference": -27.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": -13.6077719,
+      "GripDifference": -15.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1312,7 +1316,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod4",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_bod4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1320,9 +1324,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -27.2155437,
-      "GripDifference": -30.0,
+      "DragCoeffDifference": -0.04,
+      "WeightDifference": -31.7514668,
+      "GripDifference": -35.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1354,7 +1358,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod5",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_bod5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1396,7 +1400,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir0",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_tir0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1404,7 +1408,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 94.0,
       "GearShiftTimeDifference": 0.0,
@@ -1438,7 +1442,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir1",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_tir1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1448,9 +1452,9 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 125.0,
+      "GripDifference": 100.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 5,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1480,7 +1484,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir2",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_tir2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1488,11 +1492,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 125.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.05,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1522,7 +1526,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir3",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_tir3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1530,11 +1534,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
-      "GripDifference": 125.0,
+      "GripDifference": 50.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 5,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1564,7 +1568,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir4",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_tir4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1576,7 +1580,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 115.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.7,
+      "TransmissionLossPercentage": -3.0,
       "UpgradeType": 5,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1606,7 +1610,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir5",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_tir5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1614,11 +1618,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
-      "GripDifference": 266.0,
+      "GripDifference": 246.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 5,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1648,7 +1652,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra0",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_tra0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1656,11 +1660,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 6,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -1690,7 +1694,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra1",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_tra1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1699,7 +1703,7 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -18.1436958,
+      "WeightDifference": -13.6077719,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
@@ -1732,7 +1736,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra2",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_tra2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1740,7 +1744,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
+      "DragCoeffDifference": 0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
@@ -1774,7 +1778,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra3",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_tra3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1782,11 +1786,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.05,
       "WeightDifference": 0.0,
-      "GripDifference": 75.0,
+      "GripDifference": 50.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1816,7 +1820,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra4",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_tra4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1824,11 +1828,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.04,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": -39.0089455,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1858,7 +1862,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra5",
+      "AssetDatabaseID": "Lamborghini_UrusPerformanteRewardRecycled_2023_tra5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1866,11 +1870,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.05,
+      "DragCoeffDifference": 0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.1,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 1.0,
       "UpgradeType": 6,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,

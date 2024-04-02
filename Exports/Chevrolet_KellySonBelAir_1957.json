@@ -8,28 +8,28 @@
     "m_FileID": 0,
     "m_PathID": -5010576824879005575
   },
-  "m_Name": "Dodge_ViperACRExtremeAeroPackage_2016",
+  "m_Name": "Chevrolet_KellySonBelAir_1957",
   "EcbValue": 0,
   "CarType": 0,
   "NeedsRestoration": 0,
   "IsTunerStarsCar": 0,
   "IsEVCar": 0,
-  "Key": "Dodge_ViperACRExtremeAeroPackage_2016",
-  "DisableNumberPlate": 0,
-  "ManufacturerID": "id_dodge",
-  "CarEngineSound": 5,
+  "Key": "Chevrolet_KellySonBelAir_1957",
+  "DisableNumberPlate": 1,
+  "ManufacturerID": "id_chevrolet",
+  "CarEngineSound": 3,
   "DSGGearBox": 0,
-  "ManufacturerName": "Dodge",
+  "ManufacturerName": "Chevrolet",
   "DefaultLiveryBundleName": "",
   "DefaultCustomisationBundleNames": [
     ""
   ],
   "EliteOverrideCarAssetID": "",
   "DriveType": 1,
-  "ModelPrefabString": "Dodge_ViperACRExtremeAeroPackage_2016",
+  "ModelPrefabString": "Chevrolet_KellySonBelAir_1957",
   "BaseCarTier": 4,
   "BasePerformanceIndex": 603,
-  "FlyWheelPower": 645,
+  "FlyWheelPower": 660,
   "IsAvailableInShowroomAndUpgrade": 1,
   "Size": 0,
   "IsOpenTopCar": 0,
@@ -49,16 +49,16 @@
   "TyreConsumableEngineGraphIntercept": -217.032074,
   "TyreConsumableTyreGraphSlope": 3.35967255,
   "TyreConsumableTyreGraphIntercept": -2170.3208,
-  "BaseRedlineRPM": 6400,
+  "BaseRedlineRPM": 7000,
   "OptimalLaunchRPM": 5000,
-  "TransmissionLoss": 14.5,
+  "TransmissionLoss": 20.0,
   "BaseEngineData": {
-    "EngineRevRate": 8500.0,
-    "RevLimiterTime": 0.08,
+    "EngineRevRate": 9500.0,
+    "RevLimiterTime": 0.05,
     "Classified": 0,
     "_BaseTorqueCurve": {
       "m_FileID": 0,
-      "m_PathID": -1498861270982264130
+      "m_PathID": 2941973407511714176
     },
     "_BaseTorqueCurveEV": {
       "m_FileID": 0,
@@ -66,12 +66,12 @@
     }
   },
   "BaseChassisData": {
-    "Mass": 1152.12463,
-    "CosmeticMass": 1539.039,
-    "DragCoefficient": 0.48,
-    "Width": 1.9,
-    "Height": 1.37,
-    "LongitudinalBodyRollScaleFactor": 0.2,
+    "Mass": 1020.58289,
+    "CosmeticMass": 1204.28784,
+    "DragCoefficient": 1.04,
+    "Width": 1.98,
+    "Height": 1.19,
+    "LongitudinalBodyRollScaleFactor": 0.24,
     "LongitudinalBodyRollDamping": 0.94,
     "LongitudinalBodyRollScaleDownWithSpeed": 150.0,
     "MaximumBodyRollAngle": 90.0,
@@ -82,37 +82,37 @@
   },
   "BaseGearBoxData": {
     "GearRatios": [
-      2.26,
-      1.58,
-      1.19,
+      2.97,
+      2.1,
+      1.46,
       1.0,
-      0.77,
-      0.5
+      0.8,
+      0.63
     ],
     "DebugChangeGearAtMPH": [
-      62.814167,
-      89.848114,
-      119.294128,
-      141.960022,
-      184.363678,
-      0.0
+      51.9841957,
+      73.99726,
+      106.43441,
+      138.375336,
+      176.306183,
+      194.4811
     ],
-    "FinalGearRatio": 3.55,
+    "FinalGearRatio": 3.7,
     "RPMToShiftAutomatic": 6500.0,
-    "ClutchDelay": 0.3,
+    "ClutchDelay": 0.325,
     "ClutchDelayFirstGear": 0.1
   },
   "BaseTyreData": {
-    "WheelRadius": 0.34798,
+    "WheelRadius": 0.351536,
     "RollingFrictionCoefficient": 0.015,
     "RoadFrictionCoefficient": 1.0,
-    "TireGripMax": 7500.0,
-    "TireWidth": 0.25,
+    "TireGripMax": 8000.0,
+    "TireWidth": 0.3,
     "FrontAxleDriven": 0,
     "RearAxleDriven": 1,
     "_WheelSpinGripCurve": {
       "m_FileID": 0,
-      "m_PathID": -3914739865554002719
+      "m_PathID": -6376015925286108337
     },
     "_WheelSpinGripCurveEV": {
       "m_FileID": 0,
@@ -120,7 +120,7 @@
     },
     "_RPMVsExtraWheelSpinCurve": {
       "m_FileID": 0,
-      "m_PathID": 8116193767955119572
+      "m_PathID": -7605854982689205176
     },
     "_RPMVsExtraWheelSpinCurveEV": {
       "m_FileID": 0,
@@ -136,7 +136,7 @@
   },
   "AvailableUpgradeData": [
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng0",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_eng0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -174,11 +174,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 1524382907060105551
+        "m_PathID": 7177569901356690313
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng1",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_eng1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -186,11 +186,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 0,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -216,11 +216,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 5508496801135679755
+        "m_PathID": -5143517159838127906
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng2",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_eng2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -258,11 +258,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -2046737138871446034
+        "m_PathID": -5665177297339040042
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng3",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_eng3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -270,11 +270,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -3.5,
       "UpgradeType": 0,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -300,11 +300,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6222642530488608891
+        "m_PathID": -8678162143862650066
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng4",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_eng4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -312,11 +312,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 0,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -342,11 +342,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6709431489503655410
+        "m_PathID": 3428968030416470580
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng5",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_eng5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -354,11 +354,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.05,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 0,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -384,11 +384,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 3216211313353343617
+        "m_PathID": 2754813370049162569
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur0",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_tur0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -396,7 +396,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -426,11 +426,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -4572069151364278562
+        "m_PathID": -602028661042295565
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur1",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_tur1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -442,7 +442,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 1,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -468,11 +468,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 3014022729561551237
+        "m_PathID": -6866323236451086346
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur2",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_tur2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -480,7 +480,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
+      "DragCoeffDifference": 0.005,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -510,11 +510,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 4935794401953172359
+        "m_PathID": 6087985791690794412
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur3",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_tur3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -526,7 +526,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 1,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -552,11 +552,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -7093823248444302273
+        "m_PathID": 6787240957143301194
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur4",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_tur4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -564,7 +564,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -594,11 +594,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6822118834655021311
+        "m_PathID": -6805718564161376871
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur5",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_tur5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -606,7 +606,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -636,11 +636,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -1380640490360010114
+        "m_PathID": -8174812452169802887
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int0",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_int0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -648,11 +648,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 1.0,
       "UpgradeType": 2,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -678,11 +678,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -3552633690960347212
+        "m_PathID": -6426689293751786884
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int1",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_int1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -690,11 +690,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 2,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -720,11 +720,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 7513915110814224968
+        "m_PathID": 4420876062311576183
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int2",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_int2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -762,11 +762,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 2330838258002517994
+        "m_PathID": 8738317212015834461
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int3",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_int3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -774,11 +774,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 2,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -804,11 +804,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -8124441438498712911
+        "m_PathID": -3349375413956826695
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int4",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_int4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -820,7 +820,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 2,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -846,11 +846,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 2272060271794067778
+        "m_PathID": 2400548978074517407
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int5",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_int5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -858,11 +858,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 2,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -888,11 +888,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 7609848919880428247
+        "m_PathID": -1155825251090111228
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit0",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_nit0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS01",
       "NitrousTime": 2.0,
       "NitrousHPBoost": 25.0,
@@ -900,7 +900,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -934,7 +934,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit1",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_nit1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS02",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 25.0,
@@ -942,11 +942,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 3,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -976,7 +976,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit2",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_nit2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 25.0,
@@ -984,7 +984,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -1018,7 +1018,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit3",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_nit3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 25.0,
@@ -1026,11 +1026,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -4.5,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 3,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1060,7 +1060,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit4",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_nit4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS05",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 0.0,
@@ -1068,11 +1068,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 3,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1102,7 +1102,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit5",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_nit5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS06",
       "NitrousTime": 4.0,
       "NitrousHPBoost": 25.0,
@@ -1110,7 +1110,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -1144,7 +1144,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod0",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_bod0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1152,7 +1152,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": -13.6077719,
       "GripDifference": -15.0,
       "GearShiftTimeDifference": 0.0,
@@ -1186,7 +1186,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod1",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_bod1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1194,9 +1194,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -18.1436958,
-      "GripDifference": -20.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": -13.6077719,
+      "GripDifference": -15.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -0.5,
       "UpgradeType": 4,
@@ -1228,7 +1228,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod2",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_bod2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1236,11 +1236,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 650.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": -11.3398094,
       "GripDifference": -12.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 0.5,
       "UpgradeType": 4,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1270,7 +1270,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod3",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_bod3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1278,11 +1278,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -24.9475822,
-      "GripDifference": -27.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": -27.2155437,
+      "GripDifference": -30.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1312,7 +1312,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod4",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_bod4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1354,7 +1354,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod5",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_bod5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1362,11 +1362,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.02,
       "WeightDifference": -54.4310875,
       "GripDifference": -60.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 2.0,
       "UpgradeType": 4,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1396,7 +1396,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir0",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_tir0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1438,7 +1438,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir1",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_tir1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1446,7 +1446,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 125.0,
       "GearShiftTimeDifference": 0.0,
@@ -1480,7 +1480,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir2",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_tir2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1488,11 +1488,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 125.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.05,
+      "TransmissionLossPercentage": 0.5,
       "UpgradeType": 5,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1522,7 +1522,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir3",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_tir3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1530,11 +1530,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
-      "GripDifference": 125.0,
+      "GripDifference": 50.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 5,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1564,7 +1564,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir4",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_tir4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1572,11 +1572,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 115.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.7,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 5,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1606,7 +1606,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir5",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_tir5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1614,9 +1614,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 266.0,
+      "GripDifference": 246.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -2.0,
       "UpgradeType": 5,
@@ -1648,7 +1648,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra0",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_tra0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1660,7 +1660,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 0.5,
       "UpgradeType": 6,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -1690,7 +1690,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra1",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_tra1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1698,8 +1698,8 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -18.1436958,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": -27.2155437,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
@@ -1732,7 +1732,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra2",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_tra2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1744,7 +1744,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 1.0,
       "UpgradeType": 6,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1774,7 +1774,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra3",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_tra3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1782,11 +1782,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
-      "GripDifference": 75.0,
+      "GripDifference": 50.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 6,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1816,7 +1816,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra4",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_tra4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1824,11 +1824,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.04,
-      "WeightDifference": -39.0089455,
+      "DragCoeffDifference": -0.03,
+      "WeightDifference": -20.86525,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1858,7 +1858,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra5",
+      "AssetDatabaseID": "Chevrolet_KellySonBelAir_1957_tra5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1866,11 +1866,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.05,
+      "DragCoeffDifference": 0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.1,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 2.0,
       "UpgradeType": 6,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,

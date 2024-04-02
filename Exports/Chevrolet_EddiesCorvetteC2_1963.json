@@ -8,57 +8,57 @@
     "m_FileID": 0,
     "m_PathID": -5010576824879005575
   },
-  "m_Name": "Dodge_ViperACRExtremeAeroPackage_2016",
+  "m_Name": "Chevrolet_EddiesCorvetteC2_1963",
   "EcbValue": 0,
   "CarType": 0,
   "NeedsRestoration": 0,
   "IsTunerStarsCar": 0,
   "IsEVCar": 0,
-  "Key": "Dodge_ViperACRExtremeAeroPackage_2016",
+  "Key": "Chevrolet_EddiesCorvetteC2_1963",
   "DisableNumberPlate": 0,
-  "ManufacturerID": "id_dodge",
-  "CarEngineSound": 5,
+  "ManufacturerID": "id_chevrolet",
+  "CarEngineSound": 3,
   "DSGGearBox": 0,
-  "ManufacturerName": "Dodge",
+  "ManufacturerName": "Chevrolet",
   "DefaultLiveryBundleName": "",
   "DefaultCustomisationBundleNames": [
     ""
   ],
   "EliteOverrideCarAssetID": "",
   "DriveType": 1,
-  "ModelPrefabString": "Dodge_ViperACRExtremeAeroPackage_2016",
+  "ModelPrefabString": "Chevrolet_EddiesCorvetteC2_1963",
   "BaseCarTier": 4,
   "BasePerformanceIndex": 603,
-  "FlyWheelPower": 645,
-  "IsAvailableInShowroomAndUpgrade": 1,
-  "Size": 0,
+  "FlyWheelPower": 945,
+  "IsAvailableInShowroomAndUpgrade": 0,
+  "Size": 1,
   "IsOpenTopCar": 0,
   "CarUnlocksInSeason": 0,
   "CarUnlocksWithGacha": "",
-  "MechanicEngineFettleGraphSlope": 0.552317858,
-  "MechanicEngineFettleGraphIntercept": -359.752869,
-  "MechanicTyreGripFettleGraphSlope": 5.523149,
-  "MechanicTyreGripFettleGraphIntercept": -3597.508,
-  "EngineConsumableEngineGraphSlope": 0.6636803,
-  "EngineConsumableEngineGraphIntercept": -427.0942,
-  "EngineConsumableTyreGraphSlope": 6.63686848,
-  "EngineConsumableTyreGraphIntercept": -4270.9873,
-  "NitrousConsumableBodyGraphSlope": -1.70668387,
-  "NitrousConsumableBodyGraphIntercept": 1332.08923,
-  "TyreConsumableEngineGraphSlope": 0.335967243,
-  "TyreConsumableEngineGraphIntercept": -217.032074,
-  "TyreConsumableTyreGraphSlope": 3.35967255,
-  "TyreConsumableTyreGraphIntercept": -2170.3208,
-  "BaseRedlineRPM": 6400,
-  "OptimalLaunchRPM": 5000,
-  "TransmissionLoss": 14.5,
+  "MechanicEngineFettleGraphSlope": 0.03702838,
+  "MechanicEngineFettleGraphIntercept": -5.99676,
+  "MechanicTyreGripFettleGraphSlope": 0.370283067,
+  "MechanicTyreGripFettleGraphIntercept": -59.9673233,
+  "EngineConsumableEngineGraphSlope": 0.06482829,
+  "EngineConsumableEngineGraphIntercept": -12.5709028,
+  "EngineConsumableTyreGraphSlope": 0.6482835,
+  "EngineConsumableTyreGraphIntercept": -125.709244,
+  "NitrousConsumableBodyGraphSlope": -1.21394968,
+  "NitrousConsumableBodyGraphIntercept": 721.388367,
+  "TyreConsumableEngineGraphSlope": 0.02590572,
+  "TyreConsumableEngineGraphIntercept": -3.89880681,
+  "TyreConsumableTyreGraphSlope": 0.259056956,
+  "TyreConsumableTyreGraphIntercept": -38.9879723,
+  "BaseRedlineRPM": 7000,
+  "OptimalLaunchRPM": 6000,
+  "TransmissionLoss": 23.5,
   "BaseEngineData": {
-    "EngineRevRate": 8500.0,
-    "RevLimiterTime": 0.08,
+    "EngineRevRate": 7000.0,
+    "RevLimiterTime": 0.17,
     "Classified": 0,
     "_BaseTorqueCurve": {
       "m_FileID": 0,
-      "m_PathID": -1498861270982264130
+      "m_PathID": -6893464935292250496
     },
     "_BaseTorqueCurveEV": {
       "m_FileID": 0,
@@ -66,12 +66,12 @@
     }
   },
   "BaseChassisData": {
-    "Mass": 1152.12463,
-    "CosmeticMass": 1539.039,
-    "DragCoefficient": 0.48,
-    "Width": 1.9,
+    "Mass": 1097.6936,
+    "CosmeticMass": 1587.57336,
+    "DragCoefficient": 0.65,
+    "Width": 1.91,
     "Height": 1.37,
-    "LongitudinalBodyRollScaleFactor": 0.2,
+    "LongitudinalBodyRollScaleFactor": 0.34,
     "LongitudinalBodyRollDamping": 0.94,
     "LongitudinalBodyRollScaleDownWithSpeed": 150.0,
     "MaximumBodyRollAngle": 90.0,
@@ -82,37 +82,37 @@
   },
   "BaseGearBoxData": {
     "GearRatios": [
-      2.26,
-      1.58,
-      1.19,
+      2.66,
+      1.78,
+      1.3,
       1.0,
-      0.77,
-      0.5
+      0.8,
+      0.63
     ],
     "DebugChangeGearAtMPH": [
-      62.814167,
-      89.848114,
-      119.294128,
-      141.960022,
-      184.363678,
+      54.6240921,
+      81.6292648,
+      110.0891,
+      140.619614,
+      177.334656,
       0.0
     ],
-    "FinalGearRatio": 3.55,
+    "FinalGearRatio": 4.1,
     "RPMToShiftAutomatic": 6500.0,
-    "ClutchDelay": 0.3,
+    "ClutchDelay": 0.4,
     "ClutchDelayFirstGear": 0.1
   },
   "BaseTyreData": {
-    "WheelRadius": 0.34798,
-    "RollingFrictionCoefficient": 0.015,
+    "WheelRadius": 0.364236,
+    "RollingFrictionCoefficient": 0.04,
     "RoadFrictionCoefficient": 1.0,
-    "TireGripMax": 7500.0,
+    "TireGripMax": 9000.0,
     "TireWidth": 0.25,
     "FrontAxleDriven": 0,
     "RearAxleDriven": 1,
     "_WheelSpinGripCurve": {
       "m_FileID": 0,
-      "m_PathID": -3914739865554002719
+      "m_PathID": -6376015925286108337
     },
     "_WheelSpinGripCurveEV": {
       "m_FileID": 0,
@@ -120,7 +120,7 @@
     },
     "_RPMVsExtraWheelSpinCurve": {
       "m_FileID": 0,
-      "m_PathID": 8116193767955119572
+      "m_PathID": 829845658463166705
     },
     "_RPMVsExtraWheelSpinCurveEV": {
       "m_FileID": 0,
@@ -136,7 +136,7 @@
   },
   "AvailableUpgradeData": [
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng0",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_eng0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -144,7 +144,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -174,11 +174,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 1524382907060105551
+        "m_PathID": -8042216072318534607
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng1",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_eng1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -190,7 +190,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 0,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -216,11 +216,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 5508496801135679755
+        "m_PathID": -2626998909984364011
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng2",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_eng2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -228,7 +228,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -258,11 +258,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -2046737138871446034
+        "m_PathID": -3445298412606067830
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng3",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_eng3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -300,11 +300,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6222642530488608891
+        "m_PathID": 8091750382602816721
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng4",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_eng4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -312,7 +312,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -342,11 +342,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6709431489503655410
+        "m_PathID": -3603369173545722046
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng5",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_eng5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -354,11 +354,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -3.0,
       "UpgradeType": 0,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -384,23 +384,23 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 3216211313353343617
+        "m_PathID": -8903156288529742763
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur0",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_tur0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NOTURBO01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 1,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -426,11 +426,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -4572069151364278562
+        "m_PathID": -3801953706884652889
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur1",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_tur1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -438,11 +438,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 1,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -468,11 +468,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 3014022729561551237
+        "m_PathID": -3085262893562333030
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur2",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_tur2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -480,7 +480,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -510,11 +510,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 4935794401953172359
+        "m_PathID": -6713258707069298899
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur3",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_tur3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -526,7 +526,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 1,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -552,11 +552,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -7093823248444302273
+        "m_PathID": -7986835908775671576
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur4",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_tur4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -568,7 +568,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 1,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -594,11 +594,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6822118834655021311
+        "m_PathID": -7847506925643459645
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur5",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_tur5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -606,11 +606,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -3.0,
       "UpgradeType": 1,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -636,11 +636,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -1380640490360010114
+        "m_PathID": -3323912816021722429
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int0",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_int0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -652,7 +652,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 2,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -678,11 +678,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -3552633690960347212
+        "m_PathID": 3115947591662660668
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int1",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_int1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -690,11 +690,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 2,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -720,11 +720,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 7513915110814224968
+        "m_PathID": -7413378791861358665
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int2",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_int2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -732,7 +732,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -762,11 +762,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 2330838258002517994
+        "m_PathID": 3944212048122232521
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int3",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_int3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -804,11 +804,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -8124441438498712911
+        "m_PathID": 7941426677055079430
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int4",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_int4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -816,11 +816,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.015,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 2,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -846,11 +846,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 2272060271794067778
+        "m_PathID": -6634590650014019815
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int5",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_int5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -858,11 +858,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 2,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -888,11 +888,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 7609848919880428247
+        "m_PathID": 4686511240311804765
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit0",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_nit0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS01",
       "NitrousTime": 2.0,
       "NitrousHPBoost": 25.0,
@@ -900,7 +900,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -934,7 +934,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit1",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_nit1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS02",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 25.0,
@@ -942,11 +942,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 3,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -976,7 +976,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit2",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_nit2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 25.0,
@@ -1018,7 +1018,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit3",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_nit3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 25.0,
@@ -1026,11 +1026,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -4.5,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 3,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1060,7 +1060,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit4",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_nit4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS05",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 0.0,
@@ -1068,11 +1068,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -2.5,
       "UpgradeType": 3,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1102,7 +1102,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit5",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_nit5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS06",
       "NitrousTime": 4.0,
       "NitrousHPBoost": 25.0,
@@ -1110,11 +1110,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 1.0,
       "UpgradeType": 3,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1144,7 +1144,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod0",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_bod0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1186,7 +1186,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod1",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_bod1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1195,8 +1195,8 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -18.1436958,
-      "GripDifference": -20.0,
+      "WeightDifference": -22.6796188,
+      "GripDifference": -25.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -0.5,
       "UpgradeType": 4,
@@ -1228,7 +1228,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod2",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_bod2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1237,10 +1237,10 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 650.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -11.3398094,
-      "GripDifference": -12.0,
+      "WeightDifference": -13.6077719,
+      "GripDifference": -15.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 0.5,
       "UpgradeType": 4,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1270,7 +1270,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod3",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_bod3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1279,8 +1279,8 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -24.9475822,
-      "GripDifference": -27.0,
+      "WeightDifference": -18.1436958,
+      "GripDifference": -20.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -2.0,
       "UpgradeType": 4,
@@ -1312,7 +1312,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod4",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_bod4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1324,7 +1324,7 @@
       "WeightDifference": -27.2155437,
       "GripDifference": -30.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 4,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1354,7 +1354,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod5",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_bod5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1362,11 +1362,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -54.4310875,
-      "GripDifference": -60.0,
+      "DragCoeffDifference": 0.05,
+      "WeightDifference": -99.79033,
+      "GripDifference": -110.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 5.0,
       "UpgradeType": 4,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1396,7 +1396,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir0",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_tir0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1404,7 +1404,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 94.0,
       "GearShiftTimeDifference": 0.0,
@@ -1438,7 +1438,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir1",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_tir1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1446,9 +1446,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
-      "GripDifference": 125.0,
+      "GripDifference": 100.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -1.0,
       "UpgradeType": 5,
@@ -1480,7 +1480,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir2",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_tir2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1492,7 +1492,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 125.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.05,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1522,7 +1522,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir3",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_tir3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1530,9 +1530,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
-      "GripDifference": 125.0,
+      "GripDifference": 50.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -2.5,
       "UpgradeType": 5,
@@ -1564,7 +1564,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir4",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_tir4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1572,11 +1572,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
-      "GripDifference": 115.0,
+      "GripDifference": 125.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.7,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 5,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1606,7 +1606,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir5",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_tir5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1616,9 +1616,9 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
-      "GripDifference": 266.0,
+      "GripDifference": 216.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 5,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1648,7 +1648,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra0",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_tra0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1656,7 +1656,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
@@ -1690,7 +1690,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra1",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_tra1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1698,8 +1698,8 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -18.1436958,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": -24.9475822,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
@@ -1732,7 +1732,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra2",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_tra2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1744,7 +1744,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 1.0,
       "UpgradeType": 6,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1774,7 +1774,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra3",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_tra3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1782,9 +1782,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
-      "GripDifference": 75.0,
+      "GripDifference": 80.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -2.5,
       "UpgradeType": 6,
@@ -1816,7 +1816,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra4",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_tra4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1824,11 +1824,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.04,
-      "WeightDifference": -39.0089455,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -29.9370975,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1858,7 +1858,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra5",
+      "AssetDatabaseID": "Chevrolet_EddiesCorvetteC2_1963_tra5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1866,11 +1866,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.05,
+      "DragCoeffDifference": 0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.1,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 4.0,
       "UpgradeType": 6,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1928,147 +1928,147 @@
   ],
   "PredefinedUpgradeSets": [
     {
-      "PPIndex": 667,
+      "PPIndex": 314,
       "UpgradeData": "0000000000000000"
     },
     {
-      "PPIndex": 669,
+      "PPIndex": 318,
       "UpgradeData": "0000010000000000"
     },
     {
-      "PPIndex": 673,
+      "PPIndex": 323,
       "UpgradeData": "0000010000000100"
     },
     {
-      "PPIndex": 674,
+      "PPIndex": 326,
       "UpgradeData": "0000010000010100"
     },
     {
-      "PPIndex": 674,
+      "PPIndex": 330,
       "UpgradeData": "0100010000010100"
     },
     {
-      "PPIndex": 679,
+      "PPIndex": 337,
       "UpgradeData": "0100010100010100"
     },
     {
-      "PPIndex": 679,
+      "PPIndex": 338,
       "UpgradeData": "0101010100010100"
     },
     {
-      "PPIndex": 681,
+      "PPIndex": 340,
       "UpgradeData": "0101010100010101"
     },
     {
-      "PPIndex": 683,
+      "PPIndex": 344,
       "UpgradeData": "0101020100010101"
     },
     {
-      "PPIndex": 685,
+      "PPIndex": 348,
       "UpgradeData": "0101020100010201"
     },
     {
-      "PPIndex": 686,
+      "PPIndex": 351,
       "UpgradeData": "0101020100020201"
     },
     {
-      "PPIndex": 687,
+      "PPIndex": 352,
       "UpgradeData": "0201020100020201"
     },
     {
-      "PPIndex": 689,
+      "PPIndex": 355,
       "UpgradeData": "0201020200020201"
     },
     {
-      "PPIndex": 689,
+      "PPIndex": 357,
       "UpgradeData": "0202020200020201"
     },
     {
-      "PPIndex": 690,
+      "PPIndex": 358,
       "UpgradeData": "0202020200020202"
     },
     {
-      "PPIndex": 692,
+      "PPIndex": 361,
       "UpgradeData": "0202030200020202"
     },
     {
-      "PPIndex": 694,
+      "PPIndex": 365,
       "UpgradeData": "0202030200020302"
     },
     {
-      "PPIndex": 695,
+      "PPIndex": 369,
       "UpgradeData": "0202030200030302"
     },
     {
-      "PPIndex": 696,
+      "PPIndex": 374,
       "UpgradeData": "0302030200030302"
     },
     {
-      "PPIndex": 699,
+      "PPIndex": 377,
       "UpgradeData": "0302030300030302"
     },
     {
-      "PPIndex": 699,
+      "PPIndex": 378,
       "UpgradeData": "0303030300030302"
     },
     {
-      "PPIndex": 703,
+      "PPIndex": 384,
       "UpgradeData": "0303030300030303"
     },
     {
-      "PPIndex": 704,
+      "PPIndex": 391,
       "UpgradeData": "0303040300030303"
     },
     {
-      "PPIndex": 704,
+      "PPIndex": 395,
       "UpgradeData": "0303040300030403"
     },
     {
-      "PPIndex": 708,
+      "PPIndex": 401,
       "UpgradeData": "0303040300040403"
     },
     {
-      "PPIndex": 708,
+      "PPIndex": 404,
       "UpgradeData": "0403040300040403"
     },
     {
-      "PPIndex": 710,
+      "PPIndex": 407,
       "UpgradeData": "0403040400040403"
     },
     {
-      "PPIndex": 710,
+      "PPIndex": 408,
       "UpgradeData": "0404040400040403"
     },
     {
-      "PPIndex": 712,
+      "PPIndex": 410,
       "UpgradeData": "0404040400040404"
     },
     {
-      "PPIndex": 713,
+      "PPIndex": 416,
       "UpgradeData": "0404050400040404"
     },
     {
-      "PPIndex": 713,
+      "PPIndex": 421,
       "UpgradeData": "0404050400040504"
     },
     {
-      "PPIndex": 717,
+      "PPIndex": 432,
       "UpgradeData": "0404050400050504"
     },
     {
-      "PPIndex": 717,
+      "PPIndex": 435,
       "UpgradeData": "0504050400050504"
     },
     {
-      "PPIndex": 721,
+      "PPIndex": 443,
       "UpgradeData": "0504050500050504"
     },
     {
-      "PPIndex": 721,
+      "PPIndex": 444,
       "UpgradeData": "0505050500050504"
     },
     {
-      "PPIndex": 725,
+      "PPIndex": 449,
       "UpgradeData": "0505050500050505"
     }
   ]

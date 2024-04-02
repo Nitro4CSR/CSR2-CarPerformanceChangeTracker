@@ -8,28 +8,28 @@
     "m_FileID": 0,
     "m_PathID": -5010576824879005575
   },
-  "m_Name": "Dodge_ViperACRExtremeAeroPackage_2016",
+  "m_Name": "Ferrari_296GTSReward_2023",
   "EcbValue": 0,
   "CarType": 0,
   "NeedsRestoration": 0,
   "IsTunerStarsCar": 0,
   "IsEVCar": 0,
-  "Key": "Dodge_ViperACRExtremeAeroPackage_2016",
+  "Key": "Ferrari_296GTSReward_2023",
   "DisableNumberPlate": 0,
-  "ManufacturerID": "id_dodge",
-  "CarEngineSound": 5,
+  "ManufacturerID": "id_ferrari",
+  "CarEngineSound": 2,
   "DSGGearBox": 0,
-  "ManufacturerName": "Dodge",
+  "ManufacturerName": "Ferrari",
   "DefaultLiveryBundleName": "",
   "DefaultCustomisationBundleNames": [
     ""
   ],
   "EliteOverrideCarAssetID": "",
   "DriveType": 1,
-  "ModelPrefabString": "Dodge_ViperACRExtremeAeroPackage_2016",
+  "ModelPrefabString": "Ferrari_296GTSReward_2023",
   "BaseCarTier": 4,
   "BasePerformanceIndex": 603,
-  "FlyWheelPower": 645,
+  "FlyWheelPower": 819,
   "IsAvailableInShowroomAndUpgrade": 1,
   "Size": 0,
   "IsOpenTopCar": 0,
@@ -49,16 +49,16 @@
   "TyreConsumableEngineGraphIntercept": -217.032074,
   "TyreConsumableTyreGraphSlope": 3.35967255,
   "TyreConsumableTyreGraphIntercept": -2170.3208,
-  "BaseRedlineRPM": 6400,
-  "OptimalLaunchRPM": 5000,
-  "TransmissionLoss": 14.5,
+  "BaseRedlineRPM": 8500,
+  "OptimalLaunchRPM": 6500,
+  "TransmissionLoss": 4.0,
   "BaseEngineData": {
-    "EngineRevRate": 8500.0,
-    "RevLimiterTime": 0.08,
+    "EngineRevRate": 9500.0,
+    "RevLimiterTime": 0.05,
     "Classified": 0,
     "_BaseTorqueCurve": {
       "m_FileID": 0,
-      "m_PathID": -1498861270982264130
+      "m_PathID": 185084455799750171
     },
     "_BaseTorqueCurveEV": {
       "m_FileID": 0,
@@ -66,12 +66,12 @@
     }
   },
   "BaseChassisData": {
-    "Mass": 1152.12463,
-    "CosmeticMass": 1539.039,
-    "DragCoefficient": 0.48,
-    "Width": 1.9,
-    "Height": 1.37,
-    "LongitudinalBodyRollScaleFactor": 0.2,
+    "Mass": 997.903259,
+    "CosmeticMass": 1542.21411,
+    "DragCoefficient": 0.7,
+    "Width": 1.98,
+    "Height": 1.19,
+    "LongitudinalBodyRollScaleFactor": 0.24,
     "LongitudinalBodyRollDamping": 0.94,
     "LongitudinalBodyRollScaleDownWithSpeed": 150.0,
     "MaximumBodyRollAngle": 90.0,
@@ -82,37 +82,41 @@
   },
   "BaseGearBoxData": {
     "GearRatios": [
-      2.26,
-      1.58,
-      1.19,
-      1.0,
-      0.77,
-      0.5
+      5.074,
+      3.324,
+      2.429,
+      1.895,
+      1.511,
+      1.23,
+      0.991,
+      0.706
     ],
     "DebugChangeGearAtMPH": [
-      62.814167,
-      89.848114,
-      119.294128,
-      141.960022,
-      184.363678,
+      31.4991589,
+      48.082653,
+      63.0047264,
+      79.26693,
+      97.54018,
+      120.97319,
+      161.278244,
       0.0
     ],
-    "FinalGearRatio": 3.55,
+    "FinalGearRatio": 4.51,
     "RPMToShiftAutomatic": 6500.0,
-    "ClutchDelay": 0.3,
+    "ClutchDelay": 0.325,
     "ClutchDelayFirstGear": 0.1
   },
   "BaseTyreData": {
-    "WheelRadius": 0.34798,
+    "WheelRadius": 0.360679984,
     "RollingFrictionCoefficient": 0.015,
     "RoadFrictionCoefficient": 1.0,
     "TireGripMax": 7500.0,
-    "TireWidth": 0.25,
+    "TireWidth": 0.305,
     "FrontAxleDriven": 0,
     "RearAxleDriven": 1,
     "_WheelSpinGripCurve": {
       "m_FileID": 0,
-      "m_PathID": -3914739865554002719
+      "m_PathID": -6376015925286108337
     },
     "_WheelSpinGripCurveEV": {
       "m_FileID": 0,
@@ -120,7 +124,7 @@
     },
     "_RPMVsExtraWheelSpinCurve": {
       "m_FileID": 0,
-      "m_PathID": 8116193767955119572
+      "m_PathID": 7457782844923370484
     },
     "_RPMVsExtraWheelSpinCurveEV": {
       "m_FileID": 0,
@@ -136,7 +140,7 @@
   },
   "AvailableUpgradeData": [
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng0",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_eng0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -144,11 +148,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 0,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -174,11 +178,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 1524382907060105551
+        "m_PathID": 8428055963584630028
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng1",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_eng1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -190,7 +194,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": -3.5,
       "UpgradeType": 0,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -216,11 +220,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 5508496801135679755
+        "m_PathID": 142152743553658143
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng2",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_eng2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -258,11 +262,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -2046737138871446034
+        "m_PathID": 2597687819086553601
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng3",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_eng3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -270,11 +274,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -3.0,
       "UpgradeType": 0,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -300,11 +304,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6222642530488608891
+        "m_PathID": -7577391681655418416
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng4",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_eng4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -312,11 +316,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.07,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 0,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -342,11 +346,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6709431489503655410
+        "m_PathID": 6388597396307367214
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_eng5",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_eng5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -354,11 +358,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.06,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -4.5,
       "UpgradeType": 0,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -384,11 +388,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 3216211313353343617
+        "m_PathID": -1394850293179147577
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur0",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_tur0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -400,7 +404,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 1,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -426,11 +430,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -4572069151364278562
+        "m_PathID": -464631261232328620
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur1",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_tur1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -442,7 +446,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -3.0,
       "UpgradeType": 1,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -468,11 +472,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 3014022729561551237
+        "m_PathID": 7327841137060106026
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur2",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_tur2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -510,11 +514,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 4935794401953172359
+        "m_PathID": -6749460104799796080
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur3",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_tur3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -522,11 +526,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 1,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -552,11 +556,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -7093823248444302273
+        "m_PathID": 8036931731736052552
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur4",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_tur4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -564,11 +568,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.08,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 5.0,
       "UpgradeType": 1,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -594,11 +598,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6822118834655021311
+        "m_PathID": -2352180995105010126
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tur5",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_tur5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -606,11 +610,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.05,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 1,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -636,11 +640,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -1380640490360010114
+        "m_PathID": 860792603010300534
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int0",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_int0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -678,11 +682,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -3552633690960347212
+        "m_PathID": -8123409908441732278
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int1",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_int1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -690,11 +694,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 2,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -720,11 +724,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 7513915110814224968
+        "m_PathID": -9091606067534043536
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int2",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_int2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -762,11 +766,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 2330838258002517994
+        "m_PathID": 3282828982376691851
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int3",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_int3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -774,7 +778,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -804,11 +808,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -8124441438498712911
+        "m_PathID": 7063032541791963604
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int4",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_int4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -820,7 +824,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 2,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -846,11 +850,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 2272060271794067778
+        "m_PathID": 8286230003696935539
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_int5",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_int5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -858,7 +862,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -888,11 +892,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 7609848919880428247
+        "m_PathID": 3106973094110806249
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit0",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_nit0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS01",
       "NitrousTime": 2.0,
       "NitrousHPBoost": 25.0,
@@ -900,11 +904,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 3,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -934,7 +938,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit1",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_nit1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS02",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 25.0,
@@ -946,7 +950,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 3,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -976,7 +980,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit2",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_nit2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 25.0,
@@ -984,7 +988,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -1018,7 +1022,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit3",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_nit3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 25.0,
@@ -1026,11 +1030,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -4.5,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 3,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1060,7 +1064,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit4",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_nit4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS05",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 0.0,
@@ -1068,11 +1072,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 3,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1102,7 +1106,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_nit5",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_nit5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS06",
       "NitrousTime": 4.0,
       "NitrousHPBoost": 25.0,
@@ -1114,7 +1118,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 3.0,
       "UpgradeType": 3,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1144,7 +1148,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod0",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_bod0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1156,7 +1160,7 @@
       "WeightDifference": -13.6077719,
       "GripDifference": -15.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 4,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -1186,7 +1190,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod1",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_bod1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1195,10 +1199,10 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -18.1436958,
-      "GripDifference": -20.0,
+      "WeightDifference": -22.6796188,
+      "GripDifference": -25.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1228,7 +1232,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod2",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_bod2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1270,7 +1274,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod3",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_bod3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1279,8 +1283,8 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -24.9475822,
-      "GripDifference": -27.0,
+      "WeightDifference": -18.1436958,
+      "GripDifference": -20.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -2.0,
       "UpgradeType": 4,
@@ -1312,7 +1316,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod4",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_bod4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1354,7 +1358,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_bod5",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_bod5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1363,10 +1367,10 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -54.4310875,
-      "GripDifference": -60.0,
+      "WeightDifference": -63.5029335,
+      "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 8.0,
       "UpgradeType": 4,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1396,7 +1400,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir0",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_tir0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1404,7 +1408,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 94.0,
       "GearShiftTimeDifference": 0.0,
@@ -1438,7 +1442,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir1",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_tir1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1448,9 +1452,9 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 125.0,
+      "GripDifference": 100.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -2.5,
       "UpgradeType": 5,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1480,7 +1484,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir2",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_tir2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1488,11 +1492,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": 0.0,
       "GripDifference": 125.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.05,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1522,7 +1526,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir3",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_tir3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1532,9 +1536,9 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
-      "GripDifference": 125.0,
+      "GripDifference": 75.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 5,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1564,7 +1568,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir4",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_tir4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1572,11 +1576,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 115.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.7,
+      "TransmissionLossPercentage": 1.5,
       "UpgradeType": 5,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1606,7 +1610,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tir5",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_tir5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1614,9 +1618,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
-      "GripDifference": 266.0,
+      "GripDifference": 246.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -2.0,
       "UpgradeType": 5,
@@ -1648,7 +1652,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra0",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_tra0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1656,11 +1660,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 3.0,
       "UpgradeType": 6,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -1690,7 +1694,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra1",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_tra1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1699,7 +1703,7 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -18.1436958,
+      "WeightDifference": -25.4011745,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
@@ -1732,7 +1736,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra2",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_tra2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1740,11 +1744,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
+      "DragCoeffDifference": 0.05,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 3.0,
       "UpgradeType": 6,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1774,7 +1778,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra3",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_tra3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1782,7 +1786,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 75.0,
       "GearShiftTimeDifference": 0.0,
@@ -1816,7 +1820,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra4",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_tra4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1824,11 +1828,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.04,
-      "WeightDifference": -39.0089455,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -20.86525,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 6,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1858,7 +1862,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Dodge_ViperACRExtremeAeroPackage_2016_tra5",
+      "AssetDatabaseID": "Ferrari_296GTSReward_2023_tra5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1866,11 +1870,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.05,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.1,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 12.0,
       "UpgradeType": 6,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
