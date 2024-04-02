@@ -8,28 +8,28 @@
     "m_FileID": 0,
     "m_PathID": -5010576824879005575
   },
-  "m_Name": "Abarth_500_2014",
+  "m_Name": "McLaren_SpeedtailRedSEG_2019",
   "EcbValue": 0,
   "CarType": 0,
   "NeedsRestoration": 0,
   "IsTunerStarsCar": 0,
   "IsEVCar": 0,
-  "Key": "Abarth_500_2014",
+  "Key": "McLaren_SpeedtailRedSEG_2019",
   "DisableNumberPlate": 0,
-  "ManufacturerID": "id_abarth",
-  "CarEngineSound": 4,
+  "ManufacturerID": "id_mclaren",
+  "CarEngineSound": 3,
   "DSGGearBox": 0,
-  "ManufacturerName": "ABARTH",
+  "ManufacturerName": "McLaren",
   "DefaultLiveryBundleName": "",
   "DefaultCustomisationBundleNames": [
     ""
   ],
   "EliteOverrideCarAssetID": "",
-  "DriveType": 0,
-  "ModelPrefabString": "Abarth_500_2014",
-  "BaseCarTier": 0,
-  "BasePerformanceIndex": 163,
-  "FlyWheelPower": 160,
+  "DriveType": 1,
+  "ModelPrefabString": "McLaren_SpeedtailRedSEG_2019",
+  "BaseCarTier": 4,
+  "BasePerformanceIndex": 603,
+  "FlyWheelPower": 1055,
   "IsAvailableInShowroomAndUpgrade": 1,
   "Size": 0,
   "IsOpenTopCar": 0,
@@ -49,16 +49,16 @@
   "TyreConsumableEngineGraphIntercept": -217.032074,
   "TyreConsumableTyreGraphSlope": 3.35967255,
   "TyreConsumableTyreGraphIntercept": -2170.3208,
-  "BaseRedlineRPM": 6500,
-  "OptimalLaunchRPM": 3500,
-  "TransmissionLoss": 19.6,
+  "BaseRedlineRPM": 8500,
+  "OptimalLaunchRPM": 6000,
+  "TransmissionLoss": 32.0,
   "BaseEngineData": {
-    "EngineRevRate": 3250.0,
+    "EngineRevRate": 9500.0,
     "RevLimiterTime": 0.05,
     "Classified": 0,
     "_BaseTorqueCurve": {
       "m_FileID": 0,
-      "m_PathID": 4385260127098172656
+      "m_PathID": -6589527781546582466
     },
     "_BaseTorqueCurveEV": {
       "m_FileID": 0,
@@ -66,9 +66,9 @@
     }
   },
   "BaseChassisData": {
-    "Mass": 1119.91956,
-    "CosmeticMass": 0.0,
-    "DragCoefficient": 0.45,
+    "Mass": 1429.72327,
+    "CosmeticMass": 1429.72327,
+    "DragCoefficient": 0.62,
     "Width": 1.98,
     "Height": 1.19,
     "LongitudinalBodyRollScaleFactor": 0.24,
@@ -82,35 +82,39 @@
   },
   "BaseGearBoxData": {
     "GearRatios": [
-      3.91,
-      2.24,
-      1.52,
-      1.16,
-      0.87
+      3.981,
+      2.613,
+      1.905,
+      1.479,
+      1.161,
+      0.906,
+      0.686
     ],
     "DebugChangeGearAtMPH": [
-      40.1618958,
-      70.10402,
-      103.311195,
-      135.373276,
-      169.5955
+      52.074543,
+      76.4080658,
+      102.796356,
+      132.405029,
+      168.671,
+      218.256775,
+      0.0
     ],
-    "FinalGearRatio": 3.08,
+    "FinalGearRatio": 3.31,
     "RPMToShiftAutomatic": 6500.0,
-    "ClutchDelay": 0.5,
+    "ClutchDelay": 0.325,
     "ClutchDelayFirstGear": 0.1
   },
   "BaseTyreData": {
-    "WheelRadius": 0.318516,
+    "WheelRadius": 0.360679984,
     "RollingFrictionCoefficient": 0.015,
     "RoadFrictionCoefficient": 1.0,
-    "TireGripMax": 4000.0,
+    "TireGripMax": 9000.0,
     "TireWidth": 0.25,
     "FrontAxleDriven": 0,
     "RearAxleDriven": 1,
     "_WheelSpinGripCurve": {
       "m_FileID": 0,
-      "m_PathID": -3914739865554002719
+      "m_PathID": -6376015925286108337
     },
     "_WheelSpinGripCurveEV": {
       "m_FileID": 0,
@@ -118,7 +122,7 @@
     },
     "_RPMVsExtraWheelSpinCurve": {
       "m_FileID": 0,
-      "m_PathID": -1803377480901271184
+      "m_PathID": 3809687366452539131
     },
     "_RPMVsExtraWheelSpinCurveEV": {
       "m_FileID": 0,
@@ -134,7 +138,7 @@
   },
   "AvailableUpgradeData": [
     {
-      "AssetDatabaseID": "Abarth_500_2014_eng0",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_eng0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -146,7 +150,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.5,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 0,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -172,11 +176,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -3820771661387320534
+        "m_PathID": -348152054160261688
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_eng1",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_eng1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -184,11 +188,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.5,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 0,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -214,11 +218,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -328393733596084198
+        "m_PathID": 3438473176836222209
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_eng2",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_eng2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -226,11 +230,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.5,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 0,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -256,12 +260,138 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -1809869683374322955
+        "m_PathID": -7360409913958652095
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_eng3",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_eng3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.04,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -2.5,
+      "UpgradeType": 0,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -4713394494890373916
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_eng4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.07,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -2.5,
+      "UpgradeType": 0,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 7896246555762861822
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_eng5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.05,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -5.5,
+      "UpgradeType": 0,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -6925216452437042950
+      }
+    },
+    {
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_tur0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
@@ -273,132 +403,6 @@
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 0,
-      "UpgradeLevel": 3,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 5371745277084386269
-      }
-    },
-    {
-      "AssetDatabaseID": "Abarth_500_2014_eng4",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.7,
-      "UpgradeType": 0,
-      "UpgradeLevel": 4,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 5371745277084386269
-      }
-    },
-    {
-      "AssetDatabaseID": "Abarth_500_2014_eng5",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 0,
-      "UpgradeLevel": 5,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 0
-      }
-    },
-    {
-      "AssetDatabaseID": "Abarth_500_2014_tur0",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.5,
       "UpgradeType": 1,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -424,11 +428,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 8031275574731935175
+        "m_PathID": -6480975560674438873
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tur1",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_tur1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -436,11 +440,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.056,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 1,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -466,11 +470,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 7031401828782355399
+        "m_PathID": -8856074152961948420
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tur2",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_tur2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -482,7 +486,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.5,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 1,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -508,11 +512,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 8435120505030325100
+        "m_PathID": 295190337461165349
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tur3",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_tur3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -520,11 +524,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -2.5,
       "UpgradeType": 1,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -550,11 +554,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 6414716616433429421
+        "m_PathID": 6970625486985523661
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tur4",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_tur4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -562,11 +566,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 2.5,
+      "TransmissionLossPercentage": -3.5,
       "UpgradeType": 1,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -592,11 +596,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -2282218079066921244
+        "m_PathID": -809379782324221524
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tur5",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_tur5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -604,11 +608,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.05,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -3.5,
       "UpgradeType": 1,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -634,11 +638,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 0
+        "m_PathID": 168415912305499470
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_int0",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_int0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -646,7 +650,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.05,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -676,11 +680,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 7412794613160032434
+        "m_PathID": 7117206100283908611
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_int1",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_int1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -688,11 +692,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.015,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -0.8,
       "UpgradeType": 2,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -718,11 +722,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 2152351997642349752
+        "m_PathID": -5364732308158457801
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_int2",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_int2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -730,7 +734,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.05,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -760,11 +764,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -7933972923882053432
+        "m_PathID": -7551285427196216413
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_int3",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_int3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -772,11 +776,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -3.1,
       "UpgradeType": 2,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -802,11 +806,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 2258977456369986080
+        "m_PathID": -8962440724339466678
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_int4",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_int4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -818,7 +822,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -3.5,
       "UpgradeType": 2,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -844,11 +848,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 3575519255198242965
+        "m_PathID": 2466585886878050295
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_int5",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_int5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -856,11 +860,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -4.5,
       "UpgradeType": 2,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -886,11 +890,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 0
+        "m_PathID": -6717950269757815175
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_nit0",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_nit0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS01",
       "NitrousTime": 2.0,
       "NitrousHPBoost": 25.0,
@@ -898,11 +902,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.03,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 3,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -932,7 +936,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_nit1",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_nit1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS02",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 25.0,
@@ -940,11 +944,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.5,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 3,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -974,7 +978,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_nit2",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_nit2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 25.0,
@@ -982,11 +986,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 3,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1016,7 +1020,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_nit3",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_nit3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 25.0,
@@ -1024,11 +1028,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 3,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1058,7 +1062,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_nit4",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_nit4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS05",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 0.0,
@@ -1066,11 +1070,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.8,
+      "TransmissionLossPercentage": -2.5,
       "UpgradeType": 3,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1100,10 +1104,10 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_nit5",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_nit5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS06",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
+      "NitrousTime": 4.0,
+      "NitrousHPBoost": 25.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
@@ -1142,7 +1146,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_bod0",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_bod0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1184,7 +1188,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_bod1",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_bod1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1192,7 +1196,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.03,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": -13.6077719,
       "GripDifference": -15.0,
       "GearShiftTimeDifference": 0.0,
@@ -1226,7 +1230,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_bod2",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_bod2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1235,8 +1239,8 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 650.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -6.803886,
-      "GripDifference": -7.0,
+      "WeightDifference": -11.3398094,
+      "GripDifference": -12.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1268,7 +1272,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_bod3",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_bod3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1277,10 +1281,10 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -9.071848,
-      "GripDifference": -10.0,
+      "WeightDifference": -22.6796188,
+      "GripDifference": -25.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 4,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1310,7 +1314,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_bod4",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_bod4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1319,10 +1323,10 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -18.1436958,
-      "GripDifference": -20.0,
+      "WeightDifference": -27.2155437,
+      "GripDifference": -30.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 4,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1352,7 +1356,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_bod5",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_bod5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1361,8 +1365,8 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
+      "WeightDifference": -54.4310875,
+      "GripDifference": -60.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1394,7 +1398,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tir0",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_tir0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1436,7 +1440,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tir1",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_tir1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1444,11 +1448,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 100.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 5,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1478,7 +1482,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tir2",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_tir2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1490,7 +1494,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 125.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1520,7 +1524,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tir3",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_tir3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1528,11 +1532,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 50.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -3.5,
       "UpgradeType": 5,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1562,7 +1566,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tir4",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_tir4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1570,11 +1574,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
-      "GripDifference": 100.0,
+      "GripDifference": 125.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 5,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1604,7 +1608,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tir5",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_tir5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1614,7 +1618,7 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 0.0,
+      "GripDifference": 246.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
@@ -1646,7 +1650,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tra0",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_tra0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1688,7 +1692,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tra1",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_tra1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1697,7 +1701,7 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -13.6077719,
+      "WeightDifference": -29.9370975,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
@@ -1730,7 +1734,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tra2",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_tra2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1738,7 +1742,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.06,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
@@ -1772,7 +1776,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tra3",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_tra3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1780,11 +1784,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 50.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -3.5,
       "UpgradeType": 6,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1814,7 +1818,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tra4",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_tra4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1823,10 +1827,10 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -20.86525,
+      "WeightDifference": -29.9370975,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.0,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 6,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1856,7 +1860,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tra5",
+      "AssetDatabaseID": "McLaren_SpeedtailRedSEG_2019_tra5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1864,10 +1868,10 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.08,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
+      "GearShiftTimeDifference": -0.1,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 5,

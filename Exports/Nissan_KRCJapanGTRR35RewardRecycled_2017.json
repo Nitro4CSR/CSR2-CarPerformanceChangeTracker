@@ -8,57 +8,57 @@
     "m_FileID": 0,
     "m_PathID": -5010576824879005575
   },
-  "m_Name": "Abarth_500_2014",
+  "m_Name": "Nissan_KRCJapanGTRR35RewardRecycled_2017",
   "EcbValue": 0,
   "CarType": 0,
   "NeedsRestoration": 0,
   "IsTunerStarsCar": 0,
   "IsEVCar": 0,
-  "Key": "Abarth_500_2014",
+  "Key": "Nissan_KRCJapanGTRR35RewardRecycled_2017",
   "DisableNumberPlate": 0,
-  "ManufacturerID": "id_abarth",
-  "CarEngineSound": 4,
+  "ManufacturerID": "id_nissan",
+  "CarEngineSound": 2,
   "DSGGearBox": 0,
-  "ManufacturerName": "ABARTH",
+  "ManufacturerName": "Nissan",
   "DefaultLiveryBundleName": "",
   "DefaultCustomisationBundleNames": [
     ""
   ],
   "EliteOverrideCarAssetID": "",
-  "DriveType": 0,
-  "ModelPrefabString": "Abarth_500_2014",
-  "BaseCarTier": 0,
-  "BasePerformanceIndex": 163,
-  "FlyWheelPower": 160,
+  "DriveType": 2,
+  "ModelPrefabString": "Nissan_KRCJapanGTRR35RewardRecycled_2017",
+  "BaseCarTier": 4,
+  "BasePerformanceIndex": 603,
+  "FlyWheelPower": 565,
   "IsAvailableInShowroomAndUpgrade": 1,
   "Size": 0,
   "IsOpenTopCar": 0,
   "CarUnlocksInSeason": 0,
   "CarUnlocksWithGacha": "",
-  "MechanicEngineFettleGraphSlope": 0.552317858,
-  "MechanicEngineFettleGraphIntercept": -359.752869,
-  "MechanicTyreGripFettleGraphSlope": 5.523149,
-  "MechanicTyreGripFettleGraphIntercept": -3597.508,
-  "EngineConsumableEngineGraphSlope": 0.6636803,
-  "EngineConsumableEngineGraphIntercept": -427.0942,
-  "EngineConsumableTyreGraphSlope": 6.63686848,
-  "EngineConsumableTyreGraphIntercept": -4270.9873,
-  "NitrousConsumableBodyGraphSlope": -1.70668387,
-  "NitrousConsumableBodyGraphIntercept": 1332.08923,
-  "TyreConsumableEngineGraphSlope": 0.335967243,
-  "TyreConsumableEngineGraphIntercept": -217.032074,
-  "TyreConsumableTyreGraphSlope": 3.35967255,
-  "TyreConsumableTyreGraphIntercept": -2170.3208,
-  "BaseRedlineRPM": 6500,
-  "OptimalLaunchRPM": 3500,
-  "TransmissionLoss": 19.6,
+  "MechanicEngineFettleGraphSlope": 0.06194405,
+  "MechanicEngineFettleGraphIntercept": -24.6357841,
+  "MechanicTyreGripFettleGraphSlope": 0.6194414,
+  "MechanicTyreGripFettleGraphIntercept": -246.358353,
+  "EngineConsumableEngineGraphSlope": 0.1312783,
+  "EngineConsumableEngineGraphIntercept": -58.26934,
+  "EngineConsumableTyreGraphSlope": 1.3127867,
+  "EngineConsumableTyreGraphIntercept": -582.6955,
+  "NitrousConsumableBodyGraphSlope": -1.11318994,
+  "NitrousConsumableBodyGraphIntercept": 870.1063,
+  "TyreConsumableEngineGraphSlope": 0.06388008,
+  "TyreConsumableEngineGraphIntercept": -28.0183163,
+  "TyreConsumableTyreGraphSlope": 0.6387999,
+  "TyreConsumableTyreGraphIntercept": -280.182648,
+  "BaseRedlineRPM": 7000,
+  "OptimalLaunchRPM": 6500,
+  "TransmissionLoss": 9.0,
   "BaseEngineData": {
-    "EngineRevRate": 3250.0,
-    "RevLimiterTime": 0.05,
+    "EngineRevRate": 9000.0,
+    "RevLimiterTime": 0.15,
     "Classified": 0,
     "_BaseTorqueCurve": {
       "m_FileID": 0,
-      "m_PathID": 4385260127098172656
+      "m_PathID": -3444524458498576016
     },
     "_BaseTorqueCurveEV": {
       "m_FileID": 0,
@@ -66,12 +66,12 @@
     }
   },
   "BaseChassisData": {
-    "Mass": 1119.91956,
-    "CosmeticMass": 0.0,
-    "DragCoefficient": 0.45,
-    "Width": 1.98,
-    "Height": 1.19,
-    "LongitudinalBodyRollScaleFactor": 0.24,
+    "Mass": 952.544,
+    "CosmeticMass": 1739.98035,
+    "DragCoefficient": 0.55,
+    "Width": 1.9,
+    "Height": 1.37,
+    "LongitudinalBodyRollScaleFactor": 0.2,
     "LongitudinalBodyRollDamping": 0.94,
     "LongitudinalBodyRollScaleDownWithSpeed": 150.0,
     "MaximumBodyRollAngle": 90.0,
@@ -82,35 +82,37 @@
   },
   "BaseGearBoxData": {
     "GearRatios": [
-      3.91,
-      2.24,
-      1.52,
-      1.16,
-      0.87
+      4.056,
+      2.301,
+      1.595,
+      1.248,
+      1.001,
+      0.796
     ],
     "DebugChangeGearAtMPH": [
-      40.1618958,
-      70.10402,
-      103.311195,
-      135.373276,
-      169.5955
+      45.3129845,
+      79.8737259,
+      115.228508,
+      145.053375,
+      182.422882,
+      0.0
     ],
-    "FinalGearRatio": 3.08,
+    "FinalGearRatio": 3.16,
     "RPMToShiftAutomatic": 6500.0,
-    "ClutchDelay": 0.5,
+    "ClutchDelay": 0.3,
     "ClutchDelayFirstGear": 0.1
   },
   "BaseTyreData": {
-    "WheelRadius": 0.318516,
+    "WheelRadius": 0.355092,
     "RollingFrictionCoefficient": 0.015,
     "RoadFrictionCoefficient": 1.0,
-    "TireGripMax": 4000.0,
+    "TireGripMax": 6200.0,
     "TireWidth": 0.25,
     "FrontAxleDriven": 0,
     "RearAxleDriven": 1,
     "_WheelSpinGripCurve": {
       "m_FileID": 0,
-      "m_PathID": -3914739865554002719
+      "m_PathID": -6376015925286108337
     },
     "_WheelSpinGripCurveEV": {
       "m_FileID": 0,
@@ -118,7 +120,7 @@
     },
     "_RPMVsExtraWheelSpinCurve": {
       "m_FileID": 0,
-      "m_PathID": -1803377480901271184
+      "m_PathID": -7674732226743009735
     },
     "_RPMVsExtraWheelSpinCurveEV": {
       "m_FileID": 0,
@@ -134,7 +136,7 @@
   },
   "AvailableUpgradeData": [
     {
-      "AssetDatabaseID": "Abarth_500_2014_eng0",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_eng0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -142,11 +144,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 0,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -172,11 +174,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -3820771661387320534
+        "m_PathID": -3932499096052916964
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_eng1",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_eng1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -184,11 +186,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.5,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 0,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -214,11 +216,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -328393733596084198
+        "m_PathID": -1561005175002527325
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_eng2",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_eng2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -230,7 +232,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 0,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -256,12 +258,138 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -1809869683374322955
+        "m_PathID": 8039182098605195160
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_eng3",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_eng3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.04,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.5,
+      "UpgradeType": 0,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 207017195391449990
+      }
+    },
+    {
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_eng4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.03,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.5,
+      "UpgradeType": 0,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 7716214785837440354
+      }
+    },
+    {
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_eng5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.05,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 4517715249197067352
+      }
+    },
+    {
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_tur0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
@@ -273,132 +401,6 @@
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 0,
-      "UpgradeLevel": 3,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 5371745277084386269
-      }
-    },
-    {
-      "AssetDatabaseID": "Abarth_500_2014_eng4",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.7,
-      "UpgradeType": 0,
-      "UpgradeLevel": 4,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 5371745277084386269
-      }
-    },
-    {
-      "AssetDatabaseID": "Abarth_500_2014_eng5",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 0,
-      "UpgradeLevel": 5,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 0
-      }
-    },
-    {
-      "AssetDatabaseID": "Abarth_500_2014_tur0",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.5,
       "UpgradeType": 1,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -424,11 +426,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 8031275574731935175
+        "m_PathID": -3407393867968656821
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tur1",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_tur1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -440,7 +442,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.5,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 1,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -466,11 +468,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 7031401828782355399
+        "m_PathID": -445986339864735374
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tur2",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_tur2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -478,11 +480,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 1,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -508,11 +510,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 8435120505030325100
+        "m_PathID": -2224459168354167570
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tur3",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_tur3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -520,11 +522,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 1,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -550,11 +552,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 6414716616433429421
+        "m_PathID": -1580205515237945559
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tur4",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_tur4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -566,7 +568,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 2.5,
+      "TransmissionLossPercentage": -3.5,
       "UpgradeType": 1,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -592,11 +594,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -2282218079066921244
+        "m_PathID": -231501484691040932
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tur5",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_tur5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -604,7 +606,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -634,350 +636,14 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 0
+        "m_PathID": 7660288797761571068
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_int0",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_int0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.05,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 2,
-      "UpgradeLevel": 0,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 7412794613160032434
-      }
-    },
-    {
-      "AssetDatabaseID": "Abarth_500_2014_int1",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE02",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.015,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 2,
-      "UpgradeLevel": 1,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 2152351997642349752
-      }
-    },
-    {
-      "AssetDatabaseID": "Abarth_500_2014_int2",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE03",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.05,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 2,
-      "UpgradeLevel": 2,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -7933972923882053432
-      }
-    },
-    {
-      "AssetDatabaseID": "Abarth_500_2014_int3",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE04",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 2,
-      "UpgradeLevel": 3,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 2258977456369986080
-      }
-    },
-    {
-      "AssetDatabaseID": "Abarth_500_2014_int4",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE05",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 2,
-      "UpgradeLevel": 4,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 3575519255198242965
-      }
-    },
-    {
-      "AssetDatabaseID": "Abarth_500_2014_int5",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE06",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 2,
-      "UpgradeLevel": 5,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 0
-      }
-    },
-    {
-      "AssetDatabaseID": "Abarth_500_2014_nit0",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS01",
-      "NitrousTime": 2.0,
-      "NitrousHPBoost": 25.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.03,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 3,
-      "UpgradeLevel": 0,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 0
-      }
-    },
-    {
-      "AssetDatabaseID": "Abarth_500_2014_nit1",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS02",
-      "NitrousTime": 1.0,
-      "NitrousHPBoost": 25.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.5,
-      "UpgradeType": 3,
-      "UpgradeLevel": 1,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 0
-      }
-    },
-    {
-      "AssetDatabaseID": "Abarth_500_2014_nit2",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS03",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 25.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
@@ -986,7 +652,343 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.0,
+      "TransmissionLossPercentage": -0.5,
+      "UpgradeType": 2,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 1370072144763790312
+      }
+    },
+    {
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_int1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 2,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -6960708067411422049
+      }
+    },
+    {
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_int2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 2,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 5819487194006194289
+      }
+    },
+    {
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_int3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.0,
+      "UpgradeType": 2,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -7074416032531548901
+      }
+    },
+    {
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_int4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -0.5,
+      "UpgradeType": 2,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -989471150090894411
+      }
+    },
+    {
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_int5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.03,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -0.75,
+      "UpgradeType": 2,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 3202744695870572980
+      }
+    },
+    {
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_nit0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS01",
+      "NitrousTime": 2.0,
+      "NitrousHPBoost": 25.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 3,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_nit1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS02",
+      "NitrousTime": 1.0,
+      "NitrousHPBoost": 25.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 3,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_nit2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 25.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 3,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1016,7 +1018,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_nit3",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_nit3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 25.0,
@@ -1024,7 +1026,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -1058,7 +1060,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_nit4",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_nit4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS05",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 0.0,
@@ -1066,11 +1068,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.8,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 3,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1100,10 +1102,10 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_nit5",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_nit5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS06",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
+      "NitrousTime": 4.0,
+      "NitrousHPBoost": 25.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
@@ -1112,7 +1114,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 3,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1142,7 +1144,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_bod0",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_bod0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1184,7 +1186,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_bod1",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_bod1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1192,11 +1194,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.03,
-      "WeightDifference": -13.6077719,
-      "GripDifference": -15.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -18.1436958,
+      "GripDifference": -20.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 4,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1226,7 +1228,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_bod2",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_bod2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1235,8 +1237,8 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 650.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -6.803886,
-      "GripDifference": -7.0,
+      "WeightDifference": -11.3398094,
+      "GripDifference": -12.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1268,7 +1270,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_bod3",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_bod3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1276,9 +1278,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -9.071848,
-      "GripDifference": -10.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": -15.8757334,
+      "GripDifference": -17.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1310,7 +1312,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_bod4",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_bod4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1319,8 +1321,8 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -18.1436958,
-      "GripDifference": -20.0,
+      "WeightDifference": -27.2155437,
+      "GripDifference": -30.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1352,7 +1354,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_bod5",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_bod5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1360,11 +1362,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
+      "DragCoeffDifference": 0.05,
+      "WeightDifference": -54.4310875,
+      "GripDifference": -60.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 3.0,
       "UpgradeType": 4,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1394,7 +1396,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tir0",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_tir0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1402,7 +1404,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 94.0,
       "GearShiftTimeDifference": 0.0,
@@ -1436,7 +1438,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tir1",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_tir1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1444,11 +1446,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 100.0,
+      "GripDifference": 90.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 5,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1478,7 +1480,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tir2",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_tir2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1486,11 +1488,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": 0.0,
       "GripDifference": 125.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1520,7 +1522,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tir3",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_tir3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1528,11 +1530,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 50.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 5,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1562,7 +1564,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tir4",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_tir4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1570,11 +1572,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
-      "GripDifference": 100.0,
+      "GripDifference": 125.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 5,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1604,7 +1606,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tir5",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_tir5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1612,9 +1614,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.02,
       "WeightDifference": 0.0,
-      "GripDifference": 0.0,
+      "GripDifference": 246.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
@@ -1646,7 +1648,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tra0",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_tra0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1654,7 +1656,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
@@ -1688,7 +1690,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tra1",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_tra1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1697,7 +1699,7 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -13.6077719,
+      "WeightDifference": -15.8757334,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
@@ -1730,7 +1732,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tra2",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_tra2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1738,7 +1740,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
@@ -1772,7 +1774,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tra3",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_tra3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1780,11 +1782,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 50.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 6,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1814,7 +1816,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tra4",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_tra4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1822,11 +1824,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -20.86525,
+      "DragCoeffDifference": 0.03,
+      "WeightDifference": -34.4730225,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1856,7 +1858,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Abarth_500_2014_tra5",
+      "AssetDatabaseID": "Nissan_KRCJapanGTRR35RewardRecycled_2017_tra5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1864,10 +1866,10 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
+      "GearShiftTimeDifference": -0.1,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 5,
@@ -1926,147 +1928,147 @@
   ],
   "PredefinedUpgradeSets": [
     {
-      "PPIndex": 667,
+      "PPIndex": 502,
       "UpgradeData": "0000000000000000"
     },
     {
-      "PPIndex": 669,
+      "PPIndex": 511,
       "UpgradeData": "0000010000000000"
     },
     {
-      "PPIndex": 673,
+      "PPIndex": 523,
       "UpgradeData": "0000010000000100"
     },
     {
-      "PPIndex": 674,
+      "PPIndex": 524,
       "UpgradeData": "0000010000010100"
     },
     {
-      "PPIndex": 674,
+      "PPIndex": 527,
       "UpgradeData": "0100010000010100"
     },
     {
-      "PPIndex": 679,
+      "PPIndex": 532,
       "UpgradeData": "0100010100010100"
     },
     {
-      "PPIndex": 679,
+      "PPIndex": 533,
       "UpgradeData": "0101010100010100"
     },
     {
-      "PPIndex": 681,
+      "PPIndex": 536,
       "UpgradeData": "0101010100010101"
     },
     {
-      "PPIndex": 683,
+      "PPIndex": 542,
       "UpgradeData": "0101020100010101"
     },
     {
-      "PPIndex": 685,
+      "PPIndex": 548,
       "UpgradeData": "0101020100010201"
     },
     {
-      "PPIndex": 686,
+      "PPIndex": 550,
       "UpgradeData": "0101020100020201"
     },
     {
-      "PPIndex": 687,
+      "PPIndex": 551,
       "UpgradeData": "0201020100020201"
     },
     {
-      "PPIndex": 689,
+      "PPIndex": 557,
       "UpgradeData": "0201020200020201"
     },
     {
-      "PPIndex": 689,
+      "PPIndex": 558,
       "UpgradeData": "0202020200020201"
     },
     {
-      "PPIndex": 690,
+      "PPIndex": 559,
       "UpgradeData": "0202020200020202"
     },
     {
-      "PPIndex": 692,
+      "PPIndex": 561,
       "UpgradeData": "0202030200020202"
     },
     {
-      "PPIndex": 694,
+      "PPIndex": 564,
       "UpgradeData": "0202030200020302"
     },
     {
-      "PPIndex": 695,
+      "PPIndex": 569,
       "UpgradeData": "0202030200030302"
     },
     {
-      "PPIndex": 696,
+      "PPIndex": 573,
       "UpgradeData": "0302030200030302"
     },
     {
-      "PPIndex": 699,
+      "PPIndex": 574,
       "UpgradeData": "0302030300030302"
     },
     {
-      "PPIndex": 699,
+      "PPIndex": 575,
       "UpgradeData": "0303030300030302"
     },
     {
-      "PPIndex": 703,
+      "PPIndex": 582,
       "UpgradeData": "0303030300030303"
     },
     {
-      "PPIndex": 704,
+      "PPIndex": 587,
       "UpgradeData": "0303040300030303"
     },
     {
-      "PPIndex": 704,
+      "PPIndex": 597,
       "UpgradeData": "0303040300030403"
     },
     {
-      "PPIndex": 708,
+      "PPIndex": 598,
       "UpgradeData": "0303040300040403"
     },
     {
-      "PPIndex": 708,
+      "PPIndex": 601,
       "UpgradeData": "0403040300040403"
     },
     {
-      "PPIndex": 710,
+      "PPIndex": 603,
       "UpgradeData": "0403040400040403"
     },
     {
-      "PPIndex": 710,
+      "PPIndex": 607,
       "UpgradeData": "0404040400040403"
     },
     {
-      "PPIndex": 712,
+      "PPIndex": 606,
       "UpgradeData": "0404040400040404"
     },
     {
-      "PPIndex": 713,
+      "PPIndex": 610,
       "UpgradeData": "0404050400040404"
     },
     {
-      "PPIndex": 713,
+      "PPIndex": 613,
       "UpgradeData": "0404050400040504"
     },
     {
-      "PPIndex": 717,
+      "PPIndex": 617,
       "UpgradeData": "0404050400050504"
     },
     {
-      "PPIndex": 717,
+      "PPIndex": 618,
       "UpgradeData": "0504050400050504"
     },
     {
-      "PPIndex": 721,
+      "PPIndex": 622,
       "UpgradeData": "0504050500050504"
     },
     {
-      "PPIndex": 721,
+      "PPIndex": 623,
       "UpgradeData": "0505050500050504"
     },
     {
-      "PPIndex": 725,
+      "PPIndex": 628,
       "UpgradeData": "0505050500050505"
     }
   ]
