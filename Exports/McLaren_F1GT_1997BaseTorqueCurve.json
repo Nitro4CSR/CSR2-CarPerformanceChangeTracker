@@ -1,0 +1,118 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "McLaren_F1GT_1997BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 131.947052,
+        "inSlope": 0.292194724,
+        "outSlope": 0.292194724,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1350.0,
+        "value": 234.21521,
+        "inSlope": 0.292194724,
+        "outSlope": 0.168496355,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2050.0,
+        "value": 352.162659,
+        "inSlope": 0.168496355,
+        "outSlope": 0.113621287,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2950.0,
+        "value": 454.4218,
+        "inSlope": 0.113621287,
+        "outSlope": 0.1239244,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3700.0,
+        "value": 547.3651,
+        "inSlope": 0.1239244,
+        "outSlope": 0.123427548,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4350.0,
+        "value": 627.593,
+        "inSlope": 0.123427548,
+        "outSlope": 0.148919433,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4850.0,
+        "value": 702.052734,
+        "inSlope": 0.148919433,
+        "outSlope": 0.134709135,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5400.0,
+        "value": 776.142761,
+        "inSlope": 0.134709135,
+        "outSlope": 0.123867184,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6000.0,
+        "value": 850.4631,
+        "inSlope": 0.123867184,
+        "outSlope": -0.110347927,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8050.0,
+        "value": 624.2498,
+        "inSlope": -0.110347927,
+        "outSlope": -0.134951711,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8500.0,
+        "value": 563.521545,
+        "inSlope": -0.134951711,
+        "outSlope": -0.134951711,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}
