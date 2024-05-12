@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "ZenvoAuroraTurWheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1006.1554,
+        "value": 0.6762218,
+        "inSlope": 2.55819759E-05,
+        "outSlope": 7.15641272E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4308.234,
+        "value": 0.6998528,
+        "inSlope": 7.15641272E-06,
+        "outSlope": -0.00025311482,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5357.661,
+        "value": 0.434227228,
+        "inSlope": -0.00025311482,
+        "outSlope": -0.00123455387,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5707.81934,
+        "value": 0.0019380576,
+        "inSlope": -0.00123455387,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6276.387,
+        "value": 0.0019380576,
+        "inSlope": 0.0,
+        "outSlope": 0.00143050845,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6583.3877,
+        "value": 0.441104859,
+        "inSlope": 0.00143050845,
+        "outSlope": 0.0003489452,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7324.945,
+        "value": 0.699867666,
+        "inSlope": 0.0003489452,
+        "outSlope": 3.29606246E-06,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 9451.159,
+        "value": 0.7068758,
+        "inSlope": 3.29606246E-06,
+        "outSlope": -0.000295804377,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}
