@@ -31,7 +31,7 @@
   "BasePerformanceIndex": 608,
   "FlyWheelPower": 807,
   "IsAvailableInShowroomAndUpgrade": 1,
-  "Size": 0,
+  "Size": 4,
   "IsOpenTopCar": 0,
   "CarUnlocksInSeason": 0,
   "CarUnlocksWithGacha": "",
@@ -169,6 +169,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -206,6 +207,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -251,6 +253,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -288,6 +291,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -333,6 +337,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -370,6 +375,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -415,6 +421,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -452,6 +459,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -497,6 +505,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -534,6 +543,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -579,6 +589,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -616,6 +627,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -661,6 +673,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -698,6 +711,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -743,6 +757,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -780,6 +795,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -825,6 +841,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -862,6 +879,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -907,6 +925,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -944,6 +963,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -989,6 +1009,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -1026,6 +1047,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1071,6 +1093,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -1108,6 +1131,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1153,6 +1177,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -1190,6 +1215,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1235,6 +1261,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -1272,6 +1299,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1317,6 +1345,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -1354,6 +1383,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1399,6 +1429,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -1436,6 +1467,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1481,6 +1513,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -1518,6 +1551,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1563,6 +1597,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -1600,6 +1635,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1645,6 +1681,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -1682,6 +1719,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1727,6 +1765,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -1764,6 +1803,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1809,6 +1849,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -1846,6 +1887,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,

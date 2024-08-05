@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Dodge_ChargerDaytona_1970WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1024.98022,
+        "value": 0.6903242,
+        "inSlope": 1.388232E-05,
+        "outSlope": -0.000135915936,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5224.791,
+        "value": 0.119502947,
+        "inSlope": -0.000135915936,
+        "outSlope": -0.0001669982,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5940.38525,
+        "value": 0.0,
+        "inSlope": -0.0001669982,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6256.431,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.000223161915,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6804.712,
+        "value": 0.122355387,
+        "inSlope": 0.000223161915,
+        "outSlope": 0.0006975732,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7462.245,
+        "value": 0.581032932,
+        "inSlope": 0.0006975732,
+        "outSlope": 0.000564314949,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8345.341,
+        "value": 1.079377,
+        "inSlope": 0.000564314949,
+        "outSlope": 0.000234458537,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

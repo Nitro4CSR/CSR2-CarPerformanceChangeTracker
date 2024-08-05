@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Porsche_TaycanTurboGTReward_2025EVTorqueCurve(before upgrade)",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1900.0,
+        "value": 138.950989,
+        "inSlope": -1.00157695E-05,
+        "outSlope": -1.85139979E-05,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3550.0,
+        "value": 138.920441,
+        "inSlope": -1.85139979E-05,
+        "outSlope": 0.0257217083,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5400.0,
+        "value": 186.5056,
+        "inSlope": 0.0257217083,
+        "outSlope": 0.04410498,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6993.0,
+        "value": 256.764832,
+        "inSlope": 0.04410498,
+        "outSlope": 0.0398266762,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8300.0,
+        "value": 308.8183,
+        "inSlope": 0.0398266762,
+        "outSlope": 0.0401065424,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 10000.0,
+        "value": 376.99942,
+        "inSlope": 0.0401065424,
+        "outSlope": -0.0333813056,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 11500.0,
+        "value": 326.92746,
+        "inSlope": -0.0333813056,
+        "outSlope": -0.0262394622,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 13200.0,
+        "value": 282.320374,
+        "inSlope": -0.0262394622,
+        "outSlope": -0.022582788,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 15000.0,
+        "value": 241.671356,
+        "inSlope": -0.022582788,
+        "outSlope": -0.0185106,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 17700.0,
+        "value": 191.692734,
+        "inSlope": -0.0185106,
+        "outSlope": -0.0256102271,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

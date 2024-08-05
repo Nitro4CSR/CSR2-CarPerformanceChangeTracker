@@ -8,28 +8,28 @@
     "m_FileID": 0,
     "m_PathID": -5010576824879005575
   },
-  "m_Name": "AstonMartin_VantageGTE_2020",
+  "m_Name": "Zenvo_AuroraTurRewardRecycled_2024",
   "EcbValue": 0,
   "CarType": 0,
   "NeedsRestoration": 0,
   "IsTunerStarsCar": 0,
   "IsEVCar": 0,
-  "Key": "AstonMartin_VantageGTE_2020",
-  "DisableNumberPlate": 1,
-  "ManufacturerID": "id_astonmartin",
+  "Key": "Zenvo_AuroraTurRewardRecycled_2024",
+  "DisableNumberPlate": 0,
+  "ManufacturerID": "id_zenvo",
   "CarEngineSound": 4,
   "DSGGearBox": 0,
-  "ManufacturerName": "Aston Martin",
+  "ManufacturerName": "Zenvo",
   "DefaultLiveryBundleName": "",
   "DefaultCustomisationBundleNames": [
     ""
   ],
   "EliteOverrideCarAssetID": "",
-  "DriveType": 1,
-  "ModelPrefabString": "AstonMartin_VantageGTE_2020",
+  "DriveType": 2,
+  "ModelPrefabString": "Zenvo_AuroraTurRewardRecycled_2024",
   "BaseCarTier": 4,
   "BasePerformanceIndex": 603,
-  "FlyWheelPower": 503,
+  "FlyWheelPower": 1850,
   "IsAvailableInShowroomAndUpgrade": 1,
   "Size": 0,
   "IsOpenTopCar": 0,
@@ -49,16 +49,16 @@
   "TyreConsumableEngineGraphIntercept": -217.032074,
   "TyreConsumableTyreGraphSlope": 3.35967255,
   "TyreConsumableTyreGraphIntercept": -2170.3208,
-  "BaseRedlineRPM": 7000,
-  "OptimalLaunchRPM": 5000,
-  "TransmissionLoss": 3.0,
+  "BaseRedlineRPM": 9800,
+  "OptimalLaunchRPM": 6000,
+  "TransmissionLoss": 29.5,
   "BaseEngineData": {
     "EngineRevRate": 9500.0,
     "RevLimiterTime": 0.05,
     "Classified": 0,
     "_BaseTorqueCurve": {
       "m_FileID": 0,
-      "m_PathID": -902501758181273521
+      "m_PathID": 4262448443090635372
     },
     "_BaseTorqueCurveEV": {
       "m_FileID": 0,
@@ -66,9 +66,9 @@
     }
   },
   "BaseChassisData": {
-    "Mass": 1088.6217,
-    "CosmeticMass": 1532.68872,
-    "DragCoefficient": 0.61,
+    "Mass": 1315.418,
+    "CosmeticMass": 2164.543,
+    "DragCoefficient": 0.56,
     "Width": 1.98,
     "Height": 1.19,
     "LongitudinalBodyRollScaleFactor": 0.11,
@@ -82,31 +82,33 @@
   },
   "BaseGearBoxData": {
     "GearRatios": [
-      4.714,
-      2.96883321,
-      1.705,
-      1.181375,
-      0.821875,
-      0.603333354
+      3.687,
+      2.469,
+      1.805,
+      1.444,
+      1.2,
+      1.026,
+      0.94
     ],
     "DebugChangeGearAtMPH": [
-      47.976696,
-      71.95742,
-      96.5505,
-      124.307579,
-      159.749466,
-      183.174637
+      73.34006,
+      104.889977,
+      138.725632,
+      171.427917,
+      201.52182,
+      230.127136,
+      0.0
     ],
-    "FinalGearRatio": 3.25,
+    "FinalGearRatio": 2.85,
     "RPMToShiftAutomatic": 6500.0,
     "ClutchDelay": 0.325,
     "ClutchDelayFirstGear": 0.1
   },
   "BaseTyreData": {
-    "WheelRadius": 0.35814,
+    "WheelRadius": 0.364236,
     "RollingFrictionCoefficient": 0.015,
     "RoadFrictionCoefficient": 1.0,
-    "TireGripMax": 8200.0,
+    "TireGripMax": 7900.0,
     "TireWidth": 0.25,
     "FrontAxleDriven": 0,
     "RearAxleDriven": 1,
@@ -120,7 +122,7 @@
     },
     "_RPMVsExtraWheelSpinCurve": {
       "m_FileID": 0,
-      "m_PathID": -6194015775662859790
+      "m_PathID": -910812447218816401
     },
     "_RPMVsExtraWheelSpinCurveEV": {
       "m_FileID": 0,
@@ -136,7 +138,7 @@
   },
   "AvailableUpgradeData": [
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_eng0",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_eng0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -144,7 +146,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.04,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -174,11 +176,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 4115455541713018298
+        "m_PathID": 3356196498531588672
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_eng1",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_eng1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -216,11 +218,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 5672940308823375928
+        "m_PathID": -3932611683239924606
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_eng2",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_eng2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -228,11 +230,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
+      "DragCoeffDifference": 0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 0,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -258,11 +260,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6131915247671489938
+        "m_PathID": -4309196229020777268
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_eng3",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_eng3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -270,11 +272,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 0,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -300,11 +302,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -4428244535153489167
+        "m_PathID": -4569362618796131012
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_eng4",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_eng4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -312,11 +314,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -4.0,
+      "TransmissionLossPercentage": -3.0,
       "UpgradeType": 0,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -342,11 +344,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -9121432219950282007
+        "m_PathID": 575788151569553170
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_eng5",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_eng5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -354,11 +356,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.05,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.5,
+      "TransmissionLossPercentage": -3.0,
       "UpgradeType": 0,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -384,11 +386,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -1502189213064792061
+        "m_PathID": 5932732725352331320
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tur0",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_tur0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -396,11 +398,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 1,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -426,11 +428,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -2111612784528300369
+        "m_PathID": -28371131770038278
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tur1",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_tur1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -438,11 +440,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 1,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -468,11 +470,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 3878517456262045146
+        "m_PathID": -3461719216992768841
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tur2",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_tur2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -484,7 +486,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.01,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 1,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -510,11 +512,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 1520947678060205685
+        "m_PathID": 750572593475389209
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tur3",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_tur3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -522,7 +524,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -552,11 +554,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 3271484154105851457
+        "m_PathID": 3564419537440718849
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tur4",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_tur4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -564,11 +566,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.03,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 1,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -594,11 +596,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -8203915573730785574
+        "m_PathID": -9103121978868976620
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tur5",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_tur5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -606,11 +608,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.06,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -4.0,
+      "TransmissionLossPercentage": -3.5,
       "UpgradeType": 1,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -636,11 +638,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 3800163906754650851
+        "m_PathID": 5336328226881069769
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_int0",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_int0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -648,11 +650,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 2,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -682,7 +684,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_int1",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_int1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -690,11 +692,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.2,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 2,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -724,7 +726,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_int2",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_int2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -732,7 +734,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -766,7 +768,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_int3",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_int3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -774,11 +776,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -2.5,
       "UpgradeType": 2,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -808,7 +810,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_int4",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_int4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -816,7 +818,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -850,7 +852,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_int5",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_int5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -858,11 +860,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 2,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -892,7 +894,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_nit0",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_nit0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS01",
       "NitrousTime": 2.0,
       "NitrousHPBoost": 25.0,
@@ -900,11 +902,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 3,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -934,7 +936,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_nit1",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_nit1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS02",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 25.0,
@@ -942,11 +944,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 3,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -976,7 +978,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_nit2",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_nit2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 25.0,
@@ -984,11 +986,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 3,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1018,7 +1020,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_nit3",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_nit3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 25.0,
@@ -1026,11 +1028,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -2.5,
       "UpgradeType": 3,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1060,7 +1062,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_nit4",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_nit4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS05",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 0.0,
@@ -1072,7 +1074,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 3,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1102,7 +1104,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_nit5",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_nit5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS06",
       "NitrousTime": 4.0,
       "NitrousHPBoost": 25.0,
@@ -1110,11 +1112,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 3,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1144,7 +1146,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_bod0",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_bod0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1152,11 +1154,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
-      "WeightDifference": -18.1436958,
-      "GripDifference": -20.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -13.6077719,
+      "GripDifference": -15.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.0,
+      "TransmissionLossPercentage": -0.75,
       "UpgradeType": 4,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -1186,7 +1188,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_bod1",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_bod1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1194,9 +1196,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
-      "WeightDifference": -22.6796188,
-      "GripDifference": -25.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": -27.2155437,
+      "GripDifference": -30.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1228,7 +1230,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_bod2",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_bod2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1236,11 +1238,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 650.0,
-      "DragCoeffDifference": 0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": -11.3398094,
       "GripDifference": -12.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1270,7 +1272,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_bod3",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_bod3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1279,8 +1281,8 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -31.7514668,
-      "GripDifference": -35.0,
+      "WeightDifference": -36.28739,
+      "GripDifference": -40.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1312,7 +1314,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_bod4",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_bod4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1320,9 +1322,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
-      "WeightDifference": -45.3592377,
-      "GripDifference": -50.0,
+      "DragCoeffDifference": 0.03,
+      "WeightDifference": -40.8233147,
+      "GripDifference": -40.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1354,7 +1356,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_bod5",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_bod5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1363,10 +1365,10 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.03,
-      "WeightDifference": -54.4310875,
-      "GripDifference": -60.0,
+      "WeightDifference": -68.03886,
+      "GripDifference": -75.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 6.0,
       "UpgradeType": 4,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1396,7 +1398,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tir0",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_tir0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1404,11 +1406,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 94.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.3,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -1438,7 +1440,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tir1",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_tir1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1448,7 +1450,7 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
-      "GripDifference": 90.0,
+      "GripDifference": 115.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -1.0,
       "UpgradeType": 5,
@@ -1480,7 +1482,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tir2",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_tir2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1488,9 +1490,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 95.0,
+      "GripDifference": 85.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
@@ -1522,7 +1524,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tir3",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_tir3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1530,9 +1532,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 50.0,
+      "GripDifference": 115.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -2.0,
       "UpgradeType": 5,
@@ -1564,7 +1566,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tir4",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_tir4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1574,9 +1576,9 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 115.0,
+      "GripDifference": 125.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 5,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1606,7 +1608,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tir5",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_tir5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1614,7 +1616,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.05,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 246.0,
       "GearShiftTimeDifference": 0.0,
@@ -1648,7 +1650,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tra0",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_tra0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1656,7 +1658,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
@@ -1690,7 +1692,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tra1",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_tra1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1698,8 +1700,8 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.04,
-      "WeightDifference": -20.86525,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": -18.1436958,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
@@ -1732,7 +1734,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tra2",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_tra2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1740,11 +1742,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.03,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 1.0,
       "UpgradeType": 6,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1774,7 +1776,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tra3",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_tra3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1782,9 +1784,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
-      "GripDifference": 50.0,
+      "GripDifference": 80.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -2.0,
       "UpgradeType": 6,
@@ -1816,7 +1818,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tra4",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_tra4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1824,7 +1826,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": -29.9370975,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -1858,7 +1860,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tra5",
+      "AssetDatabaseID": "Zenvo_AuroraTurRewardRecycled_2024_tra5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1866,11 +1868,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.04,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.1,
-      "TransmissionLossPercentage": 2.0,
+      "TransmissionLossPercentage": 5.0,
       "UpgradeType": 6,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,

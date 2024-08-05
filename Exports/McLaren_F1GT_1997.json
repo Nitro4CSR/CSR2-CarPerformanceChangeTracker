@@ -29,7 +29,7 @@
   "ModelPrefabString": "McLaren_F1GT_1997",
   "BaseCarTier": 4,
   "BasePerformanceIndex": 603,
-  "FlyWheelPower": 680,
+  "FlyWheelPower": 617,
   "IsAvailableInShowroomAndUpgrade": 1,
   "Size": 0,
   "IsOpenTopCar": 0,
@@ -67,7 +67,7 @@
   },
   "BaseChassisData": {
     "Mass": 952.544,
-    "CosmeticMass": 1061.85974,
+    "CosmeticMass": 1119.91956,
     "DragCoefficient": 0.81,
     "Width": 2.03,
     "Height": 1.16,

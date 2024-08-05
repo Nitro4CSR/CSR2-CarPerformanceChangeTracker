@@ -8,57 +8,57 @@
     "m_FileID": 0,
     "m_PathID": -5010576824879005575
   },
-  "m_Name": "AstonMartin_VantageGTE_2020",
+  "m_Name": "Pagani_HuayraCodalunga_2022",
   "EcbValue": 0,
   "CarType": 0,
   "NeedsRestoration": 0,
   "IsTunerStarsCar": 0,
   "IsEVCar": 0,
-  "Key": "AstonMartin_VantageGTE_2020",
-  "DisableNumberPlate": 1,
-  "ManufacturerID": "id_astonmartin",
-  "CarEngineSound": 4,
+  "Key": "Pagani_HuayraCodalunga_2022",
+  "DisableNumberPlate": 0,
+  "ManufacturerID": "id_pagani",
+  "CarEngineSound": 6,
   "DSGGearBox": 0,
-  "ManufacturerName": "Aston Martin",
+  "ManufacturerName": "Pagani",
   "DefaultLiveryBundleName": "",
   "DefaultCustomisationBundleNames": [
     ""
   ],
   "EliteOverrideCarAssetID": "",
   "DriveType": 1,
-  "ModelPrefabString": "AstonMartin_VantageGTE_2020",
+  "ModelPrefabString": "Pagani_HuayraCodalunga_2022",
   "BaseCarTier": 4,
   "BasePerformanceIndex": 603,
-  "FlyWheelPower": 503,
+  "FlyWheelPower": 850,
   "IsAvailableInShowroomAndUpgrade": 1,
   "Size": 0,
   "IsOpenTopCar": 0,
   "CarUnlocksInSeason": 0,
   "CarUnlocksWithGacha": "",
-  "MechanicEngineFettleGraphSlope": 0.552317858,
-  "MechanicEngineFettleGraphIntercept": -359.752869,
-  "MechanicTyreGripFettleGraphSlope": 5.523149,
-  "MechanicTyreGripFettleGraphIntercept": -3597.508,
-  "EngineConsumableEngineGraphSlope": 0.6636803,
-  "EngineConsumableEngineGraphIntercept": -427.0942,
-  "EngineConsumableTyreGraphSlope": 6.63686848,
-  "EngineConsumableTyreGraphIntercept": -4270.9873,
-  "NitrousConsumableBodyGraphSlope": -1.70668387,
-  "NitrousConsumableBodyGraphIntercept": 1332.08923,
-  "TyreConsumableEngineGraphSlope": 0.335967243,
-  "TyreConsumableEngineGraphIntercept": -217.032074,
-  "TyreConsumableTyreGraphSlope": 3.35967255,
-  "TyreConsumableTyreGraphIntercept": -2170.3208,
-  "BaseRedlineRPM": 7000,
-  "OptimalLaunchRPM": 5000,
-  "TransmissionLoss": 3.0,
+  "MechanicEngineFettleGraphSlope": 0.0,
+  "MechanicEngineFettleGraphIntercept": 0.0,
+  "MechanicTyreGripFettleGraphSlope": 0.0,
+  "MechanicTyreGripFettleGraphIntercept": 0.0,
+  "EngineConsumableEngineGraphSlope": 0.0638171658,
+  "EngineConsumableEngineGraphIntercept": -24.9981155,
+  "EngineConsumableTyreGraphSlope": 0.638170838,
+  "EngineConsumableTyreGraphIntercept": -249.980682,
+  "NitrousConsumableBodyGraphSlope": -0.738765538,
+  "NitrousConsumableBodyGraphIntercept": 595.043,
+  "TyreConsumableEngineGraphSlope": 0.0306689069,
+  "TyreConsumableEngineGraphIntercept": -12.10504,
+  "TyreConsumableTyreGraphSlope": 0.306688637,
+  "TyreConsumableTyreGraphIntercept": -121.050148,
+  "BaseRedlineRPM": 9000,
+  "OptimalLaunchRPM": 4800,
+  "TransmissionLoss": 44.3,
   "BaseEngineData": {
-    "EngineRevRate": 9500.0,
-    "RevLimiterTime": 0.05,
+    "EngineRevRate": 8800.0,
+    "RevLimiterTime": 0.15,
     "Classified": 0,
     "_BaseTorqueCurve": {
       "m_FileID": 0,
-      "m_PathID": -902501758181273521
+      "m_PathID": -4409141420419705948
     },
     "_BaseTorqueCurveEV": {
       "m_FileID": 0,
@@ -66,13 +66,13 @@
     }
   },
   "BaseChassisData": {
-    "Mass": 1088.6217,
-    "CosmeticMass": 1532.68872,
+    "Mass": 1049.61279,
+    "CosmeticMass": 0.0,
     "DragCoefficient": 0.61,
-    "Width": 1.98,
-    "Height": 1.19,
+    "Width": 2.03,
+    "Height": 1.16,
     "LongitudinalBodyRollScaleFactor": 0.11,
-    "LongitudinalBodyRollDamping": 0.94,
+    "LongitudinalBodyRollDamping": 0.99,
     "LongitudinalBodyRollScaleDownWithSpeed": 150.0,
     "MaximumBodyRollAngle": 90.0,
     "MaximumAirLiftHeight": 0.05,
@@ -82,31 +82,31 @@
   },
   "BaseGearBoxData": {
     "GearRatios": [
-      4.714,
-      2.96883321,
-      1.705,
-      1.181375,
-      0.821875,
-      0.603333354
+      3.07,
+      2.23,
+      1.72,
+      1.42,
+      1.2,
+      1.03
     ],
     "DebugChangeGearAtMPH": [
-      47.976696,
-      71.95742,
-      96.5505,
-      124.307579,
-      159.749466,
-      183.174637
+      76.6788559,
+      103.651733,
+      131.908524,
+      159.7765,
+      187.293579,
+      187.312637
     ],
-    "FinalGearRatio": 3.25,
+    "FinalGearRatio": 3.1,
     "RPMToShiftAutomatic": 6500.0,
-    "ClutchDelay": 0.325,
-    "ClutchDelayFirstGear": 0.1
+    "ClutchDelay": 0.4,
+    "ClutchDelayFirstGear": 0.2
   },
   "BaseTyreData": {
-    "WheelRadius": 0.35814,
+    "WheelRadius": 0.352552,
     "RollingFrictionCoefficient": 0.015,
     "RoadFrictionCoefficient": 1.0,
-    "TireGripMax": 8200.0,
+    "TireGripMax": 8100.0,
     "TireWidth": 0.25,
     "FrontAxleDriven": 0,
     "RearAxleDriven": 1,
@@ -120,7 +120,7 @@
     },
     "_RPMVsExtraWheelSpinCurve": {
       "m_FileID": 0,
-      "m_PathID": -6194015775662859790
+      "m_PathID": -6110605107020704404
     },
     "_RPMVsExtraWheelSpinCurveEV": {
       "m_FileID": 0,
@@ -136,7 +136,7 @@
   },
   "AvailableUpgradeData": [
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_eng0",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_eng0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -148,7 +148,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 1.0,
       "UpgradeType": 0,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -174,11 +174,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 4115455541713018298
+        "m_PathID": 986998133063620913
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_eng1",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_eng1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -186,11 +186,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 0,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -216,348 +216,12 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 5672940308823375928
+        "m_PathID": 2697137388733521693
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_eng2",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_eng2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE03",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 0,
-      "UpgradeLevel": 2,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -6131915247671489938
-      }
-    },
-    {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_eng3",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.0,
-      "UpgradeType": 0,
-      "UpgradeLevel": 3,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -4428244535153489167
-      }
-    },
-    {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_eng4",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -4.0,
-      "UpgradeType": 0,
-      "UpgradeLevel": 4,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -9121432219950282007
-      }
-    },
-    {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_eng5",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.5,
-      "UpgradeType": 0,
-      "UpgradeLevel": 5,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -1502189213064792061
-      }
-    },
-    {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tur0",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.0,
-      "UpgradeType": 1,
-      "UpgradeLevel": 0,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -2111612784528300369
-      }
-    },
-    {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tur1",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 1,
-      "UpgradeLevel": 1,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 3878517456262045146
-      }
-    },
-    {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tur2",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.01,
-      "UpgradeType": 1,
-      "UpgradeLevel": 2,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 1520947678060205685
-      }
-    },
-    {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tur3",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
-      "UpgradeType": 1,
-      "UpgradeLevel": 3,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 3271484154105851457
-      }
-    },
-    {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tur4",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
@@ -568,7 +232,343 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -6569690119903611516
+      }
+    },
+    {
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_eng3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -0.25,
+      "UpgradeType": 0,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 4497743423753283568
+      }
+    },
+    {
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_eng4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.03,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -3834640391003366715
+      }
+    },
+    {
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_eng5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.5,
+      "UpgradeType": 0,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 7216547176881551561
+      }
+    },
+    {
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_tur0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -9206791709006419081
+      }
+    },
+    {
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_tur1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.01,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -4096911167403628271
+      }
+    },
+    {
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_tur2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -6390215209777608510
+      }
+    },
+    {
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_tur3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -559701472079679365
+      }
+    },
+    {
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_tur4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.04,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 1,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -594,11 +594,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -8203915573730785574
+        "m_PathID": 1094491582457497947
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tur5",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_tur5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -606,11 +606,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.05,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -4.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 1,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -636,11 +636,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 3800163906754650851
+        "m_PathID": -1908788989360429472
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_int0",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_int0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -648,11 +648,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 2,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -678,11 +678,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -7399037851560829809
+        "m_PathID": 3379205932245270607
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_int1",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_int1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -690,11 +690,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.2,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 2,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -720,11 +720,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -8786429705318127911
+        "m_PathID": 7890591394194936741
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_int2",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_int2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -732,7 +732,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -762,11 +762,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -4166144872672843869
+        "m_PathID": -1344384534951516548
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_int3",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_int3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -774,11 +774,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 2,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -804,11 +804,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -3103128287536341218
+        "m_PathID": 1700929169083096053
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_int4",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_int4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -816,11 +816,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 2,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -846,11 +846,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6869999955371484735
+        "m_PathID": -8534768491115577084
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_int5",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_int5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -858,11 +858,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 2,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -888,11 +888,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -1561770539702539208
+        "m_PathID": 1621398238206019006
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_nit0",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_nit0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS01",
       "NitrousTime": 2.0,
       "NitrousHPBoost": 25.0,
@@ -900,7 +900,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -934,7 +934,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_nit1",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_nit1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS02",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 25.0,
@@ -942,11 +942,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 3,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -976,7 +976,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_nit2",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_nit2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 25.0,
@@ -984,7 +984,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
+      "DragCoeffDifference": -0.005,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -1018,7 +1018,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_nit3",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_nit3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 25.0,
@@ -1026,7 +1026,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -1060,7 +1060,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_nit4",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_nit4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS05",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 0.0,
@@ -1068,11 +1068,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 3,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1102,7 +1102,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_nit5",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_nit5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS06",
       "NitrousTime": 4.0,
       "NitrousHPBoost": 25.0,
@@ -1110,11 +1110,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 3,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1144,8 +1144,50 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_bod0",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_bod0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY01",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": -13.6077719,
+      "GripDifference": -15.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 4,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_bod1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
@@ -1156,48 +1198,6 @@
       "WeightDifference": -18.1436958,
       "GripDifference": -20.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.0,
-      "UpgradeType": 4,
-      "UpgradeLevel": 0,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 0
-      }
-    },
-    {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_bod1",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY02",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
-      "WeightDifference": -22.6796188,
-      "GripDifference": -25.0,
-      "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
       "UpgradeLevel": 1,
@@ -1228,7 +1228,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_bod2",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_bod2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1236,11 +1236,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 650.0,
-      "DragCoeffDifference": 0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": -11.3398094,
       "GripDifference": -12.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1270,7 +1270,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_bod3",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_bod3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1278,9 +1278,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -31.7514668,
-      "GripDifference": -35.0,
+      "DragCoeffDifference": -0.03,
+      "WeightDifference": -18.1436958,
+      "GripDifference": -20.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1312,7 +1312,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_bod4",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_bod4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1320,9 +1320,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
-      "WeightDifference": -45.3592377,
-      "GripDifference": -50.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -27.2155437,
+      "GripDifference": -30.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1354,7 +1354,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_bod5",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_bod5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1362,7 +1362,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.03,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": -54.4310875,
       "GripDifference": -60.0,
       "GearShiftTimeDifference": 0.0,
@@ -1396,7 +1396,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tir0",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_tir0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1404,11 +1404,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 94.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.3,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -1438,7 +1438,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tir1",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_tir1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1446,9 +1446,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
-      "GripDifference": 90.0,
+      "GripDifference": 100.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -1.0,
       "UpgradeType": 5,
@@ -1480,7 +1480,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tir2",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_tir2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1488,9 +1488,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 95.0,
+      "GripDifference": 125.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
@@ -1522,7 +1522,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tir3",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_tir3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1534,7 +1534,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 50.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 5,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1564,7 +1564,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tir4",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_tir4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1574,9 +1574,9 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 115.0,
+      "GripDifference": 105.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 5,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1606,7 +1606,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tir5",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_tir5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1614,11 +1614,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.05,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 246.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 5,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1648,7 +1648,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tra0",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_tra0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1690,7 +1690,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tra1",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_tra1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1698,8 +1698,8 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.04,
-      "WeightDifference": -20.86525,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -27.2155437,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
@@ -1732,7 +1732,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tra2",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_tra2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1774,7 +1774,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tra3",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_tra3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1786,7 +1786,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 50.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 6,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1816,7 +1816,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tra4",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_tra4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1824,8 +1824,8 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
-      "WeightDifference": -29.9370975,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -20.86525,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
@@ -1858,7 +1858,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tra5",
+      "AssetDatabaseID": "Pagani_HuayraCodalunga_2022_tra5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1866,11 +1866,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.04,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.1,
-      "TransmissionLossPercentage": 2.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1928,147 +1928,147 @@
   ],
   "PredefinedUpgradeSets": [
     {
-      "PPIndex": 667,
+      "PPIndex": 512,
       "UpgradeData": "0000000000000000"
     },
     {
-      "PPIndex": 669,
+      "PPIndex": 518,
       "UpgradeData": "0000010000000000"
     },
     {
-      "PPIndex": 673,
+      "PPIndex": 523,
       "UpgradeData": "0000010000000100"
     },
     {
-      "PPIndex": 674,
+      "PPIndex": 526,
       "UpgradeData": "0000010000010100"
     },
     {
-      "PPIndex": 674,
+      "PPIndex": 533,
       "UpgradeData": "0100010000010100"
     },
     {
-      "PPIndex": 679,
+      "PPIndex": 545,
       "UpgradeData": "0100010100010100"
     },
     {
-      "PPIndex": 679,
+      "PPIndex": 546,
       "UpgradeData": "0101010100010100"
     },
     {
-      "PPIndex": 681,
+      "PPIndex": 550,
       "UpgradeData": "0101010100010101"
     },
     {
-      "PPIndex": 683,
+      "PPIndex": 555,
       "UpgradeData": "0101020100010101"
     },
     {
-      "PPIndex": 685,
+      "PPIndex": 560,
       "UpgradeData": "0101020100010201"
     },
     {
-      "PPIndex": 686,
+      "PPIndex": 565,
       "UpgradeData": "0101020100020201"
     },
     {
-      "PPIndex": 687,
+      "PPIndex": 567,
       "UpgradeData": "0201020100020201"
     },
     {
-      "PPIndex": 689,
+      "PPIndex": 573,
       "UpgradeData": "0201020200020201"
     },
     {
-      "PPIndex": 689,
+      "PPIndex": 574,
       "UpgradeData": "0202020200020201"
     },
     {
-      "PPIndex": 690,
+      "PPIndex": 575,
       "UpgradeData": "0202020200020202"
     },
     {
-      "PPIndex": 692,
+      "PPIndex": 579,
       "UpgradeData": "0202030200020202"
     },
     {
-      "PPIndex": 694,
+      "PPIndex": 584,
       "UpgradeData": "0202030200020302"
     },
     {
-      "PPIndex": 695,
+      "PPIndex": 589,
       "UpgradeData": "0202030200030302"
     },
     {
-      "PPIndex": 696,
+      "PPIndex": 592,
       "UpgradeData": "0302030200030302"
     },
     {
-      "PPIndex": 699,
+      "PPIndex": 594,
       "UpgradeData": "0302030300030302"
     },
     {
-      "PPIndex": 699,
+      "PPIndex": 596,
       "UpgradeData": "0303030300030302"
     },
     {
-      "PPIndex": 703,
+      "PPIndex": 602,
       "UpgradeData": "0303030300030303"
     },
     {
-      "PPIndex": 704,
+      "PPIndex": 606,
       "UpgradeData": "0303040300030303"
     },
     {
-      "PPIndex": 704,
+      "PPIndex": 608,
       "UpgradeData": "0303040300030403"
     },
     {
-      "PPIndex": 708,
+      "PPIndex": 613,
       "UpgradeData": "0303040300040403"
     },
     {
-      "PPIndex": 708,
+      "PPIndex": 614,
       "UpgradeData": "0403040300040403"
     },
     {
-      "PPIndex": 710,
+      "PPIndex": 616,
       "UpgradeData": "0403040400040403"
     },
     {
-      "PPIndex": 710,
+      "PPIndex": 617,
       "UpgradeData": "0404040400040403"
     },
     {
-      "PPIndex": 712,
+      "PPIndex": 619,
       "UpgradeData": "0404040400040404"
     },
     {
-      "PPIndex": 713,
+      "PPIndex": 622,
       "UpgradeData": "0404050400040404"
     },
     {
-      "PPIndex": 713,
+      "PPIndex": 625,
       "UpgradeData": "0404050400040504"
     },
     {
-      "PPIndex": 717,
+      "PPIndex": 629,
       "UpgradeData": "0404050400050504"
     },
     {
-      "PPIndex": 717,
+      "PPIndex": 631,
       "UpgradeData": "0504050400050504"
     },
     {
-      "PPIndex": 721,
+      "PPIndex": 636,
       "UpgradeData": "0504050500050504"
     },
     {
-      "PPIndex": 721,
+      "PPIndex": 637,
       "UpgradeData": "0505050500050504"
     },
     {
-      "PPIndex": 725,
+      "PPIndex": 643,
       "UpgradeData": "0505050500050505"
     }
   ]

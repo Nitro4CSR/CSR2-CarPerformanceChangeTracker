@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Lancia_DeltaHFIntegraleEvo2_1994BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 600.0,
+        "value": 251.3036,
+        "inSlope": 0.629301965,
+        "outSlope": 0.0112063345,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1200.0,
+        "value": 258.0274,
+        "inSlope": 0.0112063345,
+        "outSlope": 1.20866024,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1350.0,
+        "value": 439.326447,
+        "inSlope": 1.20866024,
+        "outSlope": 1.04199934,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1550.0,
+        "value": 647.7263,
+        "inSlope": 1.04199934,
+        "outSlope": 0.227432624,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2050.0,
+        "value": 761.4426,
+        "inSlope": 0.227432624,
+        "outSlope": 0.015079529,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3050.0,
+        "value": 776.522156,
+        "inSlope": 0.015079529,
+        "outSlope": 0.0114494627,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3800.0,
+        "value": 785.109253,
+        "inSlope": 0.0114494627,
+        "outSlope": 0.008424683,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5000.0,
+        "value": 795.2189,
+        "inSlope": 0.008424683,
+        "outSlope": -0.135289252,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6050.0,
+        "value": 653.165161,
+        "inSlope": -0.135289252,
+        "outSlope": -0.214577362,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6500.0,
+        "value": 556.605347,
+        "inSlope": -0.214577362,
+        "outSlope": -0.272225738,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

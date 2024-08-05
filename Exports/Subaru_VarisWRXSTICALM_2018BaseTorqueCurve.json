@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Subaru_VarisWRXSTICALM_2018BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 131.703674,
+        "inSlope": 0.003041382,
+        "outSlope": 0.446596533,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1400.0,
+        "value": 310.3423,
+        "inSlope": 0.446596533,
+        "outSlope": 0.256086379,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1950.0,
+        "value": 451.1898,
+        "inSlope": 0.256086379,
+        "outSlope": 0.175029039,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2300.0,
+        "value": 512.449951,
+        "inSlope": 0.175029039,
+        "outSlope": 0.120198518,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2700.0,
+        "value": 560.529358,
+        "inSlope": 0.120198518,
+        "outSlope": 0.06522245,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4000.0,
+        "value": 645.318542,
+        "inSlope": 0.06522245,
+        "outSlope": 0.0276021324,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4900.0,
+        "value": 670.160461,
+        "inSlope": 0.0276021324,
+        "outSlope": 0.009628567,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5800.0,
+        "value": 678.8262,
+        "inSlope": 0.009628567,
+        "outSlope": -0.104082763,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6550.0,
+        "value": 600.7641,
+        "inSlope": -0.104082763,
+        "outSlope": -0.252597421,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 6800.0,
+        "value": 537.614746,
+        "inSlope": -0.252597421,
+        "outSlope": -0.153756589,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

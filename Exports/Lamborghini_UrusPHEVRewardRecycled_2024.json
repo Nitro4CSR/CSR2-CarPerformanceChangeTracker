@@ -8,30 +8,30 @@
     "m_FileID": 0,
     "m_PathID": -5010576824879005575
   },
-  "m_Name": "AstonMartin_VantageGTE_2020",
+  "m_Name": "Lamborghini_UrusPHEVRewardRecycled_2024",
   "EcbValue": 0,
   "CarType": 0,
   "NeedsRestoration": 0,
   "IsTunerStarsCar": 0,
   "IsEVCar": 0,
-  "Key": "AstonMartin_VantageGTE_2020",
-  "DisableNumberPlate": 1,
-  "ManufacturerID": "id_astonmartin",
+  "Key": "Lamborghini_UrusPHEVRewardRecycled_2024",
+  "DisableNumberPlate": 0,
+  "ManufacturerID": "id_lamborghini",
   "CarEngineSound": 4,
   "DSGGearBox": 0,
-  "ManufacturerName": "Aston Martin",
+  "ManufacturerName": "Lamborghini",
   "DefaultLiveryBundleName": "",
   "DefaultCustomisationBundleNames": [
-    ""
+    "Wheel1A"
   ],
   "EliteOverrideCarAssetID": "",
-  "DriveType": 1,
-  "ModelPrefabString": "AstonMartin_VantageGTE_2020",
-  "BaseCarTier": 4,
-  "BasePerformanceIndex": 603,
-  "FlyWheelPower": 503,
+  "DriveType": 2,
+  "ModelPrefabString": "Lamborghini_UrusPHEVRewardRecycled_2024",
+  "BaseCarTier": 3,
+  "BasePerformanceIndex": 501,
+  "FlyWheelPower": 650,
   "IsAvailableInShowroomAndUpgrade": 1,
-  "Size": 0,
+  "Size": 1,
   "IsOpenTopCar": 0,
   "CarUnlocksInSeason": 0,
   "CarUnlocksWithGacha": "",
@@ -49,16 +49,16 @@
   "TyreConsumableEngineGraphIntercept": -217.032074,
   "TyreConsumableTyreGraphSlope": 3.35967255,
   "TyreConsumableTyreGraphIntercept": -2170.3208,
-  "BaseRedlineRPM": 7000,
-  "OptimalLaunchRPM": 5000,
-  "TransmissionLoss": 3.0,
+  "BaseRedlineRPM": 6800,
+  "OptimalLaunchRPM": 3500,
+  "TransmissionLoss": 37.3,
   "BaseEngineData": {
-    "EngineRevRate": 9500.0,
+    "EngineRevRate": 8000.0,
     "RevLimiterTime": 0.05,
     "Classified": 0,
     "_BaseTorqueCurve": {
       "m_FileID": 0,
-      "m_PathID": -902501758181273521
+      "m_PathID": -600460357173395205
     },
     "_BaseTorqueCurveEV": {
       "m_FileID": 0,
@@ -66,12 +66,12 @@
     }
   },
   "BaseChassisData": {
-    "Mass": 1088.6217,
-    "CosmeticMass": 1532.68872,
-    "DragCoefficient": 0.61,
+    "Mass": 1428.816,
+    "CosmeticMass": 2381.36,
+    "DragCoefficient": 0.52,
     "Width": 1.98,
     "Height": 1.19,
-    "LongitudinalBodyRollScaleFactor": 0.11,
+    "LongitudinalBodyRollScaleFactor": 0.24,
     "LongitudinalBodyRollDamping": 0.94,
     "LongitudinalBodyRollScaleDownWithSpeed": 150.0,
     "MaximumBodyRollAngle": 90.0,
@@ -83,30 +83,34 @@
   "BaseGearBoxData": {
     "GearRatios": [
       4.714,
-      2.96883321,
-      1.705,
-      1.181375,
-      0.821875,
-      0.603333354
+      3.143,
+      2.106,
+      1.667,
+      1.285,
+      1.0,
+      0.839,
+      0.667
     ],
     "DebugChangeGearAtMPH": [
-      47.976696,
-      71.95742,
-      96.5505,
-      124.307579,
-      159.749466,
-      183.174637
+      37.4820061,
+      56.2170525,
+      81.9323654,
+      104.415062,
+      135.4552,
+      169.528748,
+      205.660965,
+      0.0
     ],
-    "FinalGearRatio": 3.25,
+    "FinalGearRatio": 3.54,
     "RPMToShiftAutomatic": 6500.0,
     "ClutchDelay": 0.325,
     "ClutchDelayFirstGear": 0.1
   },
   "BaseTyreData": {
-    "WheelRadius": 0.35814,
+    "WheelRadius": 0.3937,
     "RollingFrictionCoefficient": 0.015,
     "RoadFrictionCoefficient": 1.0,
-    "TireGripMax": 8200.0,
+    "TireGripMax": 9600.0,
     "TireWidth": 0.25,
     "FrontAxleDriven": 0,
     "RearAxleDriven": 1,
@@ -120,7 +124,7 @@
     },
     "_RPMVsExtraWheelSpinCurve": {
       "m_FileID": 0,
-      "m_PathID": -6194015775662859790
+      "m_PathID": 2075771479146015213
     },
     "_RPMVsExtraWheelSpinCurveEV": {
       "m_FileID": 0,
@@ -136,7 +140,7 @@
   },
   "AvailableUpgradeData": [
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_eng0",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_eng0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -174,11 +178,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 4115455541713018298
+        "m_PathID": 1984527194892387784
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_eng1",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_eng1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -186,11 +190,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 0,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -216,348 +220,12 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 5672940308823375928
+        "m_PathID": 1427018305138357145
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_eng2",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_eng2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE03",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 0,
-      "UpgradeLevel": 2,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -6131915247671489938
-      }
-    },
-    {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_eng3",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.0,
-      "UpgradeType": 0,
-      "UpgradeLevel": 3,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -4428244535153489167
-      }
-    },
-    {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_eng4",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -4.0,
-      "UpgradeType": 0,
-      "UpgradeLevel": 4,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -9121432219950282007
-      }
-    },
-    {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_eng5",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.5,
-      "UpgradeType": 0,
-      "UpgradeLevel": 5,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -1502189213064792061
-      }
-    },
-    {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tur0",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.0,
-      "UpgradeType": 1,
-      "UpgradeLevel": 0,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -2111612784528300369
-      }
-    },
-    {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tur1",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
-      "UpgradeType": 1,
-      "UpgradeLevel": 1,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 3878517456262045146
-      }
-    },
-    {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tur2",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.01,
-      "UpgradeType": 1,
-      "UpgradeLevel": 2,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 1520947678060205685
-      }
-    },
-    {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tur3",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
-      "UpgradeType": 1,
-      "UpgradeLevel": 3,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 3271484154105851457
-      }
-    },
-    {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tur4",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
@@ -568,7 +236,343 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -5142910755141480326
+      }
+    },
+    {
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_eng3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -6813698217103692943
+      }
+    },
+    {
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_eng4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.05,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -0.5,
+      "UpgradeType": 0,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -7769523111048539171
+      }
+    },
+    {
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_eng5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.05,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -5195362700318036804
+      }
+    },
+    {
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_tur0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -6283352347016569522
+      }
+    },
+    {
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_tur1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.05,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 443179673524386734
+      }
+    },
+    {
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_tur2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.03,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.2,
+      "UpgradeType": 1,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -6114517552495142559
+      }
+    },
+    {
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_tur3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 6021240477598413269
+      }
+    },
+    {
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_tur4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.05,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 1,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -594,11 +598,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -8203915573730785574
+        "m_PathID": -6357008858590601691
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tur5",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_tur5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -606,11 +610,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.1,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -4.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 1,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -636,11 +640,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 3800163906754650851
+        "m_PathID": -4327190013463962710
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_int0",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_int0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -648,11 +652,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 2,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -678,11 +682,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -7399037851560829809
+        "m_PathID": -428111998165215560
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_int1",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_int1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -690,11 +694,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": 0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.2,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 2,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -720,11 +724,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -8786429705318127911
+        "m_PathID": 9000419155689602824
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_int2",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_int2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -732,11 +736,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 0.2,
       "UpgradeType": 2,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -762,11 +766,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -4166144872672843869
+        "m_PathID": -7781111528586166693
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_int3",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_int3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -774,11 +778,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 2,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -804,11 +808,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -3103128287536341218
+        "m_PathID": 5781373769288293299
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_int4",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_int4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -816,11 +820,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 2,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -846,11 +850,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6869999955371484735
+        "m_PathID": -7348612914309892566
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_int5",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_int5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -858,11 +862,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -3.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 2,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -888,11 +892,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -1561770539702539208
+        "m_PathID": -5042479577965050192
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_nit0",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_nit0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS01",
       "NitrousTime": 2.0,
       "NitrousHPBoost": 25.0,
@@ -900,7 +904,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -934,7 +938,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_nit1",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_nit1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS02",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 25.0,
@@ -942,7 +946,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -976,7 +980,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_nit2",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_nit2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 25.0,
@@ -984,7 +988,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -1018,7 +1022,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_nit3",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_nit3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 25.0,
@@ -1030,7 +1034,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 3,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1060,7 +1064,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_nit4",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_nit4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS05",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 0.0,
@@ -1102,7 +1106,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_nit5",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_nit5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS06",
       "NitrousTime": 4.0,
       "NitrousHPBoost": 25.0,
@@ -1110,11 +1114,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 3,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1144,7 +1148,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_bod0",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_bod0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1152,11 +1156,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
-      "WeightDifference": -18.1436958,
-      "GripDifference": -20.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -13.6077719,
+      "GripDifference": -15.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -1186,7 +1190,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_bod1",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_bod1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1194,9 +1198,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
-      "WeightDifference": -22.6796188,
-      "GripDifference": -25.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -13.6077719,
+      "GripDifference": -15.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1228,7 +1232,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_bod2",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_bod2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1236,11 +1240,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 650.0,
-      "DragCoeffDifference": 0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": -11.3398094,
       "GripDifference": -12.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1270,7 +1274,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_bod3",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_bod3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1279,8 +1283,8 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -31.7514668,
-      "GripDifference": -35.0,
+      "WeightDifference": -13.6077719,
+      "GripDifference": -15.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1312,7 +1316,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_bod4",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_bod4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1320,9 +1324,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
-      "WeightDifference": -45.3592377,
-      "GripDifference": -50.0,
+      "DragCoeffDifference": -0.04,
+      "WeightDifference": -31.7514668,
+      "GripDifference": -35.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1354,7 +1358,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_bod5",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_bod5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1362,7 +1366,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.03,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": -54.4310875,
       "GripDifference": -60.0,
       "GearShiftTimeDifference": 0.0,
@@ -1396,7 +1400,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tir0",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_tir0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1408,7 +1412,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 94.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.3,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -1438,7 +1442,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tir1",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_tir1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1446,11 +1450,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 90.0,
+      "GripDifference": 100.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 5,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1480,7 +1484,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tir2",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_tir2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1490,7 +1494,7 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
-      "GripDifference": 95.0,
+      "GripDifference": 125.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
@@ -1522,7 +1526,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tir3",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_tir3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1530,11 +1534,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 50.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 5,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1564,7 +1568,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tir4",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_tir4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1606,7 +1610,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tir5",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_tir5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1614,7 +1618,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.05,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 246.0,
       "GearShiftTimeDifference": 0.0,
@@ -1648,7 +1652,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tra0",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_tra0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1656,7 +1660,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
@@ -1690,7 +1694,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tra1",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_tra1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1698,8 +1702,8 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.04,
-      "WeightDifference": -20.86525,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -13.6077719,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
@@ -1732,7 +1736,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tra2",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_tra2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1774,7 +1778,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tra3",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_tra3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1782,11 +1786,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 50.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1816,7 +1820,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tra4",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_tra4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1824,8 +1828,8 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
-      "WeightDifference": -29.9370975,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": -39.0089455,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
@@ -1858,7 +1862,7 @@
       }
     },
     {
-      "AssetDatabaseID": "AstonMartin_VantageGTE_2020_tra5",
+      "AssetDatabaseID": "Lamborghini_UrusPHEVRewardRecycled_2024_tra5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1870,7 +1874,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.1,
-      "TransmissionLossPercentage": 2.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
