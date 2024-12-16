@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Plymouth_RidesByKamBarracuda_1970BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 350.0,
+        "value": 144.227051,
+        "inSlope": 0.327902168,
+        "outSlope": 0.008973109,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 950.0,
+        "value": 149.610916,
+        "inSlope": 0.008973109,
+        "outSlope": 0.444440246,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 1250.0,
+        "value": 282.943,
+        "inSlope": 0.444440246,
+        "outSlope": 0.208418712,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2150.0,
+        "value": 470.519836,
+        "inSlope": 0.208418712,
+        "outSlope": 0.06100041,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4200.0,
+        "value": 595.5707,
+        "inSlope": 0.06100041,
+        "outSlope": 0.00226777722,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6100.0,
+        "value": 599.879456,
+        "inSlope": 0.00226777722,
+        "outSlope": -0.00921441,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 7000.0,
+        "value": 591.5865,
+        "inSlope": -0.00921441,
+        "outSlope": -0.07625683,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8350.0,
+        "value": 488.639771,
+        "inSlope": -0.07625683,
+        "outSlope": -0.08866042,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 9000.0,
+        "value": 431.0105,
+        "inSlope": -0.08866042,
+        "outSlope": -0.102187656,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

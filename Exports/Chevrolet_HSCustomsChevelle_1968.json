@@ -8,17 +8,17 @@
     "m_FileID": 0,
     "m_PathID": -5010576824879005575
   },
-  "m_Name": "Chevrolet_SickSecondsCamaroSS_1969",
+  "m_Name": "Chevrolet_HSCustomsChevelle_1968",
   "EcbValue": 0,
   "CarType": 0,
   "NeedsRestoration": 0,
   "IsTunerStarsCar": 0,
   "IsEVCar": 0,
-  "Key": "Chevrolet_SickSecondsCamaroSS_1969",
+  "Key": "Chevrolet_HSCustomsChevelle_1968",
   "DisableNumberPlate": 0,
   "ManufacturerID": "id_chevrolet",
   "CarEngineSound": 3,
-  "DSGGearBox": 1,
+  "DSGGearBox": 0,
   "ManufacturerName": "Chevrolet",
   "DefaultLiveryBundleName": "",
   "DefaultCustomisationBundleNames": [
@@ -26,39 +26,39 @@
   ],
   "EliteOverrideCarAssetID": "",
   "DriveType": 1,
-  "ModelPrefabString": "Chevrolet_SickSecondsCamaroSS_1969",
+  "ModelPrefabString": "Chevrolet_HSCustomsChevelle_1968",
   "BaseCarTier": 4,
   "BasePerformanceIndex": 603,
-  "FlyWheelPower": 3570,
+  "FlyWheelPower": 660,
   "IsAvailableInShowroomAndUpgrade": 1,
-  "Size": 1,
+  "Size": 2,
   "IsOpenTopCar": 0,
   "CarUnlocksInSeason": 0,
   "CarUnlocksWithGacha": "",
-  "MechanicEngineFettleGraphSlope": 0.552317858,
-  "MechanicEngineFettleGraphIntercept": -359.752869,
-  "MechanicTyreGripFettleGraphSlope": 5.523149,
-  "MechanicTyreGripFettleGraphIntercept": -3597.508,
-  "EngineConsumableEngineGraphSlope": 0.6636803,
-  "EngineConsumableEngineGraphIntercept": -427.0942,
-  "EngineConsumableTyreGraphSlope": 6.63686848,
-  "EngineConsumableTyreGraphIntercept": -4270.9873,
-  "NitrousConsumableBodyGraphSlope": -1.70668387,
-  "NitrousConsumableBodyGraphIntercept": 1332.08923,
-  "TyreConsumableEngineGraphSlope": 0.335967243,
-  "TyreConsumableEngineGraphIntercept": -217.032074,
-  "TyreConsumableTyreGraphSlope": 3.35967255,
-  "TyreConsumableTyreGraphIntercept": -2170.3208,
-  "BaseRedlineRPM": 8200,
-  "OptimalLaunchRPM": 7000,
-  "TransmissionLoss": 54.0,
+  "MechanicEngineFettleGraphSlope": 0.03702838,
+  "MechanicEngineFettleGraphIntercept": -5.99676,
+  "MechanicTyreGripFettleGraphSlope": 0.370283067,
+  "MechanicTyreGripFettleGraphIntercept": -59.9673233,
+  "EngineConsumableEngineGraphSlope": 0.06482829,
+  "EngineConsumableEngineGraphIntercept": -12.5709028,
+  "EngineConsumableTyreGraphSlope": 0.6482835,
+  "EngineConsumableTyreGraphIntercept": -125.709244,
+  "NitrousConsumableBodyGraphSlope": -1.21394968,
+  "NitrousConsumableBodyGraphIntercept": 721.388367,
+  "TyreConsumableEngineGraphSlope": 0.02590572,
+  "TyreConsumableEngineGraphIntercept": -3.89880681,
+  "TyreConsumableTyreGraphSlope": 0.259056956,
+  "TyreConsumableTyreGraphIntercept": -38.9879723,
+  "BaseRedlineRPM": 7800,
+  "OptimalLaunchRPM": 4000,
+  "TransmissionLoss": 24.0,
   "BaseEngineData": {
-    "EngineRevRate": 9500.0,
-    "RevLimiterTime": 0.05,
+    "EngineRevRate": 7000.0,
+    "RevLimiterTime": 0.17,
     "Classified": 0,
     "_BaseTorqueCurve": {
       "m_FileID": 0,
-      "m_PathID": -6634182136006938948
+      "m_PathID": 1143927531952548873
     },
     "_BaseTorqueCurveEV": {
       "m_FileID": 0,
@@ -66,12 +66,12 @@
     }
   },
   "BaseChassisData": {
-    "Mass": 1270.05872,
-    "CosmeticMass": 1614.789,
-    "DragCoefficient": 0.94,
-    "Width": 1.98,
-    "Height": 1.19,
-    "LongitudinalBodyRollScaleFactor": 0.24,
+    "Mass": 1179.34021,
+    "CosmeticMass": 1496.85486,
+    "DragCoefficient": 0.7,
+    "Width": 1.91,
+    "Height": 1.37,
+    "LongitudinalBodyRollScaleFactor": 0.34,
     "LongitudinalBodyRollDamping": 0.94,
     "LongitudinalBodyRollScaleDownWithSpeed": 150.0,
     "MaximumBodyRollAngle": 90.0,
@@ -82,31 +82,37 @@
   },
   "BaseGearBoxData": {
     "GearRatios": [
-      2.1,
-      1.58,
-      1.0
+      2.66,
+      1.78,
+      1.3,
+      1.0,
+      0.8,
+      0.63
     ],
     "DebugChangeGearAtMPH": [
-      92.39235,
-      123.775421,
-      152.18396
+      55.867363,
+      81.0746155,
+      109.90873,
+      140.0184,
+      176.812347,
+      0.0
     ],
-    "FinalGearRatio": 3.46,
+    "FinalGearRatio": 3.73,
     "RPMToShiftAutomatic": 6500.0,
-    "ClutchDelay": 0.325,
+    "ClutchDelay": 0.4,
     "ClutchDelayFirstGear": 0.1
   },
   "BaseTyreData": {
-    "WheelRadius": 0.353059977,
-    "RollingFrictionCoefficient": 0.015,
-    "RoadFrictionCoefficient": 1.2,
-    "TireGripMax": 8500.0,
+    "WheelRadius": 0.33782,
+    "RollingFrictionCoefficient": 0.04,
+    "RoadFrictionCoefficient": 1.0,
+    "TireGripMax": 9200.0,
     "TireWidth": 0.25,
     "FrontAxleDriven": 0,
     "RearAxleDriven": 1,
     "_WheelSpinGripCurve": {
       "m_FileID": 0,
-      "m_PathID": -6376015925286108337
+      "m_PathID": -3914739865554002719
     },
     "_WheelSpinGripCurveEV": {
       "m_FileID": 0,
@@ -114,7 +120,7 @@
     },
     "_RPMVsExtraWheelSpinCurve": {
       "m_FileID": 0,
-      "m_PathID": -7605854982689205176
+      "m_PathID": -1063711932768081342
     },
     "_RPMVsExtraWheelSpinCurveEV": {
       "m_FileID": 0,
@@ -130,7 +136,7 @@
   },
   "AvailableUpgradeData": [
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng0",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_eng0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -138,11 +144,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
+      "DragCoeffDifference": 0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 0,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -168,348 +174,12 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 7177569901356690313
+        "m_PathID": -8042216072318534607
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng1",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_eng1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE02",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.8,
-      "UpgradeType": 0,
-      "UpgradeLevel": 1,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -5143517159838127906
-      }
-    },
-    {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng2",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE03",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.2,
-      "UpgradeType": 0,
-      "UpgradeLevel": 2,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -5665177297339040042
-      }
-    },
-    {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng3",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
-      "UpgradeType": 0,
-      "UpgradeLevel": 3,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -8678162143862650066
-      }
-    },
-    {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng4",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.05,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.2,
-      "UpgradeType": 0,
-      "UpgradeLevel": 4,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 3428968030416470580
-      }
-    },
-    {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng5",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.2,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -12.0,
-      "UpgradeType": 0,
-      "UpgradeLevel": 5,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 2754813370049162569
-      }
-    },
-    {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur0",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
-      "UpgradeType": 1,
-      "UpgradeLevel": 0,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -602028661042295565
-      }
-    },
-    {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur1",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.8,
-      "UpgradeType": 1,
-      "UpgradeLevel": 1,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": -6866323236451086346
-      }
-    },
-    {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur2",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
-      "NitrousTime": 0.0,
-      "NitrousHPBoost": 0.0,
-      "IsNitrousContinuous": 0,
-      "ExtraRPMAvailable": 0,
-      "AssignedFromDataTorqueCurveMultiplier": 0.0,
-      "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": 0.0,
-      "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
-      "UpgradeType": 1,
-      "UpgradeLevel": 2,
-      "ShowEVUpgrade": 0,
-      "GearRatiosEV": [
-        3.82,
-        2.2,
-        1.52,
-        1.22,
-        1.02,
-        0.84
-      ],
-      "DebugChangeGearAtMPHEV": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "FinalGearRatioEV": 3.44,
-      "ClutchDelayEV": 0.2,
-      "ClutchDelayFirstGearEV": 0.1,
-      "OptimalLaunchRPMDiffEV": 0,
-      "AssignedFromDataTorqueCurve": {
-        "m_FileID": 0,
-        "m_PathID": 6087985791690794412
-      }
-    },
-    {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur3",
-      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
@@ -521,6 +191,342 @@
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -2.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -2626998909984364011
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_eng2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -3445298412606067830
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_eng3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.03,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 3,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": 8091750382602816721
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_eng4",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.05,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 4,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -3603369173545722046
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_eng5",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.04,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.0,
+      "UpgradeType": 0,
+      "UpgradeLevel": 5,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -8903156288529742763
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_tur0",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_NOTURBO01",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.0,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 0,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -3801953706884652889
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_tur1",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.02,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -1.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 1,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -3085262893562333030
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_tur2",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": 0.01,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": 0.0,
+      "UpgradeType": 1,
+      "UpgradeLevel": 2,
+      "ShowEVUpgrade": 0,
+      "GearRatiosEV": [
+        3.82,
+        2.2,
+        1.52,
+        1.22,
+        1.02,
+        0.84
+      ],
+      "DebugChangeGearAtMPHEV": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "FinalGearRatioEV": 3.44,
+      "ClutchDelayEV": 0.2,
+      "ClutchDelayFirstGearEV": 0.1,
+      "OptimalLaunchRPMDiffEV": 0,
+      "AssignedFromDataTorqueCurve": {
+        "m_FileID": 0,
+        "m_PathID": -6713258707069298899
+      }
+    },
+    {
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_tur3",
+      "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
+      "NitrousTime": 0.0,
+      "NitrousHPBoost": 0.0,
+      "IsNitrousContinuous": 0,
+      "ExtraRPMAvailable": 0,
+      "AssignedFromDataTorqueCurveMultiplier": 0.0,
+      "EngineRevRateDifference": 0.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": 0.0,
+      "GripDifference": 0.0,
+      "GearShiftTimeDifference": 0.0,
+      "TransmissionLossPercentage": -3.0,
       "UpgradeType": 1,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -546,11 +552,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 6787240957143301194
+        "m_PathID": -7986835908775671576
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur4",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_tur4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -562,7 +568,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.3,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 1,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -588,11 +594,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6805718564161376871
+        "m_PathID": -7847506925643459645
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur5",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_tur5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -600,11 +606,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.2,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -8.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 1,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -630,11 +636,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -8174812452169802887
+        "m_PathID": -3323912816021722429
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int0",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_int0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -672,11 +678,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6426689293751786884
+        "m_PathID": 3115947591662660668
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int1",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_int1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -688,7 +694,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.6,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 2,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -714,11 +720,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 4420876062311576183
+        "m_PathID": -7413378791861358665
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int2",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_int2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -730,7 +736,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 2,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -756,11 +762,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 8738317212015834461
+        "m_PathID": 3944212048122232521
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int3",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_int3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -768,11 +774,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 2,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -798,11 +804,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -3349375413956826695
+        "m_PathID": 7941426677055079430
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int4",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_int4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -840,11 +846,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 2400548978074517407
+        "m_PathID": -6634590650014019815
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int5",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_int5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -852,11 +858,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.06,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -6.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 2,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -882,11 +888,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -1155825251090111228
+        "m_PathID": 4686511240311804765
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit0",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_nit0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS01",
       "NitrousTime": 2.0,
       "NitrousHPBoost": 25.0,
@@ -894,11 +900,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 3,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -928,7 +934,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit1",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_nit1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS02",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 25.0,
@@ -940,7 +946,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.3,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 3,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -970,19 +976,19 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit2",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_nit2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS03",
       "NitrousTime": 0.0,
-      "NitrousHPBoost": 35.0,
+      "NitrousHPBoost": 25.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.2,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 3,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1012,19 +1018,19 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit3",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_nit3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS04",
       "NitrousTime": 0.0,
-      "NitrousHPBoost": 45.0,
+      "NitrousHPBoost": 25.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.05,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 3,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1054,19 +1060,19 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit4",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_nit4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS05",
       "NitrousTime": 1.0,
-      "NitrousHPBoost": 30.0,
+      "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 3,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1096,19 +1102,19 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit5",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_nit5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS06",
       "NitrousTime": 4.0,
-      "NitrousHPBoost": 65.0,
+      "NitrousHPBoost": 25.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -8.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 3,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1138,7 +1144,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod0",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_bod0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1180,7 +1186,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod1",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_bod1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1189,10 +1195,10 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -13.6077719,
-      "GripDifference": -15.0,
+      "WeightDifference": -22.6796188,
+      "GripDifference": -25.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.3,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 4,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1222,7 +1228,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod2",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_bod2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1264,7 +1270,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod3",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_bod3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1272,11 +1278,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -27.2155437,
-      "GripDifference": -30.0,
+      "DragCoeffDifference": -0.03,
+      "WeightDifference": -18.1436958,
+      "GripDifference": -20.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1306,7 +1312,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod4",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_bod4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1318,7 +1324,7 @@
       "WeightDifference": -27.2155437,
       "GripDifference": -30.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.7,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1348,7 +1354,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod5",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_bod5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1357,8 +1363,8 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -113.398094,
-      "GripDifference": -125.0,
+      "WeightDifference": -54.4310875,
+      "GripDifference": -60.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1390,7 +1396,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir0",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_tir0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1398,11 +1404,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 94.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -1432,7 +1438,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir1",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_tir1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1442,9 +1448,9 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 125.0,
+      "GripDifference": 100.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 5,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1474,7 +1480,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir2",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_tir2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1486,7 +1492,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 125.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1516,7 +1522,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir3",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_tir3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1524,7 +1530,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 50.0,
       "GearShiftTimeDifference": 0.0,
@@ -1558,7 +1564,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir4",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_tir4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1568,9 +1574,9 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 115.0,
+      "GripDifference": 125.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.4,
+      "TransmissionLossPercentage": -3.5,
       "UpgradeType": 5,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1600,7 +1606,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir5",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_tir5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1610,9 +1616,9 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 246.0,
+      "GripDifference": 216.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -8.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1642,7 +1648,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra0",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_tra0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1650,7 +1656,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
@@ -1684,7 +1690,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra1",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_tra1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1693,10 +1699,10 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -27.2155437,
+      "WeightDifference": -18.1436958,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.4,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 6,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1726,7 +1732,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra2",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_tra2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1734,11 +1740,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
+      "DragCoeffDifference": 0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1768,7 +1774,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra3",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_tra3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1776,11 +1782,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
-      "GripDifference": 50.0,
+      "GripDifference": 80.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.1,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 6,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1810,7 +1816,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra4",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_tra4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1822,7 +1828,7 @@
       "WeightDifference": -20.86525,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.4,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 6,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1852,7 +1858,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra5",
+      "AssetDatabaseID": "Chevrolet_HSCustomsChevelle_1968_tra5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1860,11 +1866,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.1,
-      "TransmissionLossPercentage": -8.0,
+      "TransmissionLossPercentage": 3.0,
       "UpgradeType": 6,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1922,147 +1928,147 @@
   ],
   "PredefinedUpgradeSets": [
     {
-      "PPIndex": 667,
+      "PPIndex": 314,
       "UpgradeData": "0000000000000000"
     },
     {
-      "PPIndex": 669,
+      "PPIndex": 318,
       "UpgradeData": "0000010000000000"
     },
     {
-      "PPIndex": 673,
+      "PPIndex": 323,
       "UpgradeData": "0000010000000100"
     },
     {
-      "PPIndex": 674,
+      "PPIndex": 326,
       "UpgradeData": "0000010000010100"
     },
     {
-      "PPIndex": 674,
+      "PPIndex": 330,
       "UpgradeData": "0100010000010100"
     },
     {
-      "PPIndex": 679,
+      "PPIndex": 337,
       "UpgradeData": "0100010100010100"
     },
     {
-      "PPIndex": 679,
+      "PPIndex": 338,
       "UpgradeData": "0101010100010100"
     },
     {
-      "PPIndex": 681,
+      "PPIndex": 340,
       "UpgradeData": "0101010100010101"
     },
     {
-      "PPIndex": 683,
+      "PPIndex": 344,
       "UpgradeData": "0101020100010101"
     },
     {
-      "PPIndex": 685,
+      "PPIndex": 348,
       "UpgradeData": "0101020100010201"
     },
     {
-      "PPIndex": 686,
+      "PPIndex": 351,
       "UpgradeData": "0101020100020201"
     },
     {
-      "PPIndex": 687,
+      "PPIndex": 352,
       "UpgradeData": "0201020100020201"
     },
     {
-      "PPIndex": 689,
+      "PPIndex": 355,
       "UpgradeData": "0201020200020201"
     },
     {
-      "PPIndex": 689,
+      "PPIndex": 357,
       "UpgradeData": "0202020200020201"
     },
     {
-      "PPIndex": 690,
+      "PPIndex": 358,
       "UpgradeData": "0202020200020202"
     },
     {
-      "PPIndex": 692,
+      "PPIndex": 361,
       "UpgradeData": "0202030200020202"
     },
     {
-      "PPIndex": 694,
+      "PPIndex": 365,
       "UpgradeData": "0202030200020302"
     },
     {
-      "PPIndex": 695,
+      "PPIndex": 369,
       "UpgradeData": "0202030200030302"
     },
     {
-      "PPIndex": 696,
+      "PPIndex": 374,
       "UpgradeData": "0302030200030302"
     },
     {
-      "PPIndex": 699,
+      "PPIndex": 377,
       "UpgradeData": "0302030300030302"
     },
     {
-      "PPIndex": 699,
+      "PPIndex": 378,
       "UpgradeData": "0303030300030302"
     },
     {
-      "PPIndex": 703,
+      "PPIndex": 384,
       "UpgradeData": "0303030300030303"
     },
     {
-      "PPIndex": 704,
+      "PPIndex": 391,
       "UpgradeData": "0303040300030303"
     },
     {
-      "PPIndex": 704,
+      "PPIndex": 395,
       "UpgradeData": "0303040300030403"
     },
     {
-      "PPIndex": 708,
+      "PPIndex": 401,
       "UpgradeData": "0303040300040403"
     },
     {
-      "PPIndex": 708,
+      "PPIndex": 404,
       "UpgradeData": "0403040300040403"
     },
     {
-      "PPIndex": 710,
+      "PPIndex": 407,
       "UpgradeData": "0403040400040403"
     },
     {
-      "PPIndex": 710,
+      "PPIndex": 408,
       "UpgradeData": "0404040400040403"
     },
     {
-      "PPIndex": 712,
+      "PPIndex": 410,
       "UpgradeData": "0404040400040404"
     },
     {
-      "PPIndex": 713,
+      "PPIndex": 416,
       "UpgradeData": "0404050400040404"
     },
     {
-      "PPIndex": 713,
+      "PPIndex": 421,
       "UpgradeData": "0404050400040504"
     },
     {
-      "PPIndex": 717,
+      "PPIndex": 432,
       "UpgradeData": "0404050400050504"
     },
     {
-      "PPIndex": 717,
+      "PPIndex": 435,
       "UpgradeData": "0504050400050504"
     },
     {
-      "PPIndex": 721,
+      "PPIndex": 443,
       "UpgradeData": "0504050500050504"
     },
     {
-      "PPIndex": 721,
+      "PPIndex": 444,
       "UpgradeData": "0505050500050504"
     },
     {
-      "PPIndex": 725,
+      "PPIndex": 449,
       "UpgradeData": "0505050500050505"
     }
   ]

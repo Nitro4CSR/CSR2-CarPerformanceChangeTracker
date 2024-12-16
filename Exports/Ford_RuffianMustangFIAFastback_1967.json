@@ -8,57 +8,57 @@
     "m_FileID": 0,
     "m_PathID": -5010576824879005575
   },
-  "m_Name": "Chevrolet_SickSecondsCamaroSS_1969",
+  "m_Name": "Ford_RuffianMustangFIAFastback_1967",
   "EcbValue": 0,
   "CarType": 0,
   "NeedsRestoration": 0,
   "IsTunerStarsCar": 0,
   "IsEVCar": 0,
-  "Key": "Chevrolet_SickSecondsCamaroSS_1969",
+  "Key": "Ford_RuffianMustangFIAFastback_1967",
   "DisableNumberPlate": 0,
-  "ManufacturerID": "id_chevrolet",
-  "CarEngineSound": 3,
-  "DSGGearBox": 1,
-  "ManufacturerName": "Chevrolet",
+  "ManufacturerID": "id_ford",
+  "CarEngineSound": 4,
+  "DSGGearBox": 0,
+  "ManufacturerName": "Ford",
   "DefaultLiveryBundleName": "",
   "DefaultCustomisationBundleNames": [
     ""
   ],
   "EliteOverrideCarAssetID": "",
   "DriveType": 1,
-  "ModelPrefabString": "Chevrolet_SickSecondsCamaroSS_1969",
+  "ModelPrefabString": "Ford_RuffianMustangFIAFastback_1967",
   "BaseCarTier": 4,
   "BasePerformanceIndex": 603,
-  "FlyWheelPower": 3570,
+  "FlyWheelPower": 625,
   "IsAvailableInShowroomAndUpgrade": 1,
-  "Size": 1,
+  "Size": 0,
   "IsOpenTopCar": 0,
   "CarUnlocksInSeason": 0,
   "CarUnlocksWithGacha": "",
-  "MechanicEngineFettleGraphSlope": 0.552317858,
-  "MechanicEngineFettleGraphIntercept": -359.752869,
-  "MechanicTyreGripFettleGraphSlope": 5.523149,
-  "MechanicTyreGripFettleGraphIntercept": -3597.508,
-  "EngineConsumableEngineGraphSlope": 0.6636803,
-  "EngineConsumableEngineGraphIntercept": -427.0942,
-  "EngineConsumableTyreGraphSlope": 6.63686848,
-  "EngineConsumableTyreGraphIntercept": -4270.9873,
-  "NitrousConsumableBodyGraphSlope": -1.70668387,
-  "NitrousConsumableBodyGraphIntercept": 1332.08923,
-  "TyreConsumableEngineGraphSlope": 0.335967243,
-  "TyreConsumableEngineGraphIntercept": -217.032074,
-  "TyreConsumableTyreGraphSlope": 3.35967255,
-  "TyreConsumableTyreGraphIntercept": -2170.3208,
-  "BaseRedlineRPM": 8200,
-  "OptimalLaunchRPM": 7000,
-  "TransmissionLoss": 54.0,
+  "MechanicEngineFettleGraphSlope": 0.03240951,
+  "MechanicEngineFettleGraphIntercept": -4.75888538,
+  "MechanicTyreGripFettleGraphSlope": 0.324094325,
+  "MechanicTyreGripFettleGraphIntercept": -47.5885544,
+  "EngineConsumableEngineGraphSlope": 0.0440581441,
+  "EngineConsumableEngineGraphIntercept": -6.501398,
+  "EngineConsumableTyreGraphSlope": 0.440582663,
+  "EngineConsumableTyreGraphIntercept": -65.01444,
+  "NitrousConsumableBodyGraphSlope": -0.690925241,
+  "NitrousConsumableBodyGraphIntercept": 498.667267,
+  "TyreConsumableEngineGraphSlope": 0.023160791,
+  "TyreConsumableEngineGraphIntercept": -3.58591962,
+  "TyreConsumableTyreGraphSlope": 0.23160851,
+  "TyreConsumableTyreGraphIntercept": -35.85942,
+  "BaseRedlineRPM": 8000,
+  "OptimalLaunchRPM": 6000,
+  "TransmissionLoss": 31.0,
   "BaseEngineData": {
-    "EngineRevRate": 9500.0,
+    "EngineRevRate": 7500.0,
     "RevLimiterTime": 0.05,
     "Classified": 0,
     "_BaseTorqueCurve": {
       "m_FileID": 0,
-      "m_PathID": -6634182136006938948
+      "m_PathID": 7562494441249398830
     },
     "_BaseTorqueCurveEV": {
       "m_FileID": 0,
@@ -66,12 +66,12 @@
     }
   },
   "BaseChassisData": {
-    "Mass": 1270.05872,
-    "CosmeticMass": 1614.789,
-    "DragCoefficient": 0.94,
-    "Width": 1.98,
-    "Height": 1.19,
-    "LongitudinalBodyRollScaleFactor": 0.24,
+    "Mass": 884.5052,
+    "CosmeticMass": 1315.418,
+    "DragCoefficient": 0.67,
+    "Width": 1.877,
+    "Height": 1.39,
+    "LongitudinalBodyRollScaleFactor": 0.12,
     "LongitudinalBodyRollDamping": 0.94,
     "LongitudinalBodyRollScaleDownWithSpeed": 150.0,
     "MaximumBodyRollAngle": 90.0,
@@ -82,25 +82,31 @@
   },
   "BaseGearBoxData": {
     "GearRatios": [
-      2.1,
-      1.58,
-      1.0
+      2.66,
+      1.78,
+      1.3,
+      1.0,
+      0.74,
+      0.5
     ],
     "DebugChangeGearAtMPH": [
-      92.39235,
-      123.775421,
-      152.18396
+      56.471447,
+      83.7399,
+      111.3382,
+      147.6179,
+      202.991959,
+      0.0
     ],
-    "FinalGearRatio": 3.46,
+    "FinalGearRatio": 4.11,
     "RPMToShiftAutomatic": 6500.0,
-    "ClutchDelay": 0.325,
+    "ClutchDelay": 0.4,
     "ClutchDelayFirstGear": 0.1
   },
   "BaseTyreData": {
-    "WheelRadius": 0.353059977,
-    "RollingFrictionCoefficient": 0.015,
-    "RoadFrictionCoefficient": 1.2,
-    "TireGripMax": 8500.0,
+    "WheelRadius": 0.3302,
+    "RollingFrictionCoefficient": 0.035,
+    "RoadFrictionCoefficient": 1.0,
+    "TireGripMax": 6900.0,
     "TireWidth": 0.25,
     "FrontAxleDriven": 0,
     "RearAxleDriven": 1,
@@ -114,7 +120,7 @@
     },
     "_RPMVsExtraWheelSpinCurve": {
       "m_FileID": 0,
-      "m_PathID": -7605854982689205176
+      "m_PathID": 4274966523075514528
     },
     "_RPMVsExtraWheelSpinCurveEV": {
       "m_FileID": 0,
@@ -130,7 +136,7 @@
   },
   "AvailableUpgradeData": [
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng0",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_eng0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -138,11 +144,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 0,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -168,11 +174,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 7177569901356690313
+        "m_PathID": 3356196498531588672
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng1",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_eng1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -180,11 +186,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.8,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 0,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -210,11 +216,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -5143517159838127906
+        "m_PathID": -3932611683239924606
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng2",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_eng2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -226,7 +232,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.2,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 0,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -252,11 +258,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -5665177297339040042
+        "m_PathID": -4309196229020777268
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng3",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_eng3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -264,11 +270,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 0,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -294,11 +300,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -8678162143862650066
+        "m_PathID": -4569362618796131012
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng4",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_eng4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -306,11 +312,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.05,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.2,
+      "TransmissionLossPercentage": -4.0,
       "UpgradeType": 0,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -336,11 +342,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 3428968030416470580
+        "m_PathID": 575788151569553170
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng5",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_eng5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -348,11 +354,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.2,
+      "DragCoeffDifference": -0.05,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -12.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 0,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -378,11 +384,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 2754813370049162569
+        "m_PathID": 5932732725352331320
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur0",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_tur0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -390,11 +396,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 1,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -420,11 +426,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -602028661042295565
+        "m_PathID": -28371131770038278
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur1",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_tur1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -432,11 +438,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.8,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 1,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -462,11 +468,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6866323236451086346
+        "m_PathID": -3461719216992768841
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur2",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_tur2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -474,11 +480,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 1,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -504,11 +510,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 6087985791690794412
+        "m_PathID": 750572593475389209
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur3",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_tur3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -516,7 +522,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -546,11 +552,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 6787240957143301194
+        "m_PathID": 3564419537440718849
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur4",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_tur4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -558,11 +564,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.05,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.3,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 1,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -588,11 +594,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6805718564161376871
+        "m_PathID": -9103121978868976620
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur5",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_tur5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -600,11 +606,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.2,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -8.0,
+      "TransmissionLossPercentage": -3.0,
       "UpgradeType": 1,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -630,11 +636,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -8174812452169802887
+        "m_PathID": 5336328226881069769
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int0",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_int0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -642,11 +648,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 2,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -672,11 +678,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6426689293751786884
+        "m_PathID": -7399037851560829809
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int1",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_int1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -688,7 +694,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.6,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 2,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -714,11 +720,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 4420876062311576183
+        "m_PathID": -8786429705318127911
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int2",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_int2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -730,7 +736,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 2,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -756,11 +762,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 8738317212015834461
+        "m_PathID": -4166144872672843869
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int3",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_int3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -798,11 +804,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -3349375413956826695
+        "m_PathID": -3103128287536341218
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int4",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_int4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -810,11 +816,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 2,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -840,11 +846,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 2400548978074517407
+        "m_PathID": -6869999955371484735
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int5",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_int5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -852,11 +858,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -6.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 2,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -882,11 +888,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -1155825251090111228
+        "m_PathID": -1561770539702539208
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit0",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_nit0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS01",
       "NitrousTime": 2.0,
       "NitrousHPBoost": 25.0,
@@ -894,11 +900,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 3,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -928,7 +934,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit1",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_nit1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS02",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 25.0,
@@ -936,11 +942,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.3,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 3,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -970,19 +976,19 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit2",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_nit2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS03",
       "NitrousTime": 0.0,
-      "NitrousHPBoost": 35.0,
+      "NitrousHPBoost": 25.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.2,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 3,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1012,10 +1018,10 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit3",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_nit3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS04",
       "NitrousTime": 0.0,
-      "NitrousHPBoost": 45.0,
+      "NitrousHPBoost": 25.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
@@ -1024,7 +1030,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 3,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1054,15 +1060,15 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit4",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_nit4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS05",
       "NitrousTime": 1.0,
-      "NitrousHPBoost": 30.0,
+      "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -1096,10 +1102,10 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit5",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_nit5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS06",
       "NitrousTime": 4.0,
-      "NitrousHPBoost": 65.0,
+      "NitrousHPBoost": 25.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
@@ -1108,7 +1114,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -8.0,
+      "TransmissionLossPercentage": 0.5,
       "UpgradeType": 3,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1138,7 +1144,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod0",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_bod0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1146,7 +1152,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": -13.6077719,
       "GripDifference": -15.0,
       "GearShiftTimeDifference": 0.0,
@@ -1180,7 +1186,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod1",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_bod1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1188,11 +1194,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -13.6077719,
-      "GripDifference": -15.0,
+      "DragCoeffDifference": 0.01,
+      "WeightDifference": -27.2155437,
+      "GripDifference": -30.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.3,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1222,7 +1228,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod2",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_bod2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1234,7 +1240,7 @@
       "WeightDifference": -11.3398094,
       "GripDifference": -12.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 0.5,
       "UpgradeType": 4,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1264,7 +1270,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod3",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_bod3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1272,11 +1278,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -27.2155437,
-      "GripDifference": -30.0,
+      "DragCoeffDifference": 0.01,
+      "WeightDifference": -36.28739,
+      "GripDifference": -40.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1306,7 +1312,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod4",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_bod4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1315,10 +1321,10 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -27.2155437,
-      "GripDifference": -30.0,
+      "WeightDifference": -40.8233147,
+      "GripDifference": -40.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.7,
+      "TransmissionLossPercentage": 2.5,
       "UpgradeType": 4,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1348,7 +1354,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod5",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_bod5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1356,11 +1362,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -113.398094,
-      "GripDifference": -125.0,
+      "DragCoeffDifference": 0.06,
+      "WeightDifference": -68.03886,
+      "GripDifference": -75.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 3.0,
       "UpgradeType": 4,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1390,7 +1396,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir0",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_tir0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1398,11 +1404,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 94.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 5,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -1432,7 +1438,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir1",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_tir1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1442,9 +1448,9 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 125.0,
+      "GripDifference": 115.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 5,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1474,7 +1480,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir2",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_tir2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1484,9 +1490,9 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 125.0,
+      "GripDifference": 85.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": 0.5,
       "UpgradeType": 5,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1516,7 +1522,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir3",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_tir3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1524,11 +1530,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
-      "GripDifference": 50.0,
+      "GripDifference": 115.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 5,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1558,7 +1564,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir4",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_tir4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1566,11 +1572,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.005,
       "WeightDifference": 0.0,
-      "GripDifference": 115.0,
+      "GripDifference": 125.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.4,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 5,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1600,7 +1606,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir5",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_tir5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1612,7 +1618,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 246.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -8.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1642,7 +1648,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra0",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_tra0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1654,7 +1660,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 0.5,
       "UpgradeType": 6,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -1684,7 +1690,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra1",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_tra1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1693,10 +1699,10 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -27.2155437,
+      "WeightDifference": -18.1436958,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.4,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 6,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1726,7 +1732,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra2",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_tra2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1738,7 +1744,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": 1.0,
       "UpgradeType": 6,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1768,7 +1774,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra3",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_tra3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1776,11 +1782,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
-      "GripDifference": 50.0,
+      "GripDifference": 80.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.1,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 6,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1810,7 +1816,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra4",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_tra4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1819,10 +1825,10 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -20.86525,
+      "WeightDifference": -29.9370975,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.4,
+      "TransmissionLossPercentage": 1.0,
       "UpgradeType": 6,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1852,7 +1858,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra5",
+      "AssetDatabaseID": "Ford_RuffianMustangFIAFastback_1967_tra5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1860,11 +1866,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.1,
-      "TransmissionLossPercentage": -8.0,
+      "TransmissionLossPercentage": 2.0,
       "UpgradeType": 6,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1922,147 +1928,147 @@
   ],
   "PredefinedUpgradeSets": [
     {
-      "PPIndex": 667,
+      "PPIndex": 303,
       "UpgradeData": "0000000000000000"
     },
     {
-      "PPIndex": 669,
+      "PPIndex": 309,
       "UpgradeData": "0000010000000000"
     },
     {
-      "PPIndex": 673,
+      "PPIndex": 314,
       "UpgradeData": "0000010000000100"
     },
     {
-      "PPIndex": 674,
+      "PPIndex": 317,
       "UpgradeData": "0000010000010100"
     },
     {
-      "PPIndex": 674,
+      "PPIndex": 321,
       "UpgradeData": "0100010000010100"
     },
     {
-      "PPIndex": 679,
+      "PPIndex": 330,
       "UpgradeData": "0100010100010100"
     },
     {
-      "PPIndex": 679,
+      "PPIndex": 331,
       "UpgradeData": "0101010100010100"
     },
     {
-      "PPIndex": 681,
+      "PPIndex": 334,
       "UpgradeData": "0101010100010101"
     },
     {
-      "PPIndex": 683,
+      "PPIndex": 337,
       "UpgradeData": "0101020100010101"
     },
     {
-      "PPIndex": 685,
+      "PPIndex": 341,
       "UpgradeData": "0101020100010201"
     },
     {
-      "PPIndex": 686,
+      "PPIndex": 349,
       "UpgradeData": "0101020100020201"
     },
     {
-      "PPIndex": 687,
+      "PPIndex": 350,
       "UpgradeData": "0201020100020201"
     },
     {
-      "PPIndex": 689,
+      "PPIndex": 355,
       "UpgradeData": "0201020200020201"
     },
     {
-      "PPIndex": 689,
+      "PPIndex": 353,
       "UpgradeData": "0202020200020201"
     },
     {
-      "PPIndex": 690,
+      "PPIndex": 353,
       "UpgradeData": "0202020200020202"
     },
     {
-      "PPIndex": 692,
+      "PPIndex": 356,
       "UpgradeData": "0202030200020202"
     },
     {
-      "PPIndex": 694,
+      "PPIndex": 361,
       "UpgradeData": "0202030200020302"
     },
     {
-      "PPIndex": 695,
+      "PPIndex": 365,
       "UpgradeData": "0202030200030302"
     },
     {
-      "PPIndex": 696,
+      "PPIndex": 370,
       "UpgradeData": "0302030200030302"
     },
     {
-      "PPIndex": 699,
+      "PPIndex": 373,
       "UpgradeData": "0302030300030302"
     },
     {
-      "PPIndex": 699,
+      "PPIndex": 374,
       "UpgradeData": "0303030300030302"
     },
     {
-      "PPIndex": 703,
+      "PPIndex": 381,
       "UpgradeData": "0303030300030303"
     },
     {
-      "PPIndex": 704,
+      "PPIndex": 400,
       "UpgradeData": "0303040300030303"
     },
     {
-      "PPIndex": 704,
+      "PPIndex": 404,
       "UpgradeData": "0303040300030403"
     },
     {
-      "PPIndex": 708,
+      "PPIndex": 409,
       "UpgradeData": "0303040300040403"
     },
     {
-      "PPIndex": 708,
+      "PPIndex": 413,
       "UpgradeData": "0403040300040403"
     },
     {
-      "PPIndex": 710,
+      "PPIndex": 415,
       "UpgradeData": "0403040400040403"
     },
     {
-      "PPIndex": 710,
+      "PPIndex": 417,
       "UpgradeData": "0404040400040403"
     },
     {
-      "PPIndex": 712,
+      "PPIndex": 419,
       "UpgradeData": "0404040400040404"
     },
     {
-      "PPIndex": 713,
+      "PPIndex": 424,
       "UpgradeData": "0404050400040404"
     },
     {
-      "PPIndex": 713,
+      "PPIndex": 429,
       "UpgradeData": "0404050400040504"
     },
     {
-      "PPIndex": 717,
+      "PPIndex": 435,
       "UpgradeData": "0404050400050504"
     },
     {
-      "PPIndex": 717,
+      "PPIndex": 439,
       "UpgradeData": "0504050400050504"
     },
     {
-      "PPIndex": 721,
+      "PPIndex": 441,
       "UpgradeData": "0504050500050504"
     },
     {
-      "PPIndex": 721,
+      "PPIndex": 443,
       "UpgradeData": "0505050500050504"
     },
     {
-      "PPIndex": 725,
+      "PPIndex": 451,
       "UpgradeData": "0505050500050505"
     }
   ]

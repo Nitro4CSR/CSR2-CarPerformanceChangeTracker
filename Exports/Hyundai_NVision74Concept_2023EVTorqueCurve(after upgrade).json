@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Hyundai_NVision74Concept_2023EVTorqueCurve(after upgrade)",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1900.0,
+        "value": 138.950989,
+        "inSlope": -1.85139979E-05,
+        "outSlope": 0.1326936,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2650.0,
+        "value": 238.471191,
+        "inSlope": 0.1326936,
+        "outSlope": 0.09847157,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3450.0,
+        "value": 317.248444,
+        "inSlope": 0.09847157,
+        "outSlope": 0.06386655,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4600.0,
+        "value": 390.694977,
+        "inSlope": 0.06386655,
+        "outSlope": 0.01544018,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 8000.0,
+        "value": 443.1916,
+        "inSlope": 0.01544018,
+        "outSlope": -0.0459593646,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 10000.0,
+        "value": 351.272858,
+        "inSlope": -0.0459593646,
+        "outSlope": -0.0328416564,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 11750.0,
+        "value": 293.799957,
+        "inSlope": -0.0328416564,
+        "outSlope": -0.0257606171,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 13300.0,
+        "value": 253.871,
+        "inSlope": -0.0257606171,
+        "outSlope": -0.0188541915,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 15000.0,
+        "value": 221.818878,
+        "inSlope": -0.0188541915,
+        "outSlope": -0.0117592979,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

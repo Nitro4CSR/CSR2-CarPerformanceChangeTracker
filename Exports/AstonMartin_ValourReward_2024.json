@@ -8,30 +8,30 @@
     "m_FileID": 0,
     "m_PathID": -5010576824879005575
   },
-  "m_Name": "Chevrolet_SickSecondsCamaroSS_1969",
+  "m_Name": "AstonMartin_ValourReward_2024",
   "EcbValue": 0,
   "CarType": 0,
   "NeedsRestoration": 0,
   "IsTunerStarsCar": 0,
   "IsEVCar": 0,
-  "Key": "Chevrolet_SickSecondsCamaroSS_1969",
+  "Key": "AstonMartin_ValourReward_2024",
   "DisableNumberPlate": 0,
-  "ManufacturerID": "id_chevrolet",
-  "CarEngineSound": 3,
-  "DSGGearBox": 1,
-  "ManufacturerName": "Chevrolet",
+  "ManufacturerID": "id_astonmartin",
+  "CarEngineSound": 6,
+  "DSGGearBox": 0,
+  "ManufacturerName": "Aston Martin",
   "DefaultLiveryBundleName": "",
   "DefaultCustomisationBundleNames": [
     ""
   ],
   "EliteOverrideCarAssetID": "",
   "DriveType": 1,
-  "ModelPrefabString": "Chevrolet_SickSecondsCamaroSS_1969",
+  "ModelPrefabString": "AstonMartin_ValourReward_2024",
   "BaseCarTier": 4,
   "BasePerformanceIndex": 603,
-  "FlyWheelPower": 3570,
+  "FlyWheelPower": 715,
   "IsAvailableInShowroomAndUpgrade": 1,
-  "Size": 1,
+  "Size": 0,
   "IsOpenTopCar": 0,
   "CarUnlocksInSeason": 0,
   "CarUnlocksWithGacha": "",
@@ -49,16 +49,16 @@
   "TyreConsumableEngineGraphIntercept": -217.032074,
   "TyreConsumableTyreGraphSlope": 3.35967255,
   "TyreConsumableTyreGraphIntercept": -2170.3208,
-  "BaseRedlineRPM": 8200,
-  "OptimalLaunchRPM": 7000,
-  "TransmissionLoss": 54.0,
+  "BaseRedlineRPM": 8000,
+  "OptimalLaunchRPM": 6800,
+  "TransmissionLoss": 15.0,
   "BaseEngineData": {
     "EngineRevRate": 9500.0,
     "RevLimiterTime": 0.05,
     "Classified": 0,
     "_BaseTorqueCurve": {
       "m_FileID": 0,
-      "m_PathID": -6634182136006938948
+      "m_PathID": -7668748636305314998
     },
     "_BaseTorqueCurveEV": {
       "m_FileID": 0,
@@ -66,12 +66,12 @@
     }
   },
   "BaseChassisData": {
-    "Mass": 1270.05872,
-    "CosmeticMass": 1614.789,
-    "DragCoefficient": 0.94,
+    "Mass": 1409.31152,
+    "CosmeticMass": 1609.79944,
+    "DragCoefficient": 0.54,
     "Width": 1.98,
     "Height": 1.19,
-    "LongitudinalBodyRollScaleFactor": 0.24,
+    "LongitudinalBodyRollScaleFactor": 0.11,
     "LongitudinalBodyRollDamping": 0.94,
     "LongitudinalBodyRollScaleDownWithSpeed": 150.0,
     "MaximumBodyRollAngle": 90.0,
@@ -82,31 +82,37 @@
   },
   "BaseGearBoxData": {
     "GearRatios": [
-      2.1,
-      1.58,
-      1.0
+      3.15,
+      1.94,
+      1.44,
+      1.15,
+      0.94,
+      0.76
     ],
     "DebugChangeGearAtMPH": [
-      92.39235,
-      123.775421,
-      152.18396
+      59.7932053,
+      97.08691,
+      130.797638,
+      162.653183,
+      198.990616,
+      211.823242
     ],
-    "FinalGearRatio": 3.46,
+    "FinalGearRatio": 3.53,
     "RPMToShiftAutomatic": 6500.0,
     "ClutchDelay": 0.325,
     "ClutchDelayFirstGear": 0.1
   },
   "BaseTyreData": {
-    "WheelRadius": 0.353059977,
+    "WheelRadius": 0.3556,
     "RollingFrictionCoefficient": 0.015,
-    "RoadFrictionCoefficient": 1.2,
-    "TireGripMax": 8500.0,
+    "RoadFrictionCoefficient": 1.0,
+    "TireGripMax": 9500.0,
     "TireWidth": 0.25,
     "FrontAxleDriven": 0,
     "RearAxleDriven": 1,
     "_WheelSpinGripCurve": {
       "m_FileID": 0,
-      "m_PathID": -6376015925286108337
+      "m_PathID": -3914739865554002719
     },
     "_WheelSpinGripCurveEV": {
       "m_FileID": 0,
@@ -114,7 +120,7 @@
     },
     "_RPMVsExtraWheelSpinCurve": {
       "m_FileID": 0,
-      "m_PathID": -7605854982689205176
+      "m_PathID": -6194015775662859790
     },
     "_RPMVsExtraWheelSpinCurveEV": {
       "m_FileID": 0,
@@ -130,7 +136,7 @@
   },
   "AvailableUpgradeData": [
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng0",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_eng0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -138,11 +144,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.01,
+      "DragCoeffDifference": 0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 0,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -168,11 +174,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 7177569901356690313
+        "m_PathID": 4115455541713018298
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng1",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_eng1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -180,11 +186,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.8,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 0,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -210,11 +216,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -5143517159838127906
+        "m_PathID": 5672940308823375928
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng2",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_eng2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -222,11 +228,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.015,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.2,
+      "TransmissionLossPercentage": 0.1,
       "UpgradeType": 0,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -252,11 +258,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -5665177297339040042
+        "m_PathID": -6131915247671489938
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng3",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_eng3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -264,11 +270,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 0,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -294,11 +300,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -8678162143862650066
+        "m_PathID": -4428244535153489167
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng4",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_eng4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -306,11 +312,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.05,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.2,
+      "TransmissionLossPercentage": -4.0,
       "UpgradeType": 0,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -336,11 +342,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 3428968030416470580
+        "m_PathID": -9121432219950282007
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng5",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_eng5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -348,11 +354,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.2,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -12.0,
+      "TransmissionLossPercentage": -3.5,
       "UpgradeType": 0,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -378,11 +384,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 2754813370049162569
+        "m_PathID": -1502189213064792061
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur0",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_tur0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -390,11 +396,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 1,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -420,11 +426,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -602028661042295565
+        "m_PathID": -2111612784528300369
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur1",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_tur1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -436,7 +442,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.8,
+      "TransmissionLossPercentage": -1.5,
       "UpgradeType": 1,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -462,11 +468,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6866323236451086346
+        "m_PathID": 3878517456262045146
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur2",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_tur2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -474,11 +480,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.015,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": 0.01,
       "UpgradeType": 1,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -504,11 +510,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 6087985791690794412
+        "m_PathID": 1520947678060205685
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur3",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_tur3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -516,11 +522,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 1,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -546,11 +552,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 6787240957143301194
+        "m_PathID": 3271484154105851457
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur4",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_tur4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -558,11 +564,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.05,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.3,
+      "TransmissionLossPercentage": -3.0,
       "UpgradeType": 1,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -588,11 +594,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6805718564161376871
+        "m_PathID": -8203915573730785574
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur5",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_tur5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -600,11 +606,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.2,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -8.0,
+      "TransmissionLossPercentage": -4.0,
       "UpgradeType": 1,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -630,11 +636,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -8174812452169802887
+        "m_PathID": 3800163906754650851
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int0",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_int0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -642,7 +648,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -672,11 +678,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6426689293751786884
+        "m_PathID": -7399037851560829809
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int1",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_int1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -688,7 +694,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.6,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 2,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -714,11 +720,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 4420876062311576183
+        "m_PathID": -8786429705318127911
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int2",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_int2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -730,7 +736,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 2,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -756,11 +762,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 8738317212015834461
+        "m_PathID": -4166144872672843869
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int3",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_int3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -798,11 +804,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -3349375413956826695
+        "m_PathID": -3103128287536341218
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int4",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_int4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -810,11 +816,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 2,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -840,11 +846,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 2400548978074517407
+        "m_PathID": -6869999955371484735
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int5",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_int5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -852,11 +858,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -6.0,
+      "TransmissionLossPercentage": -3.0,
       "UpgradeType": 2,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -882,11 +888,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -1155825251090111228
+        "m_PathID": -1561770539702539208
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit0",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_nit0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS01",
       "NitrousTime": 2.0,
       "NitrousHPBoost": 25.0,
@@ -928,7 +934,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit1",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_nit1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS02",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 25.0,
@@ -940,7 +946,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.3,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 3,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -970,19 +976,19 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit2",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_nit2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS03",
       "NitrousTime": 0.0,
-      "NitrousHPBoost": 35.0,
+      "NitrousHPBoost": 25.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.005,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.2,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 3,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1012,15 +1018,15 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit3",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_nit3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS04",
       "NitrousTime": 0.0,
-      "NitrousHPBoost": 45.0,
+      "NitrousHPBoost": 25.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.04,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -1054,10 +1060,10 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit4",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_nit4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS05",
       "NitrousTime": 1.0,
-      "NitrousHPBoost": 30.0,
+      "NitrousHPBoost": 0.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
@@ -1066,7 +1072,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -0.8,
       "UpgradeType": 3,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1096,10 +1102,10 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit5",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_nit5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS06",
       "NitrousTime": 4.0,
-      "NitrousHPBoost": 65.0,
+      "NitrousHPBoost": 25.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
@@ -1108,7 +1114,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -8.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 3,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1138,7 +1144,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod0",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_bod0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1146,9 +1152,9 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
-      "WeightDifference": -13.6077719,
-      "GripDifference": -15.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": -18.1436958,
+      "GripDifference": -20.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1180,7 +1186,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod1",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_bod1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1189,10 +1195,10 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -13.6077719,
-      "GripDifference": -15.0,
+      "WeightDifference": -22.6796188,
+      "GripDifference": -25.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.3,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 4,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1222,7 +1228,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod2",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_bod2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1230,11 +1236,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 650.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": -11.3398094,
       "GripDifference": -12.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 4,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1264,7 +1270,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod3",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_bod3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1272,11 +1278,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
-      "WeightDifference": -27.2155437,
-      "GripDifference": -30.0,
+      "DragCoeffDifference": -0.01,
+      "WeightDifference": -31.7514668,
+      "GripDifference": -35.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1306,7 +1312,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod4",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_bod4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1315,10 +1321,10 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -27.2155437,
-      "GripDifference": -30.0,
+      "WeightDifference": -45.3592377,
+      "GripDifference": -50.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.7,
+      "TransmissionLossPercentage": 1.0,
       "UpgradeType": 4,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1348,7 +1354,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod5",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_bod5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1357,10 +1363,10 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -113.398094,
-      "GripDifference": -125.0,
+      "WeightDifference": -54.4310875,
+      "GripDifference": -60.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.0,
+      "TransmissionLossPercentage": 1.0,
       "UpgradeType": 4,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1390,7 +1396,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir0",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_tir0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1398,11 +1404,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 94.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -1432,7 +1438,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir1",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_tir1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1442,9 +1448,9 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 125.0,
+      "GripDifference": 90.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 5,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1474,7 +1480,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir2",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_tir2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1482,11 +1488,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.005,
       "WeightDifference": 0.0,
-      "GripDifference": 125.0,
+      "GripDifference": 95.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1516,7 +1522,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir3",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_tir3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1524,11 +1530,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 50.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -3.0,
       "UpgradeType": 5,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1558,7 +1564,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir4",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_tir4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1570,7 +1576,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 115.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.4,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 5,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1600,7 +1606,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir5",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_tir5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1608,11 +1614,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 246.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -8.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 5,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1642,7 +1648,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra0",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_tra0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1684,7 +1690,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra1",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_tra1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1692,11 +1698,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": -27.2155437,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.4,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1726,7 +1732,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra2",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_tra2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1734,11 +1740,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
+      "DragCoeffDifference": 0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1768,7 +1774,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra3",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_tra3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1776,11 +1782,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.06,
       "WeightDifference": 0.0,
       "GripDifference": 50.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.1,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 6,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1810,7 +1816,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra4",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_tra4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1819,10 +1825,10 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -20.86525,
+      "WeightDifference": -29.9370975,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.4,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1852,7 +1858,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra5",
+      "AssetDatabaseID": "AstonMartin_ValourReward_2024_tra5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1860,11 +1866,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.05,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.1,
-      "TransmissionLossPercentage": -8.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,

@@ -8,31 +8,31 @@
     "m_FileID": 0,
     "m_PathID": -5010576824879005575
   },
-  "m_Name": "Chevrolet_SickSecondsCamaroSS_1969",
+  "m_Name": "McLaren_ElvaWindscreenReward_2021",
   "EcbValue": 0,
   "CarType": 0,
   "NeedsRestoration": 0,
   "IsTunerStarsCar": 0,
   "IsEVCar": 0,
-  "Key": "Chevrolet_SickSecondsCamaroSS_1969",
+  "Key": "McLaren_ElvaWindscreenReward_2021",
   "DisableNumberPlate": 0,
-  "ManufacturerID": "id_chevrolet",
-  "CarEngineSound": 3,
-  "DSGGearBox": 1,
-  "ManufacturerName": "Chevrolet",
+  "ManufacturerID": "id_mclaren",
+  "CarEngineSound": 4,
+  "DSGGearBox": 0,
+  "ManufacturerName": "McLaren",
   "DefaultLiveryBundleName": "",
   "DefaultCustomisationBundleNames": [
     ""
   ],
   "EliteOverrideCarAssetID": "",
   "DriveType": 1,
-  "ModelPrefabString": "Chevrolet_SickSecondsCamaroSS_1969",
+  "ModelPrefabString": "McLaren_ElvaWindscreenReward_2021",
   "BaseCarTier": 4,
-  "BasePerformanceIndex": 603,
-  "FlyWheelPower": 3570,
+  "BasePerformanceIndex": 604,
+  "FlyWheelPower": 804,
   "IsAvailableInShowroomAndUpgrade": 1,
-  "Size": 1,
-  "IsOpenTopCar": 0,
+  "Size": 0,
+  "IsOpenTopCar": 1,
   "CarUnlocksInSeason": 0,
   "CarUnlocksWithGacha": "",
   "MechanicEngineFettleGraphSlope": 0.552317858,
@@ -49,16 +49,16 @@
   "TyreConsumableEngineGraphIntercept": -217.032074,
   "TyreConsumableTyreGraphSlope": 3.35967255,
   "TyreConsumableTyreGraphIntercept": -2170.3208,
-  "BaseRedlineRPM": 8200,
-  "OptimalLaunchRPM": 7000,
-  "TransmissionLoss": 54.0,
+  "BaseRedlineRPM": 8500,
+  "OptimalLaunchRPM": 4500,
+  "TransmissionLoss": 44.5,
   "BaseEngineData": {
     "EngineRevRate": 9500.0,
     "RevLimiterTime": 0.05,
     "Classified": 0,
     "_BaseTorqueCurve": {
       "m_FileID": 0,
-      "m_PathID": -6634182136006938948
+      "m_PathID": -3855299862899422884
     },
     "_BaseTorqueCurveEV": {
       "m_FileID": 0,
@@ -66,9 +66,9 @@
     }
   },
   "BaseChassisData": {
-    "Mass": 1270.05872,
-    "CosmeticMass": 1614.789,
-    "DragCoefficient": 0.94,
+    "Mass": 997.903259,
+    "CosmeticMass": 1148.04236,
+    "DragCoefficient": 0.5,
     "Width": 1.98,
     "Height": 1.19,
     "LongitudinalBodyRollScaleFactor": 0.24,
@@ -82,24 +82,32 @@
   },
   "BaseGearBoxData": {
     "GearRatios": [
-      2.1,
-      1.58,
-      1.0
+      3.981,
+      2.613,
+      1.905,
+      1.479,
+      1.161,
+      0.906,
+      0.686
     ],
     "DebugChangeGearAtMPH": [
-      92.39235,
-      123.775421,
-      152.18396
+      55.9734459,
+      85.27757,
+      116.144073,
+      149.597336,
+      190.5723,
+      245.949539,
+      0.0
     ],
-    "FinalGearRatio": 3.46,
+    "FinalGearRatio": 3.08,
     "RPMToShiftAutomatic": 6500.0,
     "ClutchDelay": 0.325,
     "ClutchDelayFirstGear": 0.1
   },
   "BaseTyreData": {
-    "WheelRadius": 0.353059977,
+    "WheelRadius": 0.34544,
     "RollingFrictionCoefficient": 0.015,
-    "RoadFrictionCoefficient": 1.2,
+    "RoadFrictionCoefficient": 1.0,
     "TireGripMax": 8500.0,
     "TireWidth": 0.25,
     "FrontAxleDriven": 0,
@@ -114,7 +122,7 @@
     },
     "_RPMVsExtraWheelSpinCurve": {
       "m_FileID": 0,
-      "m_PathID": -7605854982689205176
+      "m_PathID": 6936046298529129073
     },
     "_RPMVsExtraWheelSpinCurveEV": {
       "m_FileID": 0,
@@ -130,7 +138,7 @@
   },
   "AvailableUpgradeData": [
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng0",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_eng0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -142,7 +150,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 0,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -168,11 +176,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 7177569901356690313
+        "m_PathID": -7268060075123452707
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng1",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_eng1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -180,11 +188,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.01,
+      "DragCoeffDifference": -0.05,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.8,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 0,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -210,11 +218,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -5143517159838127906
+        "m_PathID": -5947322646582384034
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng2",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_eng2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -222,11 +230,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.2,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 0,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -252,11 +260,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -5665177297339040042
+        "m_PathID": -4664193773837017483
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng3",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_eng3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -264,11 +272,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.05,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 0,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -294,11 +302,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -8678162143862650066
+        "m_PathID": 3870305528406048050
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng4",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_eng4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -306,11 +314,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.05,
+      "DragCoeffDifference": -0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.2,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 0,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -336,11 +344,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 3428968030416470580
+        "m_PathID": -432189677223043146
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_eng5",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_eng5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_ENGINE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -348,11 +356,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.2,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -12.0,
+      "TransmissionLossPercentage": -4.0,
       "UpgradeType": 0,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -378,11 +386,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 2754813370049162569
+        "m_PathID": 1813868165024021411
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur0",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_tur0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -394,7 +402,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 1,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -420,11 +428,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -602028661042295565
+        "m_PathID": 2227218985371794775
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur1",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_tur1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -432,11 +440,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.8,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 1,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -462,11 +470,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6866323236451086346
+        "m_PathID": -5424610416392053254
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur2",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_tur2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -474,11 +482,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": 0.02,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 1,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -504,11 +512,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 6087985791690794412
+        "m_PathID": -342826220862406079
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur3",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_tur3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -516,11 +524,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.05,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.0,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 1,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -546,11 +554,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 6787240957143301194
+        "m_PathID": 5515732564780253256
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur4",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_tur4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -558,11 +566,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.05,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.3,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 1,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -588,11 +596,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6805718564161376871
+        "m_PathID": 6043046401653834941
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tur5",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_tur5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TURBO06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -600,11 +608,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.2,
+      "DragCoeffDifference": -0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -8.0,
+      "TransmissionLossPercentage": -4.0,
       "UpgradeType": 1,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -630,11 +638,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -8174812452169802887
+        "m_PathID": -64974184378819167
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int0",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_int0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -642,7 +650,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -672,11 +680,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -6426689293751786884
+        "m_PathID": -7364975831599177164
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int1",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_int1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -688,7 +696,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.6,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 2,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -714,11 +722,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 4420876062311576183
+        "m_PathID": -8715374135662516546
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int2",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_int2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -730,7 +738,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 2,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -756,11 +764,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 8738317212015834461
+        "m_PathID": -1735764928026802108
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int3",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_int3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -768,7 +776,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -798,11 +806,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -3349375413956826695
+        "m_PathID": 1968899254890551180
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int4",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_int4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -810,7 +818,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -840,11 +848,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": 2400548978074517407
+        "m_PathID": -2781118244783546022
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_int5",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_int5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_INTAKE06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -852,11 +860,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -6.0,
+      "GearShiftTimeDifference": -0.001,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 2,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -882,11 +890,11 @@
       "OptimalLaunchRPMDiffEV": 0,
       "AssignedFromDataTorqueCurve": {
         "m_FileID": 0,
-        "m_PathID": -1155825251090111228
+        "m_PathID": -7273753410234177705
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit0",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_nit0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS01",
       "NitrousTime": 2.0,
       "NitrousHPBoost": 25.0,
@@ -894,7 +902,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -928,7 +936,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit1",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_nit1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS02",
       "NitrousTime": 1.0,
       "NitrousHPBoost": 25.0,
@@ -940,7 +948,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.3,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 3,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -970,19 +978,19 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit2",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_nit2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS03",
       "NitrousTime": 0.0,
-      "NitrousHPBoost": 35.0,
+      "NitrousHPBoost": 25.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": 0.2,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 3,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1012,19 +1020,19 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit3",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_nit3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS04",
       "NitrousTime": 0.0,
-      "NitrousHPBoost": 45.0,
+      "NitrousHPBoost": 25.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.0,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 3,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1054,15 +1062,15 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit4",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_nit4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS05",
       "NitrousTime": 1.0,
-      "NitrousHPBoost": 30.0,
+      "NitrousHPBoost": 20.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.03,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
@@ -1096,10 +1104,10 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_nit5",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_nit5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_NITROUS06",
       "NitrousTime": 4.0,
-      "NitrousHPBoost": 65.0,
+      "NitrousHPBoost": 25.0,
       "IsNitrousContinuous": 0,
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
@@ -1108,7 +1116,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -8.0,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 3,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1138,7 +1146,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod0",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_bod0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1146,7 +1154,7 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": -0.02,
+      "DragCoeffDifference": 0.0,
       "WeightDifference": -13.6077719,
       "GripDifference": -15.0,
       "GearShiftTimeDifference": 0.0,
@@ -1180,7 +1188,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod1",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_bod1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1192,7 +1200,7 @@
       "WeightDifference": -13.6077719,
       "GripDifference": -15.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.3,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1222,7 +1230,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod2",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_bod2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1264,7 +1272,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod3",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_bod3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1273,8 +1281,8 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -27.2155437,
-      "GripDifference": -30.0,
+      "WeightDifference": -9.071848,
+      "GripDifference": -10.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -1.0,
       "UpgradeType": 4,
@@ -1306,7 +1314,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod4",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_bod4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1318,7 +1326,7 @@
       "WeightDifference": -27.2155437,
       "GripDifference": -30.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.7,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1348,7 +1356,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_bod5",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_bod5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_BODY06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1357,8 +1365,8 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -113.398094,
-      "GripDifference": -125.0,
+      "WeightDifference": -18.1436958,
+      "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
       "UpgradeType": 4,
@@ -1390,7 +1398,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir0",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_tir0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1402,7 +1410,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 94.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
       "UpgradeLevel": 0,
       "ShowEVUpgrade": 0,
@@ -1432,7 +1440,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir1",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_tir1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1442,9 +1450,9 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 125.0,
+      "GripDifference": 100.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.5,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 5,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1474,7 +1482,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir2",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_tir2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1484,9 +1492,9 @@
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
-      "GripDifference": 125.0,
+      "GripDifference": 75.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": -0.5,
       "UpgradeType": 5,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1516,7 +1524,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir3",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_tir3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1558,7 +1566,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir4",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_tir4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1570,7 +1578,7 @@
       "WeightDifference": 0.0,
       "GripDifference": 115.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.4,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 5,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1600,7 +1608,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tir5",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_tir5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TYRES06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1611,8 +1619,8 @@
       "DragCoeffDifference": 0.0,
       "WeightDifference": 0.0,
       "GripDifference": 246.0,
-      "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -8.0,
+      "GearShiftTimeDifference": -0.001,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 5,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
@@ -1642,7 +1650,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra0",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_tra0",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS01",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1684,7 +1692,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra1",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_tra1",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS02",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1693,10 +1701,10 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -27.2155437,
+      "WeightDifference": -13.6077719,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -0.4,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 1,
       "ShowEVUpgrade": 0,
@@ -1726,7 +1734,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra2",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_tra2",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS03",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1734,11 +1742,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.02,
+      "DragCoeffDifference": 0.03,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": -0.05,
-      "TransmissionLossPercentage": -0.1,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 2,
       "ShowEVUpgrade": 0,
@@ -1768,7 +1776,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra3",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_tra3",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS04",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1776,11 +1784,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 50.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -2.1,
+      "TransmissionLossPercentage": -2.0,
       "UpgradeType": 6,
       "UpgradeLevel": 3,
       "ShowEVUpgrade": 0,
@@ -1810,7 +1818,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra4",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_tra4",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS05",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1822,7 +1830,7 @@
       "WeightDifference": -20.86525,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
-      "TransmissionLossPercentage": -1.4,
+      "TransmissionLossPercentage": 0.0,
       "UpgradeType": 6,
       "UpgradeLevel": 4,
       "ShowEVUpgrade": 0,
@@ -1852,7 +1860,7 @@
       }
     },
     {
-      "AssetDatabaseID": "Chevrolet_SickSecondsCamaroSS_1969_tra5",
+      "AssetDatabaseID": "McLaren_ElvaWindscreenReward_2021_tra5",
       "UpgradeLocalisationTextID": "TEXT_UPGRADE_TRANS06",
       "NitrousTime": 0.0,
       "NitrousHPBoost": 0.0,
@@ -1860,11 +1868,11 @@
       "ExtraRPMAvailable": 0,
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
-      "DragCoeffDifference": 0.0,
+      "DragCoeffDifference": -0.01,
       "WeightDifference": 0.0,
       "GripDifference": 0.0,
-      "GearShiftTimeDifference": -0.1,
-      "TransmissionLossPercentage": -8.0,
+      "GearShiftTimeDifference": -0.04,
+      "TransmissionLossPercentage": -1.0,
       "UpgradeType": 6,
       "UpgradeLevel": 5,
       "ShowEVUpgrade": 0,
