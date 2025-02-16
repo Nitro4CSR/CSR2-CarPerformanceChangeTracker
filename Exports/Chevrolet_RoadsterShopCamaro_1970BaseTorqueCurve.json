@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Chevrolet_RoadsterShopCamaro_1970BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1100.0,
+        "value": 130.424164,
+        "inSlope": 0.282348782,
+        "outSlope": 0.292571664,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1700.0,
+        "value": 305.967163,
+        "inSlope": 0.292571664,
+        "outSlope": 0.1926528,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2250.0,
+        "value": 411.9262,
+        "inSlope": 0.1926528,
+        "outSlope": 0.15669556,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2800.0,
+        "value": 498.108765,
+        "inSlope": 0.15669556,
+        "outSlope": 0.147961184,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3300.0,
+        "value": 572.089355,
+        "inSlope": 0.147961184,
+        "outSlope": 0.142800778,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3800.0,
+        "value": 643.489746,
+        "inSlope": 0.142800778,
+        "outSlope": 0.1345759,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4400.0,
+        "value": 724.2353,
+        "inSlope": 0.1345759,
+        "outSlope": 0.119420066,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5000.0,
+        "value": 795.8873,
+        "inSlope": 0.119420066,
+        "outSlope": -0.157474056,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6000.0,
+        "value": 638.413269,
+        "inSlope": -0.157474056,
+        "outSlope": -0.195045948,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6700.0,
+        "value": 501.8811,
+        "inSlope": -0.195045948,
+        "outSlope": -0.195045948,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

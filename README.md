@@ -1,5 +1,5 @@
 # CSR2-CarPerformanceChangeTracker
-A Repo that tries to keep track of the nerfs and buffs of CSR2.
+A Repo that tries to keep track of the nerfs and buffs of cars in CSR2.
 
 ## Updates
 ### Update 5.4.0 OTA1

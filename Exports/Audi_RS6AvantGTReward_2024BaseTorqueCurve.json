@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Audi_RS6AvantGTReward_2024BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 154.942337,
+        "inSlope": 0.00282887765,
+        "outSlope": 0.424898952,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1400.0,
+        "value": 324.901917,
+        "inSlope": 0.424898952,
+        "outSlope": 0.209815159,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2050.0,
+        "value": 461.281769,
+        "inSlope": 0.209815159,
+        "outSlope": 0.0996829346,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3100.0,
+        "value": 565.948853,
+        "inSlope": 0.0996829346,
+        "outSlope": 0.053098008,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4900.0,
+        "value": 661.525269,
+        "inSlope": 0.053098008,
+        "outSlope": 0.0252482463,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6000.0,
+        "value": 689.29834,
+        "inSlope": 0.0252482463,
+        "outSlope": -0.103769064,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 6650.0,
+        "value": 621.84845,
+        "inSlope": -0.103769064,
+        "outSlope": -0.253783762,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 6800.0,
+        "value": 583.7809,
+        "inSlope": -0.253783762,
+        "outSlope": -0.09516327,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

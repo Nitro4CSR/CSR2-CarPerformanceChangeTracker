@@ -31,7 +31,7 @@
   "BasePerformanceIndex": 603,
   "FlyWheelPower": 1250,
   "IsAvailableInShowroomAndUpgrade": 1,
-  "Size": 1,
+  "Size": 0,
   "IsOpenTopCar": 0,
   "CarUnlocksInSeason": 0,
   "CarUnlocksWithGacha": "",
@@ -91,12 +91,12 @@
       0.56875
     ],
     "DebugChangeGearAtMPH": [
-      57.736454,
-      80.23578,
-      110.366249,
-      144.33136,
-      194.089386,
-      266.326782,
+      55.5980759,
+      71.61794,
+      99.42825,
+      134.217133,
+      187.742432,
+      262.552917,
       0.0
     ],
     "FinalGearRatio": 3.79,

@@ -1,0 +1,118 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Dodge_RingbrothersChargerTUSK_1969BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 600.0,
+        "value": 160.609161,
+        "inSlope": 0.478860468,
+        "outSlope": 0.478860468,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 800.0,
+        "value": 256.381256,
+        "inSlope": 0.478860468,
+        "outSlope": 0.270765573,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1100.0,
+        "value": 337.610931,
+        "inSlope": 0.270765573,
+        "outSlope": 0.2377654,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1400.0,
+        "value": 408.940552,
+        "inSlope": 0.2377654,
+        "outSlope": 0.156256586,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1900.0,
+        "value": 487.068848,
+        "inSlope": 0.156256586,
+        "outSlope": 0.132446572,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 2550.0,
+        "value": 573.1591,
+        "inSlope": 0.132446572,
+        "outSlope": 0.110706404,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 3350.0,
+        "value": 661.724243,
+        "inSlope": 0.110706404,
+        "outSlope": 0.107372575,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4000.0,
+        "value": 731.5164,
+        "inSlope": 0.107372575,
+        "outSlope": 0.106694438,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 4600.0,
+        "value": 795.5331,
+        "inSlope": 0.106694438,
+        "outSlope": -0.1806792,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5100.0,
+        "value": 705.1935,
+        "inSlope": -0.1806792,
+        "outSlope": -0.264402062,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 5400.0,
+        "value": 625.872864,
+        "inSlope": -0.264402062,
+        "outSlope": -0.264402062,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}
