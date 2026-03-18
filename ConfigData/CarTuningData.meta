@@ -49967,48 +49967,6 @@
                 "id": null
             },
             {
-                "CarDBKey": "Ford_MustangSVTCobraRLPClassic_1993",
-                "CarTier": 5,
-                "TuningSubType": 1,
-                "WeightPercentage": 10,
-                "id": null
-            },
-            {
-                "CarDBKey": "Ford_MustangSVTCobraRLPClassic_1993",
-                "CarTier": 5,
-                "TuningSubType": 2,
-                "WeightPercentage": 10,
-                "id": null
-            },
-            {
-                "CarDBKey": "Ford_MustangSVTCobraRLPClassic_1993",
-                "CarTier": 5,
-                "TuningSubType": 3,
-                "WeightPercentage": 221,
-                "id": null
-            },
-            {
-                "CarDBKey": "Ford_MustangSVTCobraRLPClassic_1993",
-                "CarTier": 5,
-                "TuningSubType": 4,
-                "WeightPercentage": 120,
-                "id": null
-            },
-            {
-                "CarDBKey": "Ford_MustangSVTCobraRLPClassic_1993",
-                "CarTier": 5,
-                "TuningSubType": 5,
-                "WeightPercentage": 24,
-                "id": null
-            },
-            {
-                "CarDBKey": "Ford_MustangSVTCobraRLPClassic_1993",
-                "CarTier": 5,
-                "TuningSubType": 6,
-                "WeightPercentage": 40,
-                "id": null
-            },
-            {
                 "CarDBKey": "Porsche_911Turbo930LPClassic_1977",
                 "CarTier": 5,
                 "TuningSubType": 1,
@@ -50048,6 +50006,48 @@
                 "CarTier": 5,
                 "TuningSubType": 6,
                 "WeightPercentage": 40,
+                "id": null
+            },
+            {
+                "CarDBKey": "Ford_MustangSVTCobraRLPClassic_1993",
+                "CarTier": 5,
+                "TuningSubType": 1,
+                "WeightPercentage": 18,
+                "id": null
+            },
+            {
+                "CarDBKey": "Ford_MustangSVTCobraRLPClassic_1993",
+                "CarTier": 5,
+                "TuningSubType": 2,
+                "WeightPercentage": 10,
+                "id": null
+            },
+            {
+                "CarDBKey": "Ford_MustangSVTCobraRLPClassic_1993",
+                "CarTier": 5,
+                "TuningSubType": 3,
+                "WeightPercentage": 195,
+                "id": null
+            },
+            {
+                "CarDBKey": "Ford_MustangSVTCobraRLPClassic_1993",
+                "CarTier": 5,
+                "TuningSubType": 4,
+                "WeightPercentage": 123,
+                "id": null
+            },
+            {
+                "CarDBKey": "Ford_MustangSVTCobraRLPClassic_1993",
+                "CarTier": 5,
+                "TuningSubType": 5,
+                "WeightPercentage": 17,
+                "id": null
+            },
+            {
+                "CarDBKey": "Ford_MustangSVTCobraRLPClassic_1993",
+                "CarTier": 5,
+                "TuningSubType": 6,
+                "WeightPercentage": 22,
                 "id": null
             }
         ]
