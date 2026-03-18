@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Pagani_HuayraCodalungaSpeedster_2025BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 131.70367,
+        "inSlope": 0.003041382,
+        "outSlope": 0.003041382,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1850.0,
+        "value": 134.28885,
+        "inSlope": 0.003041382,
+        "outSlope": 3.2170494,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2000.0,
+        "value": 616.84625,
+        "inSlope": 3.2170494,
+        "outSlope": 0.2739144,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2150.0,
+        "value": 657.9334,
+        "inSlope": 0.2739144,
+        "outSlope": 0.09279384,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2500.0,
+        "value": 690.41125,
+        "inSlope": 0.09279384,
+        "outSlope": 0.056774516,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3600.0,
+        "value": 752.8632,
+        "inSlope": 0.056774516,
+        "outSlope": 0.020651579,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4700.0,
+        "value": 775.57996,
+        "inSlope": 0.020651579,
+        "outSlope": -0.06526536,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 8250.0,
+        "value": 543.88794,
+        "inSlope": -0.06526536,
+        "outSlope": -0.11251689,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 9000.0,
+        "value": 459.50027,
+        "inSlope": -0.11251689,
+        "outSlope": -0.11251689,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.0
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

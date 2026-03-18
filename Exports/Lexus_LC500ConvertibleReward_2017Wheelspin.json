@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Lexus_LC500ConvertibleReward_2017Wheelspin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.99612147,
+        "inSlope": -4.472142E-07,
+        "outSlope": 5.5509272E-08,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4079.2832,
+        "value": 0.9963479,
+        "inSlope": 5.5509272E-08,
+        "outSlope": -0.001723349,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4539.781,
+        "value": 0.20274991,
+        "inSlope": -0.001723349,
+        "outSlope": -0.0012583712,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4700.585,
+        "value": 0.00039854646,
+        "inSlope": -0.0012583712,
+        "outSlope": -6.555909E-07,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5308.5044,
+        "value": 0.0,
+        "inSlope": -6.555909E-07,
+        "outSlope": 0.0014446279,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5448.034,
+        "value": 0.20156862,
+        "inSlope": 0.0014446279,
+        "outSlope": 0.0018463167,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5879.941,
+        "value": 0.99900526,
+        "inSlope": 0.0018463167,
+        "outSlope": 1.0747435E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7218.1377,
+        "value": 1.0133874,
+        "inSlope": 1.0747435E-05,
+        "outSlope": 1.5204894E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 8421.137,
+        "value": 1.0316789,
+        "inSlope": 1.5204894E-05,
+        "outSlope": 7.288157E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

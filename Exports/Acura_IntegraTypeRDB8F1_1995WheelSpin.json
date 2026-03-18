@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Acura_IntegraTypeRDB8F1_1995WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1077.0803,
+        "value": 0.8999782,
+        "inSlope": 1.8813207E-05,
+        "outSlope": -2.5675404E-06,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5675.817,
+        "value": 0.8881708,
+        "inSlope": -2.5675404E-06,
+        "outSlope": -0.0005605708,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6564.959,
+        "value": 0.3897437,
+        "inSlope": -0.0005605708,
+        "outSlope": -0.002169993,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6744.565,
+        "value": 0.0,
+        "inSlope": -0.002169993,
+        "outSlope": -0.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7273.954,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.002428021,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 7435.0894,
+        "value": 0.3912398,
+        "inSlope": 0.002428021,
+        "outSlope": 0.00048024673,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 8457.964,
+        "value": 0.8824719,
+        "inSlope": 0.00048024673,
+        "outSlope": -8.562869E-07,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 11713.891,
+        "value": 0.8796839,
+        "inSlope": -8.562869E-07,
+        "outSlope": 7.626836E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Lamborghini_HuracanSterratoHoliday_2021BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 131.82594,
+        "inSlope": -0.00044670104,
+        "outSlope": -0.00044670104,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1600.0,
+        "value": 131.55792,
+        "inSlope": -0.00044670104,
+        "outSlope": 0.0039349706,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2050.0,
+        "value": 133.32866,
+        "inSlope": 0.0039349706,
+        "outSlope": 2.303547,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2150.0,
+        "value": 363.68335,
+        "inSlope": 2.303547,
+        "outSlope": 0.05769501,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2250.0,
+        "value": 369.45285,
+        "inSlope": 0.05769501,
+        "outSlope": 0.04179942,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2550.0,
+        "value": 381.99268,
+        "inSlope": 0.04179942,
+        "outSlope": 0.041667208,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3450.0,
+        "value": 419.49316,
+        "inSlope": 0.041667208,
+        "outSlope": 0.014849548,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5050.0,
+        "value": 443.25244,
+        "inSlope": 0.014849548,
+        "outSlope": -0.00127982,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6100.0,
+        "value": 441.90863,
+        "inSlope": -0.00127982,
+        "outSlope": -0.014257829,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 8000.0,
+        "value": 414.81876,
+        "inSlope": -0.014257829,
+        "outSlope": -0.016699428,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

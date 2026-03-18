@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Porsche_962C_1987WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.9959574,
+        "inSlope": -0.00010424346,
+        "outSlope": -6.0467295E-07,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4008.19,
+        "value": 0.99353373,
+        "inSlope": -6.0467295E-07,
+        "outSlope": -0.0014311014,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4552.0845,
+        "value": 0.21516551,
+        "inSlope": -0.0014311014,
+        "outSlope": -0.001364548,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 4706.7427,
+        "value": 0.004126977,
+        "inSlope": -0.001364548,
+        "outSlope": -8.6971386E-13,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5242.1616,
+        "value": 0.0041269767,
+        "inSlope": -8.6971386E-13,
+        "outSlope": 0.0011426727,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5446.877,
+        "value": 0.23804961,
+        "inSlope": 0.0011426727,
+        "outSlope": 0.0010299954,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 6175.0103,
+        "value": 0.9880236,
+        "inSlope": 0.0010299954,
+        "outSlope": 2.066865E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7643.4883,
+        "value": 1.018375,
+        "inSlope": 2.066865E-05,
+        "outSlope": 1.4384751E-05,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 9229.592,
+        "value": 1.0411907,
+        "inSlope": 1.4384751E-05,
+        "outSlope": 0.00015626855,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

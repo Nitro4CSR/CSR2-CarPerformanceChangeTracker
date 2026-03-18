@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Chevrolet_CorvetteC1LPClassic_1958BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 500.0,
+        "value": 99.95236,
+        "inSlope": 1.94442,
+        "outSlope": 1.3827137,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 800.0,
+        "value": 514.7665,
+        "inSlope": 1.3827137,
+        "outSlope": 0.19253157,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1150.0,
+        "value": 582.1525,
+        "inSlope": 0.19253157,
+        "outSlope": 0.038213044,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1950.0,
+        "value": 612.72296,
+        "inSlope": 0.038213044,
+        "outSlope": 0.019246396,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2800.0,
+        "value": 629.0824,
+        "inSlope": 0.019246396,
+        "outSlope": 0.018294372,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4000.0,
+        "value": 651.03564,
+        "inSlope": 0.018294372,
+        "outSlope": -0.12659591,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5350.0,
+        "value": 480.13116,
+        "inSlope": -0.12659591,
+        "outSlope": -0.1634799,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6000.0,
+        "value": 373.86923,
+        "inSlope": -0.1634799,
+        "outSlope": -0.13940412,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

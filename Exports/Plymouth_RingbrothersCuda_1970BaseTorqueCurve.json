@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Plymouth_RingbrothersCuda_1970BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 183.34993,
+        "inSlope": 0.44198784,
+        "outSlope": 0.45376095,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1400.0,
+        "value": 364.8543,
+        "inSlope": 0.45376095,
+        "outSlope": 0.42713347,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1950.0,
+        "value": 599.7777,
+        "inSlope": 0.42713347,
+        "outSlope": 0.3813754,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2500.0,
+        "value": 809.5342,
+        "inSlope": 0.3813754,
+        "outSlope": 0.39612964,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3000.0,
+        "value": 1007.599,
+        "inSlope": 0.39612964,
+        "outSlope": 0.35340187,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3500.0,
+        "value": 1184.2999,
+        "inSlope": 0.35340187,
+        "outSlope": -0.31821704,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4500.0,
+        "value": 866.0829,
+        "inSlope": -0.31821704,
+        "outSlope": -0.5189471,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5000.0,
+        "value": 606.6093,
+        "inSlope": -0.5189471,
+        "outSlope": -0.5435719,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

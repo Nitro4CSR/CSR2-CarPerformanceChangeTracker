@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Porsche_919Street_2020BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1050.0,
+        "value": 162.10527,
+        "inSlope": 2.4149919,
+        "outSlope": 2.4149919,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1100.0,
+        "value": 282.85486,
+        "inSlope": 2.4149919,
+        "outSlope": 0.7337138,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1250.0,
+        "value": 392.91193,
+        "inSlope": 0.7337138,
+        "outSlope": 0.10315142,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1950.0,
+        "value": 465.11792,
+        "inSlope": 0.10315142,
+        "outSlope": 0.037790224,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2750.0,
+        "value": 495.3501,
+        "inSlope": 0.037790224,
+        "outSlope": 0.011569163,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5150.0,
+        "value": 523.1161,
+        "inSlope": 0.011569163,
+        "outSlope": 0.007667308,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6850.0,
+        "value": 536.1505,
+        "inSlope": 0.007667308,
+        "outSlope": 0.0063514123,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7500.0,
+        "value": 540.27893,
+        "inSlope": 0.0063514123,
+        "outSlope": -0.06382318,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 8500.0,
+        "value": 476.45575,
+        "inSlope": -0.06382318,
+        "outSlope": -0.11492365,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 9000.0,
+        "value": 418.99393,
+        "inSlope": -0.11492365,
+        "outSlope": -0.09483899,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

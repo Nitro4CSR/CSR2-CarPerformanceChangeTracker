@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Shelby_CobraDaytonaLP_1964BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 800.0,
+        "value": 96.00087,
+        "inSlope": 0.03890233,
+        "outSlope": 0.2869702,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1500.0,
+        "value": 296.88,
+        "inSlope": 0.2869702,
+        "outSlope": 0.1304258,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2150.0,
+        "value": 381.65677,
+        "inSlope": 0.1304258,
+        "outSlope": 0.09379578,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2650.0,
+        "value": 428.55466,
+        "inSlope": 0.09379578,
+        "outSlope": 0.1480864,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3250.0,
+        "value": 517.4065,
+        "inSlope": 0.1480864,
+        "outSlope": 0.059899773,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4200.0,
+        "value": 574.3113,
+        "inSlope": 0.059899773,
+        "outSlope": 0.012867667,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5500.0,
+        "value": 591.03925,
+        "inSlope": 0.012867667,
+        "outSlope": -0.1051132,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6250.0,
+        "value": 512.20435,
+        "inSlope": -0.1051132,
+        "outSlope": -0.110697754,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6750.0,
+        "value": 456.85547,
+        "inSlope": -0.110697754,
+        "outSlope": -0.110697754,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

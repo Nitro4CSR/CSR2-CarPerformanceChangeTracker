@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Toyota_SprinterTruenoAE86_1980BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 104.831184,
+        "inSlope": 0.43219376,
+        "outSlope": 1.2977715,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1400.0,
+        "value": 349.60806,
+        "inSlope": 1.2977715,
+        "outSlope": 0.83872634,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1350.0,
+        "value": 517.35333,
+        "inSlope": 0.83872634,
+        "outSlope": 0.6066028,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1600.0,
+        "value": 669.004,
+        "inSlope": 0.6066028,
+        "outSlope": 0.49039307,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1950.0,
+        "value": 840.6416,
+        "inSlope": 0.49039307,
+        "outSlope": 0.33400103,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2500.0,
+        "value": 1024.3422,
+        "inSlope": 0.33400103,
+        "outSlope": 0.15936865,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3500.0,
+        "value": 1183.7108,
+        "inSlope": 0.15936865,
+        "outSlope": -0.1913115,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6200.0,
+        "value": 667.1698,
+        "inSlope": -0.1913115,
+        "outSlope": -0.15060697,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7500.0,
+        "value": 471.38074,
+        "inSlope": -0.15060697,
+        "outSlope": -0.15060697,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

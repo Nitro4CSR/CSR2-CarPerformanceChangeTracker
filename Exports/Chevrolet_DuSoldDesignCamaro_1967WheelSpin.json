@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Chevrolet_DuSoldDesignCamaro_1967WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.99664134,
+        "inSlope": 1.494675E-07,
+        "outSlope": 2.255124E-06,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2262.394,
+        "value": 1.0017433,
+        "inSlope": 2.255124E-06,
+        "outSlope": -0.0030113487,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2535.6938,
+        "value": 0.17874229,
+        "inSlope": -0.0030113487,
+        "outSlope": -0.0008637002,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2742.6433,
+        "value": 0.0,
+        "inSlope": -0.0008637002,
+        "outSlope": -0.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3283.168,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0010868473,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3458.5647,
+        "value": 0.19062945,
+        "inSlope": 0.0010868473,
+        "outSlope": 0.0016134961,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3967.3147,
+        "value": 1.0114956,
+        "inSlope": 0.0016134961,
+        "outSlope": 1.608552E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4862.293,
+        "value": 1.0258918,
+        "inSlope": 1.608552E-05,
+        "outSlope": 1.0599108E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5535.6685,
+        "value": 1.033029,
+        "inSlope": 1.0599108E-05,
+        "outSlope": 4.6611317E-06,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "DeTomaso_P900_2022BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 131.94705,
+        "inSlope": 0.34002113,
+        "outSlope": 0.34002113,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1700.0,
+        "value": 369.96185,
+        "inSlope": 0.34002113,
+        "outSlope": 0.2125763,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2300.0,
+        "value": 497.50763,
+        "inSlope": 0.2125763,
+        "outSlope": 0.1957204,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2950.0,
+        "value": 624.7259,
+        "inSlope": 0.1957204,
+        "outSlope": 0.19241512,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3600.0,
+        "value": 749.7957,
+        "inSlope": 0.19241512,
+        "outSlope": 0.17993313,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4500.0,
+        "value": 911.73553,
+        "inSlope": 0.17993313,
+        "outSlope": -0.13805842,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7200.0,
+        "value": 552.7836,
+        "inSlope": -0.13805842,
+        "outSlope": -0.11219927,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 8500.0,
+        "value": 411.95914,
+        "inSlope": -0.11219927,
+        "outSlope": -0.10296788,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

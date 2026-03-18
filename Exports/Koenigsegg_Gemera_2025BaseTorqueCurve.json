@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Koenigsegg_Gemera_2025BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 169.93492,
+        "inSlope": 0.4115852,
+        "outSlope": 0.28538668,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1400.0,
+        "value": 284.0896,
+        "inSlope": 0.28538668,
+        "outSlope": 0.13427407,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1950.0,
+        "value": 357.94034,
+        "inSlope": 0.13427407,
+        "outSlope": 0.097721025,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2700.0,
+        "value": 431.2311,
+        "inSlope": 0.097721025,
+        "outSlope": 0.074708864,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3450.0,
+        "value": 487.26276,
+        "inSlope": 0.074708864,
+        "outSlope": 0.047002245,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4500.0,
+        "value": 536.6151,
+        "inSlope": 0.047002245,
+        "outSlope": 0.030822448,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5500.0,
+        "value": 567.43756,
+        "inSlope": 0.030822448,
+        "outSlope": -0.076795,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7400.0,
+        "value": 421.52707,
+        "inSlope": -0.076795,
+        "outSlope": -0.106253326,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 8500.0,
+        "value": 304.6484,
+        "inSlope": -0.106253326,
+        "outSlope": -0.11860873,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

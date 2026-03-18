@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Ferrari_12CilindriSpiderReward_2024BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 142.36969,
+        "inSlope": 0.00932846,
+        "outSlope": 0.3161112,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1400.0,
+        "value": 268.81418,
+        "inSlope": 0.3161112,
+        "outSlope": 0.14800276,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2100.0,
+        "value": 372.4161,
+        "inSlope": 0.14800276,
+        "outSlope": 0.08424112,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3100.0,
+        "value": 456.65723,
+        "inSlope": 0.08424112,
+        "outSlope": 0.04470838,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4050.0,
+        "value": 499.1302,
+        "inSlope": 0.04470838,
+        "outSlope": 0.027486213,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4900.0,
+        "value": 522.49347,
+        "inSlope": 0.027486213,
+        "outSlope": 0.013206109,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6250.0,
+        "value": 540.3217,
+        "inSlope": 0.013206109,
+        "outSlope": 0.007463379,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7550.0,
+        "value": 550.0241,
+        "inSlope": 0.007463379,
+        "outSlope": -0.06338618,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 8750.0,
+        "value": 473.9607,
+        "inSlope": -0.06338618,
+        "outSlope": -0.07712341,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 9500.0,
+        "value": 416.11813,
+        "inSlope": -0.07712341,
+        "outSlope": -0.067225695,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

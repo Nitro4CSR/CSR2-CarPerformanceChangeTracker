@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Audi_TTRSCoupeIEReward_2023WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 1.0023739,
+        "inSlope": -2.2014497E-06,
+        "outSlope": -1.2354969E-06,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2665.644,
+        "value": 0.99908054,
+        "inSlope": -1.2354969E-06,
+        "outSlope": -0.0018439059,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3054.0134,
+        "value": 0.28296393,
+        "inSlope": -0.0018439059,
+        "outSlope": -0.0017227867,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3218.2612,
+        "value": 2.3283064E-10,
+        "inSlope": -0.0017227867,
+        "outSlope": -4.2872674E-13,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3761.336,
+        "value": 0.0,
+        "inSlope": -4.2872674E-13,
+        "outSlope": 0.0014422707,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3958.7754,
+        "value": 0.28476113,
+        "inSlope": 0.0014422707,
+        "outSlope": 0.00197789,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4318.642,
+        "value": 0.99653786,
+        "inSlope": 0.00197789,
+        "outSlope": 9.280555E-06,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5861.3916,
+        "value": 1.0108554,
+        "inSlope": 9.280555E-06,
+        "outSlope": 1.3433488E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7018.4775,
+        "value": 1.0263991,
+        "inSlope": 1.3433488E-05,
+        "outSlope": 1.1802759E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

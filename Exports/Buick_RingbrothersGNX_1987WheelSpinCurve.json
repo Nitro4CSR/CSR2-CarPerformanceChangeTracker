@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Buick_RingbrothersGNX_1987WheelSpinCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.9998689,
+        "inSlope": 1.8813207E-05,
+        "outSlope": -6.1796715E-07,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2088.974,
+        "value": 0.998578,
+        "inSlope": -6.1796715E-07,
+        "outSlope": -0.0017334847,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2552.9446,
+        "value": 0.19429235,
+        "inSlope": -0.0017334847,
+        "outSlope": -0.0011906704,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 2716.1235,
+        "value": 0.0,
+        "inSlope": -0.0011906704,
+        "outSlope": -0.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3281.729,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0010577374,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3458.5562,
+        "value": 0.18703668,
+        "inSlope": 0.0010577374,
+        "outSlope": 0.0016801415,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 3942.5732,
+        "value": 1.0002539,
+        "inSlope": 0.0016801415,
+        "outSlope": 6.275392E-06,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5006.1196,
+        "value": 1.0069281,
+        "inSlope": 6.275392E-06,
+        "outSlope": 1.3932015E-05,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 5871.028,
+        "value": 1.018978,
+        "inSlope": 1.3932015E-05,
+        "outSlope": 7.626836E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

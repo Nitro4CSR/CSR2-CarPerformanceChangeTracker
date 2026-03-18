@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Toyota_GRYarisReward_2021WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 1.0010116,
+        "inSlope": 1.5152042E-06,
+        "outSlope": 4.7218091E-07,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2936.9287,
+        "value": 1.0023984,
+        "inSlope": 4.7218091E-07,
+        "outSlope": -0.0013471005,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3540.3528,
+        "value": 0.18952553,
+        "inSlope": -0.0013471005,
+        "outSlope": -0.00085557596,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3761.8708,
+        "value": 0.0,
+        "inSlope": -0.00085557596,
+        "outSlope": -0.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4268.1733,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.00095175445,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4448.1133,
+        "value": 0.17125864,
+        "inSlope": 0.00095175445,
+        "outSlope": 0.0011627551,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5171.391,
+        "value": 1.0122536,
+        "inSlope": 0.0011627551,
+        "outSlope": 1.0191641E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6282.245,
+        "value": 1.0235751,
+        "inSlope": 1.0191641E-05,
+        "outSlope": 1.24087655E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7337.8086,
+        "value": 1.0366733,
+        "inSlope": 1.24087655E-05,
+        "outSlope": 1.2588075E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

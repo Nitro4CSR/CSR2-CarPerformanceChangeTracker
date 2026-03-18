@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Ford_MustangSVTCobraRLPClassic_1993BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 132.167,
+        "inSlope": 1.6172327,
+        "outSlope": 1.948583,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1200.0,
+        "value": 521.8836,
+        "inSlope": 1.948583,
+        "outSlope": 1.4970016,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1400.0,
+        "value": 821.28394,
+        "inSlope": 1.4970016,
+        "outSlope": 0.40235612,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2150.0,
+        "value": 1123.051,
+        "inSlope": 0.40235612,
+        "outSlope": 0.24261302,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3000.0,
+        "value": 1329.2721,
+        "inSlope": 0.24261302,
+        "outSlope": -0.37574112,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4200.0,
+        "value": 878.38275,
+        "inSlope": -0.37574112,
+        "outSlope": -0.4806314,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4800.0,
+        "value": 590.0039,
+        "inSlope": -0.4806314,
+        "outSlope": -0.61944896,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

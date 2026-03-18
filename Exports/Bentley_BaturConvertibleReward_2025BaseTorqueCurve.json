@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Bentley_BaturConvertibleReward_2025BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 132.167,
+        "inSlope": 0.016393026,
+        "outSlope": 0.016393026,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1150.0,
+        "value": 134.62596,
+        "inSlope": 0.016393026,
+        "outSlope": 0.003958893,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1350.0,
+        "value": 135.41774,
+        "inSlope": 0.003958893,
+        "outSlope": 391.6607,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1351.3501,
+        "value": 664.19794,
+        "inSlope": 391.6607,
+        "outSlope": 0.00017799376,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2700.0,
+        "value": 664.438,
+        "inSlope": 0.00017799376,
+        "outSlope": -0.0003425182,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3800.0,
+        "value": 664.0612,
+        "inSlope": -0.0003425182,
+        "outSlope": 0.00011352539,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4650.0,
+        "value": 664.1577,
+        "inSlope": 0.00011352539,
+        "outSlope": -0.11345872,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5300.0,
+        "value": 590.40955,
+        "inSlope": -0.11345872,
+        "outSlope": -0.060323488,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6000.0,
+        "value": 548.1831,
+        "inSlope": -0.060323488,
+        "outSlope": -0.36718795,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6200.0,
+        "value": 474.7455,
+        "inSlope": -0.36718795,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

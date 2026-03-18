@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "BTTF_TimeMachine2_2015WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 990.5073,
+        "value": 0.62735534,
+        "inSlope": 1.9227076E-05,
+        "outSlope": 8.600128E-06,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4089.549,
+        "value": 0.6540075,
+        "inSlope": 8.600128E-06,
+        "outSlope": -0.00076383096,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4560.246,
+        "value": 0.29447454,
+        "inSlope": -0.00076383096,
+        "outSlope": -0.0016110289,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4743.0327,
+        "value": 0.0,
+        "inSlope": -0.0016110289,
+        "outSlope": -0.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5233.051,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0013440072,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5445.059,
+        "value": 0.2849407,
+        "inSlope": 0.0013440072,
+        "outSlope": 0.00070985156,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5994.9287,
+        "value": 0.6752665,
+        "inSlope": 0.00070985156,
+        "outSlope": 7.804753E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 8256.029,
+        "value": 0.8517398,
+        "inSlope": 7.804753E-05,
+        "outSlope": 9.1807284E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

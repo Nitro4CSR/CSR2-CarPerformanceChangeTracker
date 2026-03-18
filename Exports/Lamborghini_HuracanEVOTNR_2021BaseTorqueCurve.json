@@ -1,0 +1,118 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Lamborghini_HuracanEVOTNR_2021BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 131.82594,
+        "inSlope": -0.00044670104,
+        "outSlope": 0.15970683,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1600.0,
+        "value": 227.65004,
+        "inSlope": 0.15970683,
+        "outSlope": 0.28417242,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1850.0,
+        "value": 298.69315,
+        "inSlope": 0.28417242,
+        "outSlope": 0.572765,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2100.0,
+        "value": 441.8844,
+        "inSlope": 0.572765,
+        "outSlope": 0.23606873,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2350.0,
+        "value": 500.90158,
+        "inSlope": 0.23606873,
+        "outSlope": 0.10272882,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2850.0,
+        "value": 552.266,
+        "inSlope": 0.10272882,
+        "outSlope": 0.057234496,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3450.0,
+        "value": 586.6067,
+        "inSlope": 0.057234496,
+        "outSlope": 0.010761643,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5050.0,
+        "value": 603.8253,
+        "inSlope": 0.010761643,
+        "outSlope": -0.0036089125,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6000.0,
+        "value": 600.39685,
+        "inSlope": -0.0036089125,
+        "outSlope": -0.08766149,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7200.0,
+        "value": 495.20306,
+        "inSlope": -0.08766149,
+        "outSlope": -0.11825753,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 8700.0,
+        "value": 317.81677,
+        "inSlope": -0.11825753,
+        "outSlope": -0.11731815,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

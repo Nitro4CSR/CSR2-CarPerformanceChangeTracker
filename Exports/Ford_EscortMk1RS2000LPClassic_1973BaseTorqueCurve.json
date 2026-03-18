@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Ford_EscortMk1RS2000LPClassic_1973BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 132.167,
+        "inSlope": 0.36246148,
+        "outSlope": 0.84150094,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1850.0,
+        "value": 847.4428,
+        "inSlope": 0.84150094,
+        "outSlope": 0.19971108,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2800.0,
+        "value": 1037.1683,
+        "inSlope": 0.19971108,
+        "outSlope": 0.009955666,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5000.0,
+        "value": 1059.0708,
+        "inSlope": 0.009955666,
+        "outSlope": -0.17667142,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6600.0,
+        "value": 776.39655,
+        "inSlope": -0.17667142,
+        "outSlope": -0.1181403,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7250.0,
+        "value": 699.60535,
+        "inSlope": -0.1181403,
+        "outSlope": -0.16521537,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7600.0,
+        "value": 641.77997,
+        "inSlope": -0.16521537,
+        "outSlope": -0.16521537,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

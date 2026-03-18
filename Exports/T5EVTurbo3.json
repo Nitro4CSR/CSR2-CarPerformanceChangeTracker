@@ -13,30 +13,30 @@
     "m_Curve": [
       {
         "time": 1000.0,
-        "value": 15.6000137,
-        "inSlope": 1.99441347E-05,
+        "value": 15.600014,
+        "inSlope": 1.9944135E-05,
         "outSlope": 5.707741E-06,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 3600.0,
-        "value": 15.6148539,
+        "value": 15.614854,
         "inSlope": 5.707741E-06,
         "outSlope": 6.748381E-06,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 5700.0,
-        "value": 15.6290255,
+        "value": 15.629025,
         "inSlope": 6.748381E-06,
-        "outSlope": -7.28062241E-06,
+        "outSlope": -7.2806224E-06,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       }
     ],
     "m_PreInfinity": 2,

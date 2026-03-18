@@ -18,7 +18,7 @@
         "outSlope": -0.0009970652,
         "weightedMode": 0,
         "inWeight": 0.0,
-        "outWeight": 0.333333343
+        "outWeight": 0.33333334
       },
       {
         "time": 2500.0,
@@ -26,44 +26,44 @@
         "inSlope": -0.0009970652,
         "outSlope": 0.4003291,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 3059.163,
         "value": 323.3748,
         "inSlope": 0.4003291,
-        "outSlope": 0.139673486,
+        "outSlope": 0.13967349,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 4000.0,
         "value": 454.78476,
-        "inSlope": 0.139673486,
-        "outSlope": 0.138689533,
+        "inSlope": 0.13967349,
+        "outSlope": 0.13868953,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 4700.0,
-        "value": 551.867432,
-        "inSlope": 0.138689533,
-        "outSlope": 0.0495225936,
+        "value": 551.86743,
+        "inSlope": 0.13868953,
+        "outSlope": 0.049522594,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 5800.0,
         "value": 606.3423,
-        "inSlope": 0.0495225936,
+        "inSlope": 0.049522594,
         "outSlope": 0.07506897,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 6000.0,
@@ -80,7 +80,7 @@
         "inSlope": -0.03833542,
         "outSlope": 0.01005528,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
+        "inWeight": 0.33333334,
         "outWeight": 0.0
       }
     ],

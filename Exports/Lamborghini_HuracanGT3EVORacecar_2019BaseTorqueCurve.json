@@ -13,30 +13,30 @@
     "m_Curve": [
       {
         "time": 1000.0,
-        "value": 131.825943,
-        "inSlope": -0.000446701044,
-        "outSlope": -0.000446701044,
+        "value": 131.82594,
+        "inSlope": -0.00044670104,
+        "outSlope": -0.00044670104,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 1600.0,
-        "value": 131.557922,
-        "inSlope": -0.000446701044,
-        "outSlope": 0.00393497059,
+        "value": 131.55792,
+        "inSlope": -0.00044670104,
+        "outSlope": 0.0039349706,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 2050.0,
-        "value": 133.328659,
-        "inSlope": 0.00393497059,
+        "value": 133.32866,
+        "inSlope": 0.0039349706,
         "outSlope": 2.303547,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 2150.0,
@@ -44,71 +44,71 @@
         "inSlope": 2.303547,
         "outSlope": 0.7504018,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 2300.0,
-        "value": 476.243622,
+        "value": 476.24362,
         "inSlope": 0.7504018,
-        "outSlope": 0.230819941,
+        "outSlope": 0.23081994,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 2550.0,
         "value": 533.9486,
-        "inSlope": 0.230819941,
-        "outSlope": 0.0585089773,
+        "inSlope": 0.23081994,
+        "outSlope": 0.058508977,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 3450.0,
         "value": 586.6067,
-        "inSlope": 0.0585089773,
-        "outSlope": 0.0200083926,
+        "inSlope": 0.058508977,
+        "outSlope": 0.020008393,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 5050.0,
         "value": 618.6201,
-        "inSlope": 0.0200083926,
-        "outSlope": -0.0101619093,
+        "inSlope": 0.020008393,
+        "outSlope": -0.010161909,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 6150.0,
         "value": 607.442,
-        "inSlope": -0.0101619093,
-        "outSlope": -0.0418105945,
+        "inSlope": -0.010161909,
+        "outSlope": -0.041810594,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 7200.0,
         "value": 563.5409,
-        "inSlope": -0.0418105945,
-        "outSlope": -0.117318153,
+        "inSlope": -0.041810594,
+        "outSlope": -0.11731815,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 8700.0,
         "value": 387.56366,
-        "inSlope": -0.117318153,
-        "outSlope": -0.0951855853,
+        "inSlope": -0.11731815,
+        "outSlope": -0.095185585,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       }
     ],
     "m_PreInfinity": 2,

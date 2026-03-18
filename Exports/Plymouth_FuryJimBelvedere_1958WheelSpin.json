@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Plymouth_FuryJimBelvedere_1958WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.9976464,
+        "inSlope": -9.031911E-05,
+        "outSlope": 2.0817863E-06,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2892.4392,
+        "value": 1.0036678,
+        "inSlope": 2.0817863E-06,
+        "outSlope": -0.001212405,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3547.6492,
+        "value": 0.209288,
+        "inSlope": -0.001212405,
+        "outSlope": -0.0011587505,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 3728.2644,
+        "value": 0.0,
+        "inSlope": -0.0011587505,
+        "outSlope": -0.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4305.7554,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0012984944,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4446.4507,
+        "value": 0.18269208,
+        "inSlope": 0.0012984944,
+        "outSlope": 0.0012195635,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 5117.845,
+        "value": 1.0015004,
+        "inSlope": 0.0012195635,
+        "outSlope": 1.383313E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6093.9424,
+        "value": 1.0150028,
+        "inSlope": 1.383313E-05,
+        "outSlope": 2.0549287E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6966.898,
+        "value": 1.0329415,
+        "inSlope": 2.0549287E-05,
+        "outSlope": 0.00041494402,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

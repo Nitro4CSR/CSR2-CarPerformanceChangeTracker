@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Lamborghini_DiabloGT_2000WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 994.58453,
+        "value": 0.72530305,
+        "inSlope": 5.5233522E-06,
+        "outSlope": 5.5233522E-06,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4162.3,
+        "value": 0.74279946,
+        "inSlope": 5.5233522E-06,
+        "outSlope": -0.00042206552,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5608.178,
+        "value": 0.13254403,
+        "inSlope": -0.00042206552,
+        "outSlope": -0.0001905693,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6303.6943,
+        "value": 0.0,
+        "inSlope": -0.0001905693,
+        "outSlope": -0.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6632.468,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.00015349139,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7220.895,
+        "value": 0.090318516,
+        "inSlope": 0.00015349139,
+        "outSlope": 0.0001759749,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7809.427,
+        "value": 0.19388533,
+        "inSlope": 0.0001759749,
+        "outSlope": 0.00014733068,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 8571.064,
+        "value": 0.30609792,
+        "inSlope": 0.00014733068,
+        "outSlope": 0.000112104,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

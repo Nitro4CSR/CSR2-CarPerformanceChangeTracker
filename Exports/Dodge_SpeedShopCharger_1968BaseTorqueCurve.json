@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Dodge_SpeedShopCharger_1968BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 100.0,
+        "value": 115.637726,
+        "inSlope": 4.2799983,
+        "outSlope": 4.2799983,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 200.0,
+        "value": 543.6376,
+        "inSlope": 4.2799983,
+        "outSlope": 1.3574387,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 400.0,
+        "value": 815.1253,
+        "inSlope": 1.3574387,
+        "outSlope": 0.3970624,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 800.0,
+        "value": 973.95026,
+        "inSlope": 0.3970624,
+        "outSlope": 0.17267407,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1550.0,
+        "value": 1103.4558,
+        "inSlope": 0.17267407,
+        "outSlope": 0.06601427,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2450.0,
+        "value": 1162.8687,
+        "inSlope": 0.06601427,
+        "outSlope": 0.025973191,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3500.0,
+        "value": 1190.1405,
+        "inSlope": 0.025973191,
+        "outSlope": -0.23167792,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5300.0,
+        "value": 773.12024,
+        "inSlope": -0.23167792,
+        "outSlope": -0.35120946,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6000.0,
+        "value": 527.2736,
+        "inSlope": -0.35120946,
+        "outSlope": -0.35120946,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

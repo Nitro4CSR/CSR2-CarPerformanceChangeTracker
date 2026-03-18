@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Mazda_RX7F2_1993WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1024.9802,
+        "value": 0.6903242,
+        "inSlope": 1.388232E-05,
+        "outSlope": 1.388232E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3611.2737,
+        "value": 0.72622794,
+        "inSlope": 1.388232E-05,
+        "outSlope": -0.0006266296,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4757.9604,
+        "value": 0.007680063,
+        "inSlope": -0.0006266296,
+        "outSlope": -1.7440367E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5198.322,
+        "value": 0.0,
+        "inSlope": -1.7440367E-05,
+        "outSlope": 0.0013572853,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5831.6753,
+        "value": 0.85964143,
+        "inSlope": 0.0013572853,
+        "outSlope": 0.00022195697,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6427.6235,
+        "value": 0.9919163,
+        "inSlope": 0.00022195697,
+        "outSlope": 0.00023445854,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7963.5156,
+        "value": 1.3520193,
+        "inSlope": 0.00023445854,
+        "outSlope": 0.00023445854,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

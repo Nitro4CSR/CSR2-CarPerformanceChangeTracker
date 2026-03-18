@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Hyundai_IONIQ5NNPX1Reward_2024EVTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 156.29454,
+        "inSlope": 1.0045221,
+        "outSlope": 1.0045221,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 400.0,
+        "value": 558.1034,
+        "inSlope": 1.0045221,
+        "outSlope": 0.010999297,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7850.0,
+        "value": 640.04816,
+        "inSlope": 0.010999297,
+        "outSlope": -0.06336548,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 9850.0,
+        "value": 513.3172,
+        "inSlope": -0.06336548,
+        "outSlope": -0.04272326,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 12000.0,
+        "value": 421.4622,
+        "inSlope": -0.04272326,
+        "outSlope": -5.4757576,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

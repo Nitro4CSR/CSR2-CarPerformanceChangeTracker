@@ -1,0 +1,73 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Porsche_911STReward_2024WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 3166.7546,
+        "value": 0.3379353,
+        "inSlope": -4.822309E-06,
+        "outSlope": -0.00010424346,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5197.272,
+        "value": 0.12626715,
+        "inSlope": -0.00010424346,
+        "outSlope": -0.0001220201,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6232.078,
+        "value": 0.0,
+        "inSlope": -0.0001220201,
+        "outSlope": -0.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6696.75,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.000110149434,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7650.153,
+        "value": 0.10501678,
+        "inSlope": 0.000110149434,
+        "outSlope": 0.00015626854,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 9884.318,
+        "value": 0.45414656,
+        "inSlope": 0.00015626854,
+        "outSlope": 0.00016251915,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

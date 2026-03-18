@@ -1,0 +1,118 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Toyota_GRSupraV2TNR_2021BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 131.94705,
+        "inSlope": 0.004676708,
+        "outSlope": 0.004676708,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1398.6,
+        "value": 133.81119,
+        "inSlope": 0.004676708,
+        "outSlope": -0.005633066,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1650.0,
+        "value": 132.39503,
+        "inSlope": -0.005633066,
+        "outSlope": 0.7356365,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1950.0,
+        "value": 353.08597,
+        "inSlope": 0.7356365,
+        "outSlope": 0.8420199,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2200.0,
+        "value": 563.59094,
+        "inSlope": 0.8420199,
+        "outSlope": 0.42942905,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2550.0,
+        "value": 713.8911,
+        "inSlope": 0.42942905,
+        "outSlope": 0.19007427,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3150.0,
+        "value": 827.93567,
+        "inSlope": 0.19007427,
+        "outSlope": 0.04861992,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3950.0,
+        "value": 866.8316,
+        "inSlope": 0.04861992,
+        "outSlope": 0.0711026,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4550.0,
+        "value": 909.49316,
+        "inSlope": 0.0711026,
+        "outSlope": -0.12164556,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5600.0,
+        "value": 781.7653,
+        "inSlope": -0.12164556,
+        "outSlope": -0.3043948,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7000.0,
+        "value": 355.61258,
+        "inSlope": -0.3043948,
+        "outSlope": -0.29513565,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

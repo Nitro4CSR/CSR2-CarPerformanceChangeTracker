@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Ford_EscortRSCosworthCossieV2_1994BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 132.167,
+        "inSlope": 0.87894034,
+        "outSlope": 1.3633894,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1400.0,
+        "value": 677.52277,
+        "inSlope": 1.3633894,
+        "outSlope": 0.7107391,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2200.0,
+        "value": 1246.114,
+        "inSlope": 0.7107391,
+        "outSlope": 0.23016897,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3400.0,
+        "value": 1522.3168,
+        "inSlope": 0.23016897,
+        "outSlope": -0.28632727,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5600.0,
+        "value": 892.3968,
+        "inSlope": -0.28632727,
+        "outSlope": -0.21674547,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6050.0,
+        "value": 794.8613,
+        "inSlope": -0.21674547,
+        "outSlope": -0.21956713,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6550.0,
+        "value": 685.07776,
+        "inSlope": -0.21956713,
+        "outSlope": -0.29034087,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

@@ -13,48 +13,48 @@
     "m_Curve": [
       {
         "time": 1050.0,
-        "value": 3.60129976,
-        "inSlope": 0.00306129525,
-        "outSlope": 0.00316033675,
+        "value": 3.6012998,
+        "inSlope": 0.0030612953,
+        "outSlope": 0.0031603368,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 1350.0,
         "value": 4.549401,
-        "inSlope": 0.00316033675,
-        "outSlope": 0.000960972335,
+        "inSlope": 0.0031603368,
+        "outSlope": 0.00096097233,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 2750.0,
         "value": 5.894762,
-        "inSlope": 0.000960972335,
-        "outSlope": -2.09880454E-05,
+        "inSlope": 0.00096097233,
+        "outSlope": -2.0988045E-05,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 4800.0,
-        "value": 5.85173655,
-        "inSlope": -2.09880454E-05,
-        "outSlope": -0.000198809721,
+        "value": 5.8517365,
+        "inSlope": -2.0988045E-05,
+        "outSlope": -0.00019880972,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 6350.0,
-        "value": 5.54358149,
-        "inSlope": -0.000198809721,
-        "outSlope": -0.000165240766,
+        "value": 5.5435815,
+        "inSlope": -0.00019880972,
+        "outSlope": -0.00016524077,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       }
     ],
     "m_PreInfinity": 2,

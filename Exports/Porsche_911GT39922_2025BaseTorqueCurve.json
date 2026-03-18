@@ -1,0 +1,118 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Porsche_911GT39922_2025BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 132.2732,
+        "inSlope": 0.13962962,
+        "outSlope": 0.20999493,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1400.0,
+        "value": 216.27116,
+        "inSlope": 0.20999493,
+        "outSlope": 0.12643567,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2250.0,
+        "value": 323.7415,
+        "inSlope": 0.12643567,
+        "outSlope": 0.079519376,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2800.0,
+        "value": 367.47714,
+        "inSlope": 0.079519376,
+        "outSlope": 0.07427124,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3450.0,
+        "value": 415.75345,
+        "inSlope": 0.07427124,
+        "outSlope": 0.07027906,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4150.0,
+        "value": 464.9488,
+        "inSlope": 0.07027906,
+        "outSlope": 0.07552879,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4950.0,
+        "value": 525.3718,
+        "inSlope": 0.07552879,
+        "outSlope": 0.07117228,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5700.0,
+        "value": 578.75104,
+        "inSlope": 0.07117228,
+        "outSlope": 0.07019829,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6500.0,
+        "value": 634.90967,
+        "inSlope": 0.07019829,
+        "outSlope": -0.08317856,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 8250.0,
+        "value": 489.3472,
+        "inSlope": -0.08317856,
+        "outSlope": -0.09156462,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 9000.0,
+        "value": 420.67374,
+        "inSlope": -0.09156462,
+        "outSlope": -0.09156462,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

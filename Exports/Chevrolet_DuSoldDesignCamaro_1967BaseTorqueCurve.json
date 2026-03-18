@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Chevrolet_DuSoldDesignCamaro_1967BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 132.167,
+        "inSlope": 0.7633708,
+        "outSlope": 0.7356906,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1400.0,
+        "value": 426.44324,
+        "inSlope": 0.7356906,
+        "outSlope": 0.5395238,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1800.0,
+        "value": 642.25275,
+        "inSlope": 0.5395238,
+        "outSlope": 0.5180398,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 2250.0,
+        "value": 875.37067,
+        "inSlope": 0.5180398,
+        "outSlope": 0.49915266,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2600.0,
+        "value": 1050.0741,
+        "inSlope": 0.49915266,
+        "outSlope": 0.55855894,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 3000.0,
+        "value": 1273.4977,
+        "inSlope": 0.55855894,
+        "outSlope": -0.38861817,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3950.0,
+        "value": 904.3104,
+        "inSlope": -0.38861817,
+        "outSlope": -0.5435719,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4400.0,
+        "value": 659.70306,
+        "inSlope": -0.5435719,
+        "outSlope": -0.47311768,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

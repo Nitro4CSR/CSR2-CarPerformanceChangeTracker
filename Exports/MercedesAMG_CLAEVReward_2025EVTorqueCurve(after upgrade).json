@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "MercedesAMG_CLAEVReward_2025EVTorqueCurve(after upgrade)",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1900.0,
+        "value": 138.95099,
+        "inSlope": -1.8513998E-05,
+        "outSlope": -1.8513998E-05,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3550.0,
+        "value": 138.92044,
+        "inSlope": -1.8513998E-05,
+        "outSlope": 0.025721708,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5400.0,
+        "value": 186.5056,
+        "inSlope": 0.025721708,
+        "outSlope": 0.048735403,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6900.0,
+        "value": 259.6087,
+        "inSlope": 0.048735403,
+        "outSlope": 0.11532565,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7450.0,
+        "value": 323.0378,
+        "inSlope": 0.11532565,
+        "outSlope": 0.2697203,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 8000.0,
+        "value": 471.38397,
+        "inSlope": 0.2697203,
+        "outSlope": -0.044133417,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 10850.0,
+        "value": 345.60373,
+        "inSlope": -0.044133417,
+        "outSlope": -0.029172119,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 12350.0,
+        "value": 301.84555,
+        "inSlope": -0.029172119,
+        "outSlope": -0.025088975,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 13700.0,
+        "value": 267.97543,
+        "inSlope": -0.025088975,
+        "outSlope": -0.020233905,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 15000.0,
+        "value": 241.67136,
+        "inSlope": -0.020233905,
+        "outSlope": -0.020233905,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

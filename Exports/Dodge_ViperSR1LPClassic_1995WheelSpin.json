@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Dodge_ViperSR1LPClassic_1995WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.99775946,
+        "inSlope": 1.3928503E-06,
+        "outSlope": 2.4505373E-06,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2251.4915,
+        "value": 1.0032768,
+        "inSlope": 2.4505373E-06,
+        "outSlope": -0.0031566778,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2533.81,
+        "value": 0.11208793,
+        "inSlope": -0.0031566778,
+        "outSlope": -0.000570976,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2726.0315,
+        "value": 0.0023341,
+        "inSlope": -0.000570976,
+        "outSlope": -4.4961666E-06,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3245.1626,
+        "value": 0.0,
+        "inSlope": -4.4961666E-06,
+        "outSlope": 0.0006229134,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3451.5117,
+        "value": 0.12853764,
+        "inSlope": 0.0006229134,
+        "outSlope": 0.0011770186,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4186.6396,
+        "value": 0.9937969,
+        "inSlope": 0.0011770186,
+        "outSlope": 1.3895375E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4585.133,
+        "value": 0.9993341,
+        "inSlope": 1.3895375E-05,
+        "outSlope": 1.7777453E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5090.497,
+        "value": 1.0083182,
+        "inSlope": 1.7777453E-05,
+        "outSlope": 1.2928846E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

@@ -13,75 +13,75 @@
     "m_Curve": [
       {
         "time": 1000.0,
-        "value": 4.81315136,
+        "value": 4.8131514,
         "inSlope": 0.0023556042,
-        "outSlope": 0.0111832386,
+        "outSlope": 0.011183239,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 1250.0,
         "value": 7.608961,
-        "inSlope": 0.0111832386,
+        "inSlope": 0.011183239,
         "outSlope": 0.004421014,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 1700.0,
         "value": 9.598417,
         "inSlope": 0.004421014,
-        "outSlope": 0.00222298433,
+        "outSlope": 0.0022229843,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 1950.0,
-        "value": 10.1541634,
-        "inSlope": 0.00222298433,
+        "value": 10.154163,
+        "inSlope": 0.0022229843,
         "outSlope": 0.0007221103,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 2750.0,
-        "value": 10.7318516,
+        "value": 10.731852,
         "inSlope": 0.0007221103,
-        "outSlope": 5.58119536E-05,
+        "outSlope": 5.5811954E-05,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 3400.0,
-        "value": 10.7681293,
-        "inSlope": 5.58119536E-05,
-        "outSlope": 0.000100053148,
+        "value": 10.768129,
+        "inSlope": 5.5811954E-05,
+        "outSlope": 0.00010005315,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 4150.0,
-        "value": 10.8431692,
-        "inSlope": 0.000100053148,
+        "value": 10.843169,
+        "inSlope": 0.00010005315,
         "outSlope": 6.698608E-05,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       },
       {
         "time": 5050.0,
-        "value": 10.9034567,
+        "value": 10.903457,
         "inSlope": 6.698608E-05,
-        "outSlope": -0.000162159922,
+        "outSlope": -0.00016215992,
         "weightedMode": 0,
-        "inWeight": 0.333333343,
-        "outWeight": 0.333333343
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
       }
     ],
     "m_PreInfinity": 2,

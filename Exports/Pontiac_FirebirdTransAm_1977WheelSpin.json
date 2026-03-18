@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Pontiac_FirebirdTransAm_1977WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1065.9728,
+        "value": 0.7153051,
+        "inSlope": 1.0994796E-05,
+        "outSlope": 1.0994796E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3808.3794,
+        "value": 0.7454573,
+        "inSlope": 1.0994796E-05,
+        "outSlope": -0.0030056485,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3964.559,
+        "value": 0.27603605,
+        "inSlope": -0.0030056485,
+        "outSlope": -0.0008992561,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4271.5195,
+        "value": 0.0,
+        "inSlope": -0.0008992561,
+        "outSlope": -0.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4730.57,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0012626183,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4979.679,
+        "value": 0.31453007,
+        "inSlope": 0.0012626183,
+        "outSlope": 0.016328856,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5008.0405,
+        "value": 0.77763814,
+        "inSlope": 0.016328856,
+        "outSlope": 7.042708E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7646.909,
+        "value": 0.96348596,
+        "inSlope": 7.042708E-05,
+        "outSlope": 7.042708E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

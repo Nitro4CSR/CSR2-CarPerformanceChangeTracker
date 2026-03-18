@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Ferrari_849Testarossa_2026WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 1.0016122,
+        "inSlope": 4.761699E-07,
+        "outSlope": 1.2500661E-06,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5644.8813,
+        "value": 1.0086687,
+        "inSlope": 1.2500661E-06,
+        "outSlope": -0.001872403,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6045.928,
+        "value": 0.25774732,
+        "inSlope": -0.001872403,
+        "outSlope": -0.0016716222,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6200.118,
+        "value": 0.0,
+        "inSlope": -0.0016716222,
+        "outSlope": -0.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6747.074,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0011580858,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6945.374,
+        "value": 0.22964819,
+        "inSlope": 0.0011580858,
+        "outSlope": 0.0010100985,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7714.9507,
+        "value": 1.0069964,
+        "inSlope": 0.0010100985,
+        "outSlope": 2.3027023E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 8337.58,
+        "value": 1.0213337,
+        "inSlope": 2.3027023E-05,
+        "outSlope": 1.8540391E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 8990.613,
+        "value": 1.0334412,
+        "inSlope": 1.8540391E-05,
+        "outSlope": 1.5969033E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

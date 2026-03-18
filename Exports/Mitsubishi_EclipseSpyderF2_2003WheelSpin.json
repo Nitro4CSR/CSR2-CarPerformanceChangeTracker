@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Mitsubishi_EclipseSpyderF2_2003WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1055.5759,
+        "value": 0.55575645,
+        "inSlope": 1.5879143E-05,
+        "outSlope": 1.5879143E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4486.5864,
+        "value": 0.61023796,
+        "inSlope": 1.5879143E-05,
+        "outSlope": -0.0008155839,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5234.8086,
+        "value": 0.0,
+        "inSlope": -0.0008155839,
+        "outSlope": -0.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5756.074,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.00076517713,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6582.407,
+        "value": 0.63229114,
+        "inSlope": 0.00076517713,
+        "outSlope": 0.000107027874,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 8847.163,
+        "value": 0.87468314,
+        "inSlope": 0.000107027874,
+        "outSlope": 4.4622107E-06,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 9945.068,
+        "value": 0.8795822,
+        "inSlope": 4.4622107E-06,
+        "outSlope": 4.4622107E-06,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

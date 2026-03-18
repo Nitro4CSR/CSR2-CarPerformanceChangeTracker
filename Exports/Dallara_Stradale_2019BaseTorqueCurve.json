@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Dallara_Stradale_2019BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 101.23707,
+        "inSlope": 0.6314547,
+        "outSlope": 0.6314547,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1350.0,
+        "value": 322.24622,
+        "inSlope": 0.6314547,
+        "outSlope": 0.38672477,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1750.0,
+        "value": 476.93613,
+        "inSlope": 0.38672477,
+        "outSlope": 0.23046596,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2200.0,
+        "value": 580.6458,
+        "inSlope": 0.23046596,
+        "outSlope": 0.14741847,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2900.0,
+        "value": 683.83875,
+        "inSlope": 0.14741847,
+        "outSlope": 0.09460197,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3650.0,
+        "value": 754.7902,
+        "inSlope": 0.09460197,
+        "outSlope": 0.051363382,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4500.0,
+        "value": 798.4491,
+        "inSlope": 0.051363382,
+        "outSlope": -0.1463775,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5500.0,
+        "value": 652.0716,
+        "inSlope": -0.1463775,
+        "outSlope": -0.20153075,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6200.0,
+        "value": 511.00006,
+        "inSlope": -0.20153075,
+        "outSlope": -0.1527737,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

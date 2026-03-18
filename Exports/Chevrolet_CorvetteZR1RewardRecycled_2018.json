@@ -35,19 +35,19 @@
   "IsOpenTopCar": 0,
   "CarUnlocksInSeason": 0,
   "CarUnlocksWithGacha": "",
-  "MechanicEngineFettleGraphSlope": 0.552317858,
-  "MechanicEngineFettleGraphIntercept": -359.752869,
+  "MechanicEngineFettleGraphSlope": 0.55231786,
+  "MechanicEngineFettleGraphIntercept": -359.75287,
   "MechanicTyreGripFettleGraphSlope": 5.523149,
   "MechanicTyreGripFettleGraphIntercept": -3597.508,
   "EngineConsumableEngineGraphSlope": 0.6636803,
   "EngineConsumableEngineGraphIntercept": -427.0942,
-  "EngineConsumableTyreGraphSlope": 6.63686848,
+  "EngineConsumableTyreGraphSlope": 6.6368685,
   "EngineConsumableTyreGraphIntercept": -4270.9873,
-  "NitrousConsumableBodyGraphSlope": -1.70668387,
-  "NitrousConsumableBodyGraphIntercept": 1332.08923,
-  "TyreConsumableEngineGraphSlope": 0.335967243,
-  "TyreConsumableEngineGraphIntercept": -217.032074,
-  "TyreConsumableTyreGraphSlope": 3.35967255,
+  "NitrousConsumableBodyGraphSlope": -1.7066839,
+  "NitrousConsumableBodyGraphIntercept": 1332.0892,
+  "TyreConsumableEngineGraphSlope": 0.33596724,
+  "TyreConsumableEngineGraphIntercept": -217.03207,
+  "TyreConsumableTyreGraphSlope": 3.3596725,
   "TyreConsumableTyreGraphIntercept": -2170.3208,
   "BaseRedlineRPM": 6600,
   "OptimalLaunchRPM": 5500,
@@ -66,7 +66,7 @@
     }
   },
   "BaseChassisData": {
-    "Mass": 997.903259,
+    "Mass": 997.90326,
     "CosmeticMass": 1614.789,
     "DragCoefficient": 0.503,
     "Width": 1.98,
@@ -93,10 +93,10 @@
     "DebugChangeGearAtMPH": [
       66.508934,
       94.59966,
-      125.872276,
-      152.305466,
-      185.738373,
-      223.978592,
+      125.87228,
+      152.30547,
+      185.73837,
+      223.97859,
       0.0
     ],
     "FinalGearRatio": 3.42,
@@ -122,7 +122,7 @@
     },
     "_RPMVsExtraWheelSpinCurve": {
       "m_FileID": 0,
-      "m_PathID": -7605854982689205176
+      "m_PathID": -5552385077119893596
     },
     "_RPMVsExtraWheelSpinCurveEV": {
       "m_FileID": 0,
@@ -163,6 +163,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -208,6 +209,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -245,6 +247,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -290,6 +293,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -327,6 +331,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -372,6 +377,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -409,6 +415,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -454,6 +461,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -491,6 +499,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -536,6 +545,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -573,6 +583,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -618,6 +629,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -655,6 +667,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -700,6 +713,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -737,6 +751,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -782,6 +797,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -819,6 +835,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -864,6 +881,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -901,6 +919,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -946,6 +965,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -983,6 +1003,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1028,6 +1049,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -1065,6 +1087,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1110,6 +1133,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -1131,7 +1155,7 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": -0.02,
-      "WeightDifference": -13.6077719,
+      "WeightDifference": -13.607772,
       "GripDifference": -15.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
@@ -1147,6 +1171,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1172,7 +1197,7 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -13.6077719,
+      "WeightDifference": -13.607772,
       "GripDifference": -15.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
@@ -1188,6 +1213,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1213,7 +1239,7 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 650.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -11.3398094,
+      "WeightDifference": -11.339809,
       "GripDifference": -12.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
@@ -1229,6 +1255,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1254,7 +1281,7 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -27.2155437,
+      "WeightDifference": -27.215544,
       "GripDifference": -30.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": -2.0,
@@ -1270,6 +1297,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1295,7 +1323,7 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -27.2155437,
+      "WeightDifference": -27.215544,
       "GripDifference": -30.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
@@ -1311,6 +1339,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1336,7 +1365,7 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -54.4310875,
+      "WeightDifference": -54.431087,
       "GripDifference": -60.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
@@ -1352,6 +1381,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1397,6 +1427,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -1434,6 +1465,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1479,6 +1511,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -1516,6 +1549,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1561,6 +1595,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -1598,6 +1633,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1643,6 +1679,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -1664,7 +1701,7 @@
       "AssignedFromDataTorqueCurveMultiplier": 0.0,
       "EngineRevRateDifference": 0.0,
       "DragCoeffDifference": 0.0,
-      "WeightDifference": -27.2155437,
+      "WeightDifference": -27.215544,
       "GripDifference": 0.0,
       "GearShiftTimeDifference": 0.0,
       "TransmissionLossPercentage": 0.0,
@@ -1680,6 +1717,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1725,6 +1763,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -1762,6 +1801,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -1807,6 +1847,7 @@
         0.0,
         0.0,
         0.0,
+        0.0,
         0.0
       ],
       "FinalGearRatioEV": 3.44,
@@ -1844,6 +1885,7 @@
         0.84
       ],
       "DebugChangeGearAtMPHEV": [
+        0.0,
         0.0,
         0.0,
         0.0,

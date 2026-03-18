@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "AstonMartin_DBXSReward_2026WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 1.0038999,
+        "inSlope": 2.5151248E-05,
+        "outSlope": -1.0974498E-07,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4157.037,
+        "value": 1.0034437,
+        "inSlope": -1.0974498E-07,
+        "outSlope": -0.002143295,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4542.865,
+        "value": 0.17650026,
+        "inSlope": -0.002143295,
+        "outSlope": -0.000935844,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4731.4653,
+        "value": 0.0,
+        "inSlope": -0.000935844,
+        "outSlope": -0.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5254.5376,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0009305398,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5455.384,
+        "value": 0.18689537,
+        "inSlope": 0.0009305398,
+        "outSlope": 0.0016686821,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5947.1226,
+        "value": 1.007451,
+        "inSlope": 0.0016686821,
+        "outSlope": 1.9157544E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6878.1943,
+        "value": 1.0252881,
+        "inSlope": 1.9157544E-05,
+        "outSlope": 1.7332239E-05,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 7522.075,
+        "value": 1.036448,
+        "inSlope": 1.7332239E-05,
+        "outSlope": 0.00012787324,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

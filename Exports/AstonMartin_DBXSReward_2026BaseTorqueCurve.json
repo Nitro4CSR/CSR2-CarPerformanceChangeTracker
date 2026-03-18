@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "AstonMartin_DBXSReward_2026BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1100.0,
+        "value": 131.94705,
+        "inSlope": 0.34430787,
+        "outSlope": 0.4733556,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1550.0,
+        "value": 344.95706,
+        "inSlope": 0.4733556,
+        "outSlope": 0.2667734,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2000.0,
+        "value": 465.0051,
+        "inSlope": 0.2667734,
+        "outSlope": 0.18371814,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2750.0,
+        "value": 602.7937,
+        "inSlope": 0.18371814,
+        "outSlope": 0.10734052,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3450.0,
+        "value": 677.93207,
+        "inSlope": 0.10734052,
+        "outSlope": 0.091658674,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4150.0,
+        "value": 742.09314,
+        "inSlope": 0.091658674,
+        "outSlope": 0.06155137,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5000.0,
+        "value": 794.4118,
+        "inSlope": 0.06155137,
+        "outSlope": -0.13735656,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5800.0,
+        "value": 684.52655,
+        "inSlope": -0.13735656,
+        "outSlope": -0.2218571,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6250.0,
+        "value": 584.69086,
+        "inSlope": -0.2218571,
+        "outSlope": -0.16974106,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

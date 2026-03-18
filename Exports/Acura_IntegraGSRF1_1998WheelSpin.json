@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Acura_IntegraGSRF1_1998WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.99602216,
+        "inSlope": -2.5675404E-06,
+        "outSlope": 1.4087733E-06,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4014.2087,
+        "value": 1.0016773,
+        "inSlope": 1.4087733E-06,
+        "outSlope": -0.0014994555,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4544.5947,
+        "value": 0.20638707,
+        "inSlope": -0.0014994555,
+        "outSlope": -0.0011491104,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4724.2007,
+        "value": 0.0,
+        "inSlope": -0.0011491104,
+        "outSlope": -0.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5291.354,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0013543414,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5449.683,
+        "value": 0.21443166,
+        "inSlope": 0.0013543414,
+        "outSlope": 0.0015234755,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5965.5513,
+        "value": 1.0003442,
+        "inSlope": 0.0015234755,
+        "outSlope": 9.949077E-06,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6924.1787,
+        "value": 1.0098816,
+        "inSlope": 9.949077E-06,
+        "outSlope": 7.782478E-06,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 8145.21,
+        "value": 1.0193843,
+        "inSlope": 7.782478E-06,
+        "outSlope": -8.562869E-07,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

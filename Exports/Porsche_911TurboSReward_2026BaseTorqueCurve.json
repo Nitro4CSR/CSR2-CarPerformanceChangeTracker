@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Porsche_911TurboSReward_2026BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 131.70367,
+        "inSlope": 1.3042852,
+        "outSlope": 1.3042852,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1200.0,
+        "value": 392.5607,
+        "inSlope": 1.3042852,
+        "outSlope": 0.8454689,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1450.0,
+        "value": 603.9279,
+        "inSlope": 0.8454689,
+        "outSlope": 0.48084053,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1800.0,
+        "value": 772.2221,
+        "inSlope": 0.48084053,
+        "outSlope": 0.25392503,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2600.0,
+        "value": 975.3621,
+        "inSlope": 0.25392503,
+        "outSlope": 0.15341654,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3500.0,
+        "value": 1113.437,
+        "inSlope": 0.15341654,
+        "outSlope": -0.18418582,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6050.0,
+        "value": 643.7632,
+        "inSlope": -0.18418582,
+        "outSlope": -0.15333533,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7500.0,
+        "value": 421.42694,
+        "inSlope": -0.15333533,
+        "outSlope": -0.1378812,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

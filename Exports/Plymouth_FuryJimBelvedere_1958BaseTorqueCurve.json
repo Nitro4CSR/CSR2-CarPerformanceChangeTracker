@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Plymouth_FuryJimBelvedere_1958BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 350.0,
+        "value": 144.22705,
+        "inSlope": 0.599814,
+        "outSlope": 0.599814,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 800.0,
+        "value": 414.14334,
+        "inSlope": 0.599814,
+        "outSlope": 0.25396237,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1500.0,
+        "value": 591.917,
+        "inSlope": 0.25396237,
+        "outSlope": 0.1784199,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2350.0,
+        "value": 743.5739,
+        "inSlope": 0.1784199,
+        "outSlope": 0.17924798,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3200.0,
+        "value": 895.9347,
+        "inSlope": 0.17924798,
+        "outSlope": 0.18747681,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4000.0,
+        "value": 1045.9161,
+        "inSlope": 0.18747681,
+        "outSlope": -0.20082246,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5900.0,
+        "value": 664.35345,
+        "inSlope": -0.20082246,
+        "outSlope": -0.25103506,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6500.0,
+        "value": 513.7324,
+        "inSlope": -0.25103506,
+        "outSlope": -0.29840916,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

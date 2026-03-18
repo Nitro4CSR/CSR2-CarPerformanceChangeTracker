@@ -1,0 +1,127 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Hennessey_VenomF5Revolution_2023BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 132.49617,
+        "inSlope": 0.0012778015,
+        "outSlope": 0.0012778015,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2000.0,
+        "value": 133.77397,
+        "inSlope": 0.0012778015,
+        "outSlope": 11.232434,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2050.0,
+        "value": 695.3957,
+        "inSlope": 11.232434,
+        "outSlope": 0.27581847,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2150.0,
+        "value": 722.97754,
+        "inSlope": 0.27581847,
+        "outSlope": 0.3563029,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2300.0,
+        "value": 776.423,
+        "inSlope": 0.3563029,
+        "outSlope": 0.25766662,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2900.0,
+        "value": 931.02295,
+        "inSlope": 0.25766662,
+        "outSlope": 0.21842837,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4250.0,
+        "value": 1225.9012,
+        "inSlope": 0.21842837,
+        "outSlope": 0.1827428,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5250.0,
+        "value": 1408.644,
+        "inSlope": 0.1827428,
+        "outSlope": 0.12673323,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6000.0,
+        "value": 1503.694,
+        "inSlope": 0.12673323,
+        "outSlope": -0.09612174,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 6750.0,
+        "value": 1431.6027,
+        "inSlope": -0.09612174,
+        "outSlope": -0.158847,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7500.0,
+        "value": 1312.4674,
+        "inSlope": -0.158847,
+        "outSlope": -0.21281849,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 8500.0,
+        "value": 1099.6489,
+        "inSlope": -0.21281849,
+        "outSlope": -0.018228302,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

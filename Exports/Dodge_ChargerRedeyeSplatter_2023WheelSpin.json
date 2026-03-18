@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Dodge_ChargerRedeyeSplatter_2023WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.9969978,
+        "inSlope": 2.204201E-05,
+        "outSlope": 8.665337E-07,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4163.771,
+        "value": 1.0006058,
+        "inSlope": 8.665337E-07,
+        "outSlope": -0.002011486,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4539.6284,
+        "value": 0.24457388,
+        "inSlope": -0.002011486,
+        "outSlope": -0.001155556,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4751.279,
+        "value": 0.0,
+        "inSlope": -0.001155556,
+        "outSlope": -0.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5266.3105,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0011955308,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5457.435,
+        "value": 0.22849523,
+        "inSlope": 0.0011955308,
+        "outSlope": 0.0017712149,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5895.9663,
+        "value": 1.0052283,
+        "inSlope": 0.0017712149,
+        "outSlope": 1.0642838E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7101.4624,
+        "value": 1.0180582,
+        "inSlope": 1.0642838E-05,
+        "outSlope": 1.4271251E-05,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 8012.7446,
+        "value": 1.0310633,
+        "inSlope": 1.4271251E-05,
+        "outSlope": 0.00010367239,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Mazda_RX7F2_1993BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 1000.0,
+        "value": 154.94234,
+        "inSlope": 0.0003451575,
+        "outSlope": 0.0003451575,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1998.0,
+        "value": 155.2868,
+        "inSlope": 0.0003451575,
+        "outSlope": 209.73193,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2000.0,
+        "value": 574.7507,
+        "inSlope": 209.73193,
+        "outSlope": 0.6425637,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2500.0,
+        "value": 896.03253,
+        "inSlope": 0.6425637,
+        "outSlope": 0.025342297,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3600.0,
+        "value": 923.90906,
+        "inSlope": 0.025342297,
+        "outSlope": 0.01952948,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4600.0,
+        "value": 943.43854,
+        "inSlope": 0.01952948,
+        "outSlope": 0.0024874115,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5400.0,
+        "value": 945.42847,
+        "inSlope": 0.0024874115,
+        "outSlope": -0.19956522,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6800.0,
+        "value": 666.0372,
+        "inSlope": -0.19956522,
+        "outSlope": -0.18677182,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

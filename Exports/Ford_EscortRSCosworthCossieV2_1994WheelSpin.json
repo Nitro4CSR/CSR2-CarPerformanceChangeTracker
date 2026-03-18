@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Ford_EscortRSCosworthCossieV2_1994WheelSpin",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.8300784,
+        "inSlope": -3.656539E-06,
+        "outSlope": -1.4910936E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1907.4048,
+        "value": 0.80163723,
+        "inSlope": -1.4910936E-05,
+        "outSlope": -0.00059944973,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2934.4446,
+        "value": 0.1859785,
+        "inSlope": -0.00059944973,
+        "outSlope": -0.0008792224,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3145.9707,
+        "value": 0.0,
+        "inSlope": -0.0008792224,
+        "outSlope": -0.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3647.912,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0010188746,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3827.7976,
+        "value": 0.18328075,
+        "inSlope": 0.0010188746,
+        "outSlope": 0.00083187263,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4559.2793,
+        "value": 0.79178035,
+        "inSlope": 0.00083187263,
+        "outSlope": -2.1854737E-06,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 10209.666,
+        "value": 0.7794316,
+        "inSlope": -2.1854737E-06,
+        "outSlope": 1.29756845E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

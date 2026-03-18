@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7467269084997592608
+  },
+  "m_Name": "Hyundai_IONIQ5NNPX1RewardRecycled_2024EV Wheelspin Curve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.9525677,
+        "inSlope": 0.00010998618,
+        "outSlope": -3.4265079E-06,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2105.6838,
+        "value": 0.94535255,
+        "inSlope": -3.4265079E-06,
+        "outSlope": -2.8393126E-06,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5245.8037,
+        "value": 0.9364368,
+        "inSlope": -2.8393126E-06,
+        "outSlope": 2.8246438E-06,
+        "weightedMode": 0,
+        "inWeight": 0.0,
+        "outWeight": 0.0
+      },
+      {
+        "time": 6762.4004,
+        "value": 0.9407206,
+        "inSlope": 2.8246438E-06,
+        "outSlope": -0.0024778266,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7100.61,
+        "value": 0.10269624,
+        "inSlope": -0.0024778266,
+        "outSlope": -0.00015339167,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 7770.1133,
+        "value": 0.0,
+        "inSlope": -0.00015339167,
+        "outSlope": -0.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 8309.134,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.00025973798,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 8688.471,
+        "value": 0.09852821,
+        "inSlope": 0.00025973798,
+        "outSlope": 0.001612132,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 9209.877,
+        "value": 0.9391039,
+        "inSlope": 0.001612132,
+        "outSlope": 1.424133E-05,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 12249.484,
+        "value": 0.98239195,
+        "inSlope": 1.424133E-05,
+        "outSlope": -1.011021E-06,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

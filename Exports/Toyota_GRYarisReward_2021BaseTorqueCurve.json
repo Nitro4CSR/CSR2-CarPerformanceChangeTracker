@@ -1,0 +1,91 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9218491004411354591
+  },
+  "m_Name": "Toyota_GRYarisReward_2021BaseTorqueCurve",
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 100.0,
+        "value": 4.5801253,
+        "inSlope": 3.0824354,
+        "outSlope": 1.36604,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 350.0,
+        "value": 346.09012,
+        "inSlope": 1.36604,
+        "outSlope": 0.12956066,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1150.0,
+        "value": 449.73865,
+        "inSlope": 0.12956066,
+        "outSlope": 0.058219496,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 2000.0,
+        "value": 499.22522,
+        "inSlope": 0.058219496,
+        "outSlope": 0.022429755,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 3100.0,
+        "value": 523.89795,
+        "inSlope": 0.022429755,
+        "outSlope": 0.023674114,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 4000.0,
+        "value": 545.20465,
+        "inSlope": 0.023674114,
+        "outSlope": -0.11489386,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 5550.0,
+        "value": 367.11917,
+        "inSlope": -0.11489386,
+        "outSlope": -0.17867306,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 6350.0,
+        "value": 224.18073,
+        "inSlope": -0.17867306,
+        "outSlope": -0.25130355,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}
